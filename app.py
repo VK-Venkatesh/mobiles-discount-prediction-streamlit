@@ -101,3 +101,4 @@ elif page == "📊 Prediction":
         st.success(f"💰 Predicted Discount Price: ₹{prediction:,.2f}")
 
 
+
