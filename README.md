@@ -218,24 +218,6 @@ Features:
 * Visuals (price vs specs, discount distributions)
 * On‑the‑fly prediction panel
 
----
-
-## 🚀 Getting Started
-
-**Option A – venv + pip**
-
-```bash
-python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-**Option B – Conda**
-
-```bash\ nconda env create -f environment.yml
-conda activate mobiles-discount
-```
-
 **Environment**
 
 * Copy `.env.example` → `.env` and set variables if needed (proxies, app secrets)
@@ -247,44 +229,6 @@ make scrape     # runs both scrapers with sensible defaults
 make process    # cleaning + merge + schema checks
 make train      # train best model
 make app        # launch streamlit
-```
-
----
-
-## ✅ Reproducibility & Quality
-
-* **Fixed random seeds** for splits & models
-* **Versioned artifacts** in `/artifacts`
-* **Unit tests** for schema/utilities (`pytest`)
-* **Pre‑commit hooks**: black, isort, flake8
-* **CI**: GitHub Actions workflow for tests & lint
-
----
-
-## 📈 Results (example placeholders)
-
-* `MAE` ≈ *x.xx* %, `RMSE` ≈ *y.yy* %, `R²` ≈ *0.zz*
-* Feature importance: specs > popularity > brand\_tier > platform
-
-> Replace with your actual metrics from `evaluate.py`.
-
----
-
-## 🔐 Ethics & Compliance
-
-* Respect site ToS and robots; throttle and randomize requests.
-* For research/educational use. Do **not** overload source sites.
-* Remove PII and comply with platform policies.
-
----
-
-## 🧭 Roadmap
-
-* [ ] Add scheduling for periodic scraping
-* [ ] Great Expectations data docs
-* [ ] Hyperparameter search with Optuna
-* [ ] Model monitoring (drift + data quality)
-* [ ] Dockerfile + deploy on Streamlit Cloud/Render
 
 ---
 
@@ -306,15 +250,15 @@ Thanks to Flipkart and Amazon for publicly visible catalog pages used strictly f
 
 ---
 
-## 🔗 Quick Commands (Copy‑Paste)
+## 🔗 Quick Commands
 
 ```bash
 # 1) Scrape
-python -m src.scrapers.flipkart_scraper --pages 50 --min_items 500 --out data/raw/flipkart_mobiles_raw.jsonl
-python -m src.scrapers.amazon_scraper  --pages 50 --min_items 500 --out data/raw/amazon_mobiles_raw.jsonl
+python -m src.scrapers.flipkart_scraper --pages 50 --min_items 500 --out data/raw/flipkart_mobiles_raw.csv
+python -m src.scrapers.amazon_scraper  --pages 50 --min_items 500 --out data/raw/amazon_mobiles_raw.csv
 
 # 2) Clean + merge
-python -m src.data.clean_merge --flipkart data/raw/flipkart_mobiles_raw.jsonl --amazon data/raw/amazon_mobiles_raw.jsonl --out_dir data/processed
+python -m src.data.clean_merge --flipkart data/raw/flipkart_mobiles_raw.csv --amazon data/raw/amazon_mobiles_raw.csv --out_dir data/processed
 
 # 3) Train + evaluate
 python -m src.models.train --data data/processed/ecommerce_final.csv --target discount_percent --out_dir artifacts
