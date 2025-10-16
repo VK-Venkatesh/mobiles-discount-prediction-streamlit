@@ -1,0 +1,686 @@
+Brand,Brand_Model,Color,Platform,MRP,Selling_Price,Discount_Price,Discount,RAM,ROM,Display_Size,Battery,Front_Cam(MP),Back_Cam(MP),Processor,Ratings,Rating_Count,Review_Count
+POCO,POCO C75 5G,Enchanted Green,Flipkart,10999.0,7699.0,3300.0,30.0,4,64,6.88,5160,5,50,4s Gen 2 5G Processor,4.3,83280,4112
+POCO,POCO M6 Plus,Graphite Black,Flipkart,15999.0,10080.0,5919.0,36.0,6,128,6.79,5030,13,108,Snapdragon 4 Gen2 AE Processor,4.2,59597,3573
+CMF,CMF by Nothing,Black,Flipkart,22999.0,18999.0,4000.0,17.0,8,128,6.77,5000,16,50,Dimensity 7300 Pro 5G Processor,4.4,15881,1311
+Motorola,Motorola G85 5G,Viva Magenta,Flipkart,20999.0,15999.0,5000.0,23.0,8,128,6.67,5000,32,50,6s Gen 3 Processor,4.4,217987,11163
+OPPO,OPPO K13 5G,Prism Black,Flipkart,22999.0,17999.0,5000.0,21.0,8,128,6.67,7000,16,50,Snapdragon 6 Gen 4 Processor,4.5,24615,1677
+Nokia,Nokia 105 Single,Charcoal,Flipkart,1595.0,999.0,596.0,37.0,,,1.77,1000,0,0,SC6531E Processor,3.9,162924,10312
+MOTOROLA,MOTOROLA g35 5G,Midnight Black,Flipkart,12499.0,9999.0,2500.0,20.0,4,128,6.72,5000,16,50,T760 Processor,4.2,64998,4764
+POCO,POCO F7 5G,Cyber Silver Edition,Flipkart,37999.0,33999.0,4000.0,10.0,12,512,6.83,7550,20,50,8s Gen 4 Processor,4.4,5646,699
+Motorola,Motorola g45 5G,Viva Magenta,Flipkart,14999.0,11999.0,3000.0,20.0,8,128,6.5,5000,16,50,Snapdragon 6s Gen 3 Processor,4.3,195416,10117
+vivo,vivo T4 Lite,Titanium Gold,Flipkart,13999.0,9999.0,4000.0,28.0,4,128,6.74,6000,5,50,Dimensity 6300 5G Processor,4.4,7237,216
+Samsung,Samsung Guru Music,Black,Flipkart,2349.0,949.0,1400.0,59.0,,,1.8,800,0,0,NA Processor,3.1,16817,1264
+Samsung,Samsung Guru 1200,Black,Flipkart,1699.0,786.0,913.0,53.0,,,1.52,800,,,,3.1,5194,373
+POCO,POCO C75 5G,Aqua Bliss,Flipkart,11499.0,8499.0,3000.0,26.0,4,128,6.88,5160,5,50,4s Gen 2 5G Processor,4.3,83280,4112
+Samsung,Samsung Galaxy F16,Glam Green,Flipkart,17499.0,11499.0,6000.0,34.0,6,128,6.657,5000,13,50,Dimensity 6300 Processor,4.2,4683,309
+REDMI,REDMI A5,Just Black,Flipkart,8999.0,6499.0,2500.0,27.0,3,64,6.88,5200,8,32,T7250 Processor,4.3,2309,116
+MOTOROLA,MOTOROLA Edge 60,PANTONE Amazonite,Flipkart,25999.0,22999.0,3000.0,11.0,8,256,6.67,5500,32,50,Dimensity 7400 Processor,4.5,42821,2423
+Motorola,Motorola g45 5G,Viva Magenta,Flipkart,12999.0,10999.0,2000.0,15.0,4,128,6.5,5000,16,50,Snapdragon 6s Gen 3 Processor,4.3,48119,2944
+Apple,Apple iPhone 16,White,Flipkart,79900.0,69999.0,9901.0,12.0,,128,6.1,,12,48,A18 Chip 6 Core Processor Processor,4.6,19106,793
+POCO,POCO M7 5G,Mint Green,Flipkart,12999.0,9299.0,3700.0,28.0,6,128,6.88,5160,8,50,4 Gen 2 5G Processor,4.1,25331,1321
+Apple,Apple iPhone 16,Black,Flipkart,79900.0,69999.0,9901.0,12.0,,128,6.1,,12,48,A18 Chip 6 Core Processor Processor,4.6,19106,793
+Infinix,Infinix Note 50s,Marine Drift,Flipkart,19999.0,14999.0,5000.0,25.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.4,1276,86
+OPPO,OPPO K13x 5G,Midnight Violet,Flipkart,15999.0,11999.0,4000.0,25.0,4,128,6.67,6000,8,50,Dimensity 6300 Processor,4.5,1949,310
+REDMI,REDMI A5,Just Black,Flipkart,8999.0,6499.0,2500.0,27.0,3,64,6.88,5200,8,32,T7250 Processor,4.3,2309,116
+vivo,vivo T4x 5G,Marine Blue,Flipkart,17999.0,13999.0,4000.0,22.0,6,128,6.72,6500,8,50,Dimensity 7300 5G Processor,4.4,91091,4758
+REDMI,REDMI 13 5G,Orchid Pink,Flipkart,17999.0,11967.0,6032.0,33.0,6,128,6.79,5030,,108,Qualcomm SM4450 Snapdragon 4 Gen 2 AE 4 nm Processor,4.2,42234,2172
+MOTOROLA,MOTOROLA Edge 60,PANTONE Zephyr,Flipkart,25999.0,22999.0,3000.0,11.0,8,256,6.67,5500,32,50,Dimensity 7400 Processor,4.5,42821,2423
+POCO,POCO C71,Power Black,Flipkart,9999.0,6999.0,3000.0,30.0,6,128,6.88,5200,8,32,Unisoc T7250 Processor,4.1,9351,513
+Motorola,Motorola G85 5G,Olive Green,Flipkart,20999.0,15999.0,5000.0,23.0,8,128,6.67,5000,32,50,6s Gen 3 Processor,4.4,217987,11163
+MOTOROLA,MOTOROLA Edge 60,PANTONE Slipstream,Flipkart,25999.0,22999.0,3000.0,11.0,8,256,6.67,5500,32,50,Dimensity 7400 Processor,4.5,42821,2423
+Samsung,Samsung Galaxy F16,Vibing Blue,Flipkart,18999.0,13499.0,5500.0,28.0,8,128,6.657,5000,13,50,Dimensity 6300 Processor,4.2,2075,150
+itel,itel it5330,Black,Flipkart,1799.0,1349.0,450.0,25.0,,,2.8,1900,0,8,Unisoc Processor,4.1,18350,1123
+Motorola,Motorola g45 5G,Brilliant Blue,Flipkart,12999.0,10999.0,2000.0,15.0,4,128,6.5,5000,16,50,Snapdragon 6s Gen 3 Processor,4.3,48119,2944
+vivo,vivo T4 Lite,Titanium Gold,Flipkart,13999.0,9999.0,4000.0,28.0,4,128,6.74,6000,5,50,Dimensity 6300 5G Processor,4.4,7237,216
+Motorola,Motorola g45 5G,Brilliant Green,Flipkart,12999.0,10999.0,2000.0,15.0,4,128,6.5,5000,16,50,Snapdragon 6s Gen 3 Processor,4.3,48119,2944
+POCO,POCO M7 Pro,Lavender Frost,Flipkart,20999.0,14999.0,6000.0,28.0,8,256,6.67,5110,20,50,Dimensity 7025 Ultra Processor,4.2,6921,707
+REDMI,REDMI 13 5G,Orchid Pink,Flipkart,17999.0,11967.0,6032.0,33.0,6,128,6.79,5030,,108,Qualcomm SM4450 Snapdragon 4 Gen 2 AE 4 nm Processor,4.2,42234,2172
+Samsung,Samsung Guru Music,Blue,Flipkart,1999.0,948.0,1051.0,52.0,,,1.8,800,,,,3.1,16817,1264
+Motorola,Motorola Edge 50,Marshmallow Blue,Flipkart,25999.0,18999.0,7000.0,26.0,8,128,6.7,5000,32,50,7s Gen 2 Processor,4.4,129175,8373
+POCO,POCO M7 Pro,Lunar Dust,Flipkart,18999.0,12999.0,6000.0,31.0,6,128,6.67,5110,20,50,Dimensity 7025 Ultra Processor,4.3,17015,1472
+Tecno,Tecno Spark Go,Turquoise Green,Flipkart,8499.0,6699.0,1800.0,21.0,3,64,6.67,5000,,13,T7250 Processor,4.3,,
+POCO,POCO C75 5G,Enchanted Green,Flipkart,11499.0,8499.0,3000.0,26.0,4,128,6.88,5160,5,50,4s Gen 2 5G Processor,4.3,83280,4112
+MOTOROLA,MOTOROLA g35 5G,Leaf Green,Flipkart,12499.0,9999.0,2500.0,20.0,4,128,6.72,5000,16,50,T760 Processor,4.2,64998,4764
+vivo,vivo T4 Lite,Titanium Gold,Flipkart,13999.0,9999.0,4000.0,28.0,4,128,6.74,6000,5,50,Dimensity 6300 5G Processor,4.4,7237,216
+Motorola,Motorola Edge 50,Forest Blue,Flipkart,25999.0,18999.0,7000.0,26.0,8,128,6.7,5000,32,50,7s Gen 2 Processor,4.4,129175,8373
+Samsung,Samsung Galaxy F16,Bling Black,Flipkart,17499.0,11499.0,6000.0,34.0,6,128,6.657,5000,13,50,Dimensity 6300 Processor,4.2,4683,309
+Samsung,Samsung SM 310E,Black,Flipkart,1999.0,990.0,1009.0,50.0,,,1.9,800,,2,,3.2,317,27
+OPPO,OPPO K13 5G,Prism Black,Flipkart,22999.0,17999.0,5000.0,21.0,8,128,6.67,7000,16,50,Snapdragon 6 Gen 4 Processor,4.5,24615,1677
+Motorola,Motorola Edge 50,Marshmallow Blue,Flipkart,27999.0,20999.0,7000.0,25.0,12,256,6.7,5000,32,50,7s Gen 2 Processor,4.4,157688,10859
+Motorola,Motorola Edge 50,Forest Blue,Flipkart,27999.0,20999.0,7000.0,25.0,12,256,6.7,5000,32,50,7s Gen 2 Processor,4.4,157688,10859
+Samsung,Samsung Galaxy F16,Bling Black,Flipkart,15999.0,10749.0,5250.0,32.0,4,128,6.657,5000,13,50,Dimensity 6300 Processor,4.2,2787,175
+Motorola,Motorola Edge 50,Forest Green,Flipkart,25999.0,18999.0,7000.0,26.0,8,128,6.7,5000,32,50,7s Gen 2 Processor,4.4,129175,8373
+OnePlus,OnePlus Nord CE4,MEGA BLUE,Flipkart,20999.0,16843.0,4156.0,19.0,8,128,6.67,5500,,50,,4.4,25654,1235
+Apple,Apple iPhone 16,Ultramarine,Flipkart,79900.0,69999.0,9901.0,12.0,,128,6.1,,12,48,A18 Chip 6 Core Processor Processor,4.6,19106,793
+POCO,POCO X7 5G,Cosmic Silver,Flipkart,24999.0,15999.0,9000.0,36.0,8,128,6.67,5500,20,50,Dimensity 7300 Ultra Processor,4.3,13142,1155
+Infinix,Infinix Note 50s,Burgundy Red,Flipkart,19999.0,14999.0,5000.0,25.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.4,1276,86
+realme,realme P3x 5G,Lunar Silver,Flipkart,16999.0,12999.0,4000.0,23.0,6,128,6.72,6000,8,50,Dimensity 6400 Processor,4.4,25519,891
+IQOO,IQOO Z10X 5G,Ultramarine,Flipkart,17499.0,13690.0,3809.0,21.0,6,128,6.7,6500,,50,,4.4,2066,120
+OPPO,OPPO K13 5G,Prism Black,Flipkart,22999.0,17999.0,5000.0,21.0,8,128,6.67,7000,16,50,Snapdragon 6 Gen 4 Processor,4.5,24615,1677
+OPPO,OPPO K13 5G,Prism Black,Flipkart,22999.0,17999.0,5000.0,21.0,8,128,6.67,7000,16,50,Snapdragon 6 Gen 4 Processor,4.5,24615,1677
+POCO,POCO M7 5G,Ocean Blue,Flipkart,13999.0,10299.0,3700.0,26.0,8,128,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,5232,314
+Infinix,Infinix Note 50s,Burgundy Red,Flipkart,19999.0,14999.0,5000.0,25.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.4,1276,86
+POCO,POCO C75 5G,Silver Stardust,Flipkart,10999.0,7699.0,3300.0,30.0,4,64,6.88,5160,5,50,4s Gen 2 5G Processor,4.3,83280,4112
+Samsung,Samsung Galaxy A35,Awesome Navy,Flipkart,36999.0,21999.0,15000.0,40.0,8,256,6.6,5000,13,50,Samsung Exynos 1380 Processor,4.3,22174,1486
+POCO,POCO M7 5G,Satin Black,Flipkart,13999.0,10299.0,3700.0,26.0,8,128,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,5232,314
+vivo,vivo T4x 5G,Marine Blue,Flipkart,17999.0,13999.0,4000.0,22.0,6,128,6.72,6500,8,50,Dimensity 7300 5G Processor,4.4,91091,4758
+Samsung,Samsung Galaxy F16,Vibing Blue,Flipkart,15999.0,10749.0,5250.0,32.0,4,128,6.657,5000,13,50,Dimensity 6300 Processor,4.2,2787,175
+realme,realme 14x 5G,Crystal Black,Flipkart,16999.0,14999.0,2000.0,11.0,6,128,6.67,6000,8,50,Dimensity 6300 Processor,4.3,10608,523
+Samsung,Samsung Guru1200,Black,Flipkart,1799.0,797.0,1002.0,55.0,,,1.8,800,,,,3.0,1596,137
+Infinix,Infinix Note 50x,Enchanted Purple,Flipkart,14999.0,11499.0,3500.0,23.0,6,128,6.67,5500,8,50,Dimensity 7300 Ultimate Processor,4.3,10347,1032
+Nokia,Nokia 105 Classic,Charcoal,Flipkart,1447.0,1440.0,7.0,,,,1.77,800,0,0,SC6531E Processor,3.8,4485,193
+Motorola,Motorola G85 5G,Cobalt Blue,Flipkart,20999.0,15999.0,5000.0,23.0,8,128,6.67,5000,32,50,6s Gen 3 Processor,4.4,217987,11163
+Kechaoda,Kechaoda A26_black,Black,Flipkart,1499.0,884.0,615.0,41.0,,16,0.66,800,0,0,NA Processor,4.0,2984,87
+Samsung,Samsung M05,Mint Green,Flipkart,9999.0,6646.0,3353.0,33.0,4,64,6.7,5000,,50,,4.3,2731,116
+Samsung,Samsung Galaxy M35,Moonlight Blue,Flipkart,24499.0,15939.0,8560.0,34.0,6,128,6.6,6000,,50,,4.4,24821,1984
+Infinix,Infinix Note 50x,Enchanted Purple,Flipkart,14999.0,11499.0,3500.0,23.0,6,128,6.67,5500,8,50,Dimensity 7300 Ultimate Processor,4.3,10347,1032
+Motorola,Motorola Edge 50,Hot Pink,Flipkart,27999.0,20999.0,7000.0,25.0,12,256,6.7,5000,32,50,7s Gen 2 Processor,4.4,157688,10859
+REDMI,REDMI 13 5G,Orchid Pink,Flipkart,17999.0,12499.0,5500.0,30.0,6,128,6.79,5030,13,108,4 Gen 2 AE Processor,4.2,42234,2172
+Tecno,Tecno Pova 6,Azure Sky,Flipkart,15999.0,9499.0,6500.0,40.0,6,128,6.67,5000,8,108,Dimensity 6300 5G Processor,4.3,3544,202
+Tecno,Tecno Pova 6,Azure Sky,Flipkart,15999.0,9499.0,6500.0,40.0,6,128,6.67,5000,8,108,Dimensity 6300 5G Processor,4.3,3544,202
+MOTOROLA,MOTOROLA Edge 60,PANTONE Mykonos Blue,Flipkart,25999.0,22999.0,3000.0,11.0,8,256,6.67,5500,32,50,Dimensity 7400 Processor,4.5,42821,2423
+vivo,vivo T4 5G,Phantom Grey,Flipkart,25999.0,21999.0,4000.0,15.0,8,128,6.77,7300,32,50,Snapdragon 7s Gen 3 5G Processor,4.5,40354,1979
+POCO,POCO M7 Pro,Lavender Frost,Flipkart,18999.0,12999.0,6000.0,31.0,6,128,6.67,5110,20,50,Dimensity 7025 Ultra Processor,4.3,17015,1472
+REDMI,REDMI A5,Just Black,Flipkart,8999.0,6499.0,2500.0,27.0,3,64,6.88,5200,8,32,T7250 Processor,4.3,2309,116
+Samsung,Samsung Galaxy A35,Awesome Iceblue,Flipkart,33999.0,19999.0,14000.0,41.0,8,128,6.6,5000,13,50,Samsung Exynos 1380 Processor,4.3,22174,1486
+realme,realme P3 5G,Space Silver,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.67,6000,16,50,6 Gen 4 Processor,4.4,19673,1422
+Infinix,Infinix Note 50s,Marine Drift,Flipkart,19999.0,14999.0,5000.0,25.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.4,1276,86
+IQOO,IQOO Z10X 5G,Ultramarine,Flipkart,17499.0,13690.0,3809.0,21.0,6,128,6.7,6500,,50,,4.4,2066,120
+itel,itel Keypad Mobile,Black,Flipkart,1649.0,1069.0,580.0,35.0,,,2.4,1200,,3,,4.1,366,24
+OPPO,OPPO K13x 5G,Midnight Violet,Flipkart,15999.0,11999.0,4000.0,25.0,4,128,6.67,6000,8,50,Dimensity 6300 Processor,4.5,1949,310
+realme,realme GT 6,Razor Green,Flipkart,43999.0,27999.0,16000.0,36.0,8,256,6.78,5500,32,50,8s Gen 3 Mobile Platform Processor,4.5,3582,370
+realme,realme P2 Pro,Parrot Green,Flipkart,25999.0,16999.0,9000.0,34.0,8,128,6.7,5200,32,50,7s Gen2 Processor,4.4,17510,1251
+realme,realme C61,Marble Black,Flipkart,8999.0,7699.0,1300.0,14.0,4,64,6.745,5000,5,32,T612 Processor,4.4,9818,322
+Nothing,Nothing Phone,3a Grey,Flipkart,32999.0,28999.0,4000.0,12.0,8,128,,5000,50,50,7s Gen3 Processor,4.5,5898,545
+CMF,CMF by Nothing,Black,Flipkart,22999.0,18999.0,4000.0,17.0,8,128,6.77,5000,16,50,Dimensity 7300 Pro 5G Processor,4.4,15881,1311
+realme,realme P2 Pro,Parrot Green,Flipkart,25999.0,16999.0,9000.0,34.0,8,128,6.7,5200,32,50,7s Gen2 Processor,4.4,17510,1251
+vivo,vivo Y19e,Titanium Silver,Flipkart,11999.0,7999.0,4000.0,33.0,4,64,6.74,5500,5,13,T7225 Processor,4.3,1565,56
+Infinix,Infinix Note 50x,Enchanted Purple,Flipkart,14999.0,11499.0,3500.0,23.0,6,128,6.67,5500,8,50,Dimensity 7300 Ultimate Processor,4.3,10347,1032
+realme,realme C61,Marble Black,Flipkart,8999.0,7699.0,1300.0,14.0,4,64,6.745,5000,5,32,T612 Processor,4.4,9818,322
+realme,realme P3 5G,Space Silver,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.67,6000,16,50,6 Gen 4 Processor,4.4,19673,1422
+itel,itel it2165s,Orange,Flipkart,1349.0,879.0,470.0,34.0,,,2.0,1200,,3,Unisoc Processor,4.1,3041,152
+IQOO,IQOO Z10 Lite,Cyber Green,Flipkart,13999.0,10310.0,3689.0,26.0,4,128,6.74,6000,,50,,4.2,91,5
+realme,realme P3 Pro,Saturn Brown,Flipkart,28999.0,19999.0,9000.0,31.0,8,128,6.83,6000,16,50,7s Gen 3 Mobile Platform Processor,4.4,6148,536
+realme,realme C61,Marble Black,Flipkart,8999.0,7699.0,1300.0,14.0,4,64,6.745,5000,5,32,T612 Processor,4.4,9818,322
+Motorola,Motorola G85 5G,Urban Grey,Flipkart,20999.0,15999.0,5000.0,23.0,8,128,6.67,5000,32,50,6s Gen 3 Processor,4.4,217987,11163
+vivo,vivo T4 5G,Phantom Grey,Flipkart,25999.0,21999.0,4000.0,15.0,8,128,6.77,7300,32,50,Snapdragon 7s Gen 3 5G Processor,4.5,40354,1979
+Motorola,Motorola g64 5G,Berry Red,Flipkart,19999.0,15999.0,4000.0,20.0,12,256,6.5,6000,16,50,Dimensity 7025 Processor,4.2,85325,5457
+Tecno,Tecno Spark Go,Turquoise Green,Flipkart,8499.0,6699.0,1800.0,21.0,3,64,6.67,5000,,13,T7250 Processor,4.3,,
+REDMI,REDMI A4 5G,Starry Black,Flipkart,10999.0,8630.0,2369.0,21.0,4,64,6.88,5160,,50,,4.3,7020,337
+OPPO,OPPO Reno14 5G,Pearl White,Flipkart,42999.0,37999.0,5000.0,11.0,8,256,6.59,6000,50,50,Dimensity 8350 Processor,4.4,1129,135
+vivo,vivo T4 5G,Phantom Grey,Flipkart,25999.0,21999.0,4000.0,15.0,8,128,6.77,7300,32,50,Snapdragon 7s Gen 3 5G Processor,4.5,40354,1979
+LAVA,LAVA A1 Josh,Blue,Flipkart,1399.0,992.0,407.0,29.0,,,1.77,1000,,,,4.0,19603,875
+Samsung,Samsung Galaxy S24,Blue,Flipkart,59999.0,35999.0,24000.0,40.0,8,128,6.7,4700,10,50,Exynos 2400e Processor,4.5,12849,1043
+Samsung,Samsung Galaxy S24,Blue,Flipkart,59999.0,35999.0,24000.0,40.0,8,128,6.7,4700,10,50,Exynos 2400e Processor,4.5,12849,1043
+Apple,Apple iPhone 16,Ultramarine,Flipkart,89900.0,79999.0,9901.0,11.0,,128,6.7,,12,48,A18 Chip 6 Core Processor Processor,4.6,3067,171
+OPPO,OPPO F27 Pro+,Midnight Navy,Flipkart,32999.0,18749.0,14250.0,43.0,8,128,6.7,5000,8,64,Dimensity 7050 Processor,4.4,6858,307
+Samsung,Samsung Galaxy S24,Blue,Flipkart,59999.0,35999.0,24000.0,40.0,8,128,6.7,4700,10,50,Exynos 2400e Processor,4.5,12849,1043
+Samsung,Samsung Galaxy S24,Blue,Flipkart,59999.0,35999.0,24000.0,40.0,8,128,6.7,4700,10,50,Exynos 2400e Processor,4.5,12849,1043
+Samsung,Samsung Galaxy S24,Titanium Gray,Flipkart,134999.0,82997.0,52002.0,38.0,12,256,6.8,5000,12,200,Snapdragon 8 Gen 3 Processor,4.6,4020,353
+OnePlus,OnePlus Nord CE4,MEGA BLUE,Flipkart,20999.0,16838.0,4161.0,19.0,8,128,6.67,5500,,50,,4.4,25654,1235
+Samsung,Samsung Galaxy A35,Awesome Navy,Flipkart,33999.0,19999.0,14000.0,41.0,8,128,6.6,5000,13,50,Samsung Exynos 1380 Processor,4.3,22174,1486
+POCO,POCO X7 5G,Yellow,Flipkart,24999.0,15999.0,9000.0,36.0,8,128,6.67,5500,20,50,Dimensity 7300 Ultra Processor,4.3,13142,1155
+Infinix,Infinix Note 50s,Marine Drift,Flipkart,19999.0,14999.0,5000.0,25.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.4,1276,86
+POCO,POCO M7 Pro,Olive Twilight,Flipkart,18999.0,12999.0,6000.0,31.0,6,128,6.67,5110,20,50,Dimensity 7025 Ultra Processor,4.3,17015,1472
+Nothing,Nothing Phone,3a White,Flipkart,27999.0,24999.0,3000.0,10.0,8,128,,5000,32,50,7s Gen3 Processor,4.5,29639,2517
+IQOO,IQOO Z10X 5G,Ultramarine,Flipkart,17499.0,13690.0,3809.0,21.0,6,128,6.7,6500,,50,,4.4,2066,120
+IQOO,IQOO Z10X 5G,Ultramarine,Flipkart,17499.0,13690.0,3809.0,21.0,6,128,6.7,6500,,50,,4.4,2066,120
+Infinix,Infinix GT 30,Blade White,Flipkart,31999.0,24999.0,7000.0,21.0,8,256,6.78,5500,13,108,Dimensity 8350 Ultimate Processor,4.6,,
+Samsung,Samsung Galaxy S24,Blue,Flipkart,59999.0,35999.0,24000.0,40.0,8,128,6.7,4700,10,50,Exynos 2400e Processor,4.5,12849,1043
+Nokia,Nokia 105 Single,Cyan,Flipkart,1599.0,1121.0,478.0,29.0,,,1.77,1000,0,0,SC6531E Processor,3.9,162924,10312
+Samsung,Samsung Galaxy S24,Blue,Flipkart,59999.0,35999.0,24000.0,40.0,8,128,6.7,4700,10,50,Exynos 2400e Processor,4.5,12849,1043
+CMF,CMF by Nothing,Black,Flipkart,22999.0,18999.0,4000.0,17.0,8,128,6.77,5000,16,50,Dimensity 7300 Pro 5G Processor,4.4,15881,1311
+IQOO,IQOO Z10 5G,Glacier Silver / Silver,Flipkart,27999.0,23358.0,4641.0,16.0,8,256,6.77,7300,,50,,4.4,2045,114
+Apple,Apple iPhone 16,Ultramarine,Flipkart,99900.0,89999.0,9901.0,9.0,,256,6.7,,12,48,A18 Chip 6 Core Processor Processor,4.6,3067,171
+Samsung,Samsung Galaxy S24,Titanium Black,Flipkart,134999.0,89999.0,45000.0,33.0,12,256,6.8,5000,12,200,Snapdragon 8 Gen 3 Processor,4.6,4020,353
+Infinix,Infinix GT 30,Blade White,Flipkart,31999.0,24999.0,7000.0,21.0,8,256,6.78,5500,13,108,Dimensity 8350 Ultimate Processor,4.4,931,72
+Motorola,Motorola Edge 50,Caneel Bay,Flipkart,41999.0,27999.0,14000.0,33.0,12,256,6.7,4500,50,50,7 Gen 3 Mobile Platform Processor,4.4,65435,4389
+OPPO,OPPO F27 Pro+,Midnight Navy,Flipkart,32999.0,18749.0,14250.0,43.0,8,128,6.7,5000,8,64,Dimensity 7050 Processor,4.4,6858,307
+Nokia,Nokia 105 Classic,Blue,Flipkart,1399.0,1145.0,254.0,18.0,,,1.77,800,0,0,SC6531E Processor,3.6,6828,445
+Samsung,Samsung Galaxy F06,Bahama Blue,Flipkart,13999.0,8699.0,5300.0,37.0,4,128,6.7,5000,8,50,Dimensity 6300 Processor,4.1,17201,1184
+realme,realme P3 Ultra,Neptune Blue,Flipkart,31999.0,22999.0,9000.0,28.0,8,128,6.83,6000,16,50,Dimensity 8350 Ultra Processor,4.4,5684,699
+OPPO,OPPO F27 Pro+,Midnight Navy,Flipkart,32999.0,18749.0,14250.0,43.0,8,128,6.7,5000,8,64,Dimensity 7050 Processor,4.4,6858,307
+OPPO,OPPO F27 Pro+,Midnight Navy,Flipkart,32999.0,18749.0,14250.0,43.0,8,128,6.7,5000,8,64,Dimensity 7050 Processor,4.4,6858,307
+OPPO,OPPO Reno14 5G,Pearl White,Flipkart,42999.0,37999.0,5000.0,11.0,8,256,6.59,6000,50,50,Dimensity 8350 Processor,4.4,1129,135
+Infinix,Infinix Note 50s,Marine Drift,Flipkart,19999.0,14999.0,5000.0,25.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.4,1276,86
+Tecno,Tecno Pova 6,Azure Sky,Flipkart,15999.0,9499.0,6500.0,40.0,6,128,6.67,5000,8,108,Dimensity 6300 5G Processor,4.3,3544,202
+Tecno,Tecno Pova 6,Azure Sky,Flipkart,15999.0,9499.0,6500.0,40.0,6,128,6.67,5000,8,108,Dimensity 6300 5G Processor,4.3,3544,202
+POCO,POCO F7 5G,Frost White,Flipkart,35999.0,31999.0,4000.0,11.0,12,256,6.83,7550,20,50,8s Gen 4 Processor,4.4,5646,699
+hmd,hmd 105 Dual,Black,Flipkart,1499.0,991.0,508.0,33.0,,,2.0,1000,,,SC6531E Processor,4.1,1915,161
+Apple,Apple iPhone 16,Desert Titanium,Flipkart,119900.0,107900.0,12000.0,10.0,,128,6.3,,12,48,A18 Pro Chip 6 Core Processor Processor,4.6,2499,125
+Samsung,Samsung Galaxy S24,Onyx Black,Flipkart,79999.0,52999.0,27000.0,33.0,8,256,6.2,4000,12,50,Exynos 2400 Processor,4.6,6901,390
+POCO,POCO F7 5G,Phantom Black,Flipkart,37999.0,33999.0,4000.0,10.0,12,512,6.83,7550,20,50,8s Gen 4 Processor,4.4,5646,699
+Samsung,Samsung Galaxy S24,Marble Gray,Flipkart,74999.0,46999.0,28000.0,37.0,8,128,6.2,4000,12,50,Exynos 2400 Processor,4.6,6901,390
+Kechaoda,Kechaoda A26,Gold,Flipkart,1499.0,807.0,692.0,46.0,,,0.66,800,0,0,NA Processor,4.0,28250,1586
+Google,Google Pixel 9,Obsidian,Flipkart,79999.0,64999.0,15000.0,18.0,12,256,6.3,4700,5,50,Google Tensor G4 Processor,4.5,3198,316
+Apple,Apple iPhone 13,Midnight,Flipkart,49900.0,44999.0,4901.0,9.0,,128,6.1,,12,12,A15 Bionic Chip Processor,4.6,292993,13973
+OnePlus,OnePlus 13R 5g,Astral Trail,Flipkart,44999.0,39883.0,5116.0,11.0,12,256,6.78,6000,,50,,4.5,2289,168
+realme,realme P3 Ultra,Neptune Blue,Flipkart,31999.0,22999.0,9000.0,28.0,8,128,6.83,6000,16,50,Dimensity 8350 Ultra Processor,4.4,5684,699
+POCO,POCO X7 Pro,Obsidian Black,Flipkart,33999.0,24999.0,9000.0,26.0,12,256,6.67,6550,20,50,Dimensity D8400 Ultra Processor,4.4,4609,577
+Nokia,Nokia 110 Dual,Cloudy Blue,Flipkart,2099.0,1549.0,550.0,26.0,,,6.7,1000,,8,6531E Processor,3.6,3073,196
+Apple,Apple iPhone 16,Pink,Flipkart,89900.0,79999.0,9901.0,11.0,,128,6.7,,12,48,A18 Chip 6 Core Processor Processor,4.6,3067,171
+Samsung,Samsung Galaxy M35,DayBreak Blue,Flipkart,25999.0,16690.0,9309.0,35.0,8,128,6.6,6000,,50,,4.3,3633,249
+Apple,Apple iPhone 14,Starlight,Flipkart,59900.0,52990.0,6910.0,11.0,,128,6.1,,12,12,A15 Bionic Chip 6 Core Processor Processor,4.6,313551,11692
+Apple,Apple iPhone 16,Natural Titanium,Flipkart,119900.0,107900.0,12000.0,10.0,,128,6.3,,12,48,A18 Pro Chip 6 Core Processor Processor,4.6,2499,125
+Kechaoda,Kechaoda A27,Black,Flipkart,1499.0,887.0,612.0,40.0,,,0.66,800,,,,4.0,14513,826
+Samsung,Samsung Galaxy M35,DayBreak Blue,Flipkart,25999.0,16690.0,9309.0,35.0,8,128,6.6,6000,,50,,4.3,3633,249
+OnePlus,OnePlus Nord CE4,MEGA BLUE,Flipkart,20999.0,16838.0,4161.0,19.0,8,128,6.67,5500,,50,,4.4,25654,1235
+Samsung,Samsung Guru 1200,Black,Flipkart,1699.0,792.0,907.0,53.0,,,1.52,800,,,,3.1,5194,373
+IQOO,IQOO Neo 10R,Raging Blue,Flipkart,31999.0,24195.0,7804.0,24.0,8,128,6.78,6400,,50,,4.5,978,75
+Samsung,Samsung Galaxy M35,DayBreak Blue,Flipkart,25999.0,16690.0,9309.0,35.0,8,128,6.6,6000,,50,,4.3,3633,249
+OPPO,OPPO Reno14 5G,Forest Green,Flipkart,42999.0,37999.0,5000.0,11.0,8,256,6.59,6000,50,50,Dimensity 8350 Processor,4.4,1129,135
+REDMI,REDMI 13 5G,Black Diamond,Flipkart,19999.0,13059.0,6940.0,34.0,8,128,6.79,5030,,108,,4.3,10383,593
+REDMI,REDMI A4 5G,Starry Black,Flipkart,10999.0,8630.0,2369.0,21.0,4,64,6.88,5160,,50,,4.3,7020,337
+Samsung,Samsung Galaxy M35,Moonlight Blue,Flipkart,24499.0,15939.0,8560.0,34.0,6,128,6.6,6000,,50,,4.4,24821,1984
+POCO,POCO X7 5G,Yellow,Flipkart,27999.0,17999.0,10000.0,35.0,8,256,6.67,5500,20,50,Dimensity 7300 Ultra Processor,4.3,13142,1155
+vivo,vivo T3 5G,Crystal Flake,Flipkart,22999.0,16999.0,6000.0,26.0,8,128,6.67,5000,16,50,Dimensity 7200 Processor,4.4,131464,8085
+Apple,Apple iPhone 16,White,Flipkart,89900.0,79999.0,9901.0,11.0,,128,6.7,,12,48,A18 Chip 6 Core Processor Processor,4.6,3067,171
+Samsung,Samsung Guru Music,Blue,Flipkart,1999.0,930.0,1069.0,53.0,,,2.0,1100,,,,3.1,3020,180
+Tecno,Tecno Pova 6,Azure Sky,Flipkart,15999.0,9499.0,6500.0,40.0,6,128,6.67,5000,8,108,Dimensity 6300 5G Processor,4.3,3544,202
+Kechaoda,Kechaoda K115,Pink,Flipkart,1499.0,984.0,515.0,34.0,,,1.44,850,0,3,NA Processor,4.1,41015,2645
+MOTOROLA,MOTOROLA Edge 60,PANTONE Gibraltar Sea,Flipkart,28999.0,22999.0,6000.0,20.0,8,256,6.67,5000,32,50,7s Gen 2 Mobile Processor Processor,4.3,7957,670
+POCO,POCO C71,Cool Blue,Flipkart,8999.0,6399.0,2600.0,28.0,4,64,6.88,5200,8,32,Unisoc T7250 Processor,3.9,21407,1080
+vivo,vivo T3 5G,Crystal Flake,Flipkart,22999.0,16999.0,6000.0,26.0,8,128,6.67,5000,16,50,Dimensity 7200 Processor,4.4,131464,8085
+realme,realme P3 Ultra,Neptune Blue,Flipkart,31999.0,22999.0,9000.0,28.0,8,128,6.83,6000,16,50,Dimensity 8350 Ultra Processor,4.4,5684,699
+MOTOROLA,MOTOROLA Edge 60,Pantone Dazzling Blue,Flipkart,36999.0,29999.0,7000.0,18.0,8,256,6.7,6000,50,50,Dimensity 8350 Processor,4.4,11714,1091
+POCO,POCO X7 5G,Glacier Green,Flipkart,24999.0,15999.0,9000.0,36.0,8,128,6.67,5500,20,50,Dimensity 7300 Ultra Processor,4.3,13142,1155
+vivo,vivo T3 5G,Crystal Flake,Flipkart,22999.0,16999.0,6000.0,26.0,8,128,6.67,5000,16,50,Dimensity 7200 Processor,4.4,131464,8085
+Samsung,Samsung Galaxy S24,Onyx Black,Flipkart,74999.0,46999.0,28000.0,37.0,8,128,6.2,4000,12,50,Exynos 2400 Processor,4.6,6901,390
+realme,realme GT 6,Razor Green,Flipkart,43999.0,27999.0,16000.0,36.0,8,256,6.78,5500,32,50,8s Gen 3 Mobile Platform Processor,4.5,3582,370
+realme,realme GT 6,Razor Green,Flipkart,43999.0,27999.0,16000.0,36.0,8,256,6.78,5500,32,50,8s Gen 3 Mobile Platform Processor,4.5,3582,370
+Samsung,Samsung Galaxy M35,Moonlight Blue,Flipkart,24499.0,15939.0,8560.0,34.0,6,128,6.6,6000,,50,,4.4,24821,1984
+realme,realme 14x 5G,Crystal Black,Flipkart,16999.0,14999.0,2000.0,11.0,6,128,6.67,6000,8,50,Dimensity 6300 Processor,4.3,10608,523
+realme,realme 14x 5G,Crystal Black,Flipkart,16999.0,14999.0,2000.0,11.0,6,128,6.67,6000,8,50,Dimensity 6300 Processor,4.3,10608,523
+OPPO,OPPO Reno14 5G,Pearl White,Flipkart,42999.0,37999.0,5000.0,11.0,8,256,6.59,6000,50,50,Dimensity 8350 Processor,4.4,1129,135
+Nothing,Nothing Phone,3a Grey,Flipkart,32999.0,28999.0,4000.0,12.0,8,128,,5000,50,50,7s Gen3 Processor,4.5,5898,545
+Apple,Apple iPhone 15,Black,Flipkart,69900.0,64900.0,5000.0,7.0,,128,6.1,,12,48,A16 Bionic Chip 6 Core Processor Processor,4.6,262580,9397
+POCO,POCO M6 Plus,Ice Silver,Flipkart,15999.0,10080.0,5919.0,36.0,6,128,6.79,5030,13,108,Snapdragon 4 Gen2 AE Processor,4.2,59597,3573
+vivo,vivo T3 Pro,Sandstone Orange,Flipkart,29999.0,22999.0,7000.0,23.0,8,128,6.77,5500,16,50,Snapdragon 7 Gen 3 Processor,4.5,84614,5328
+vivo,vivo T3 Pro,Sandstone Orange,Flipkart,29999.0,22999.0,7000.0,23.0,8,128,6.77,5500,16,50,Snapdragon 7 Gen 3 Processor,4.5,84614,5328
+Samsung,Samsung Galaxy A55,Awesome Navy,Flipkart,42999.0,25630.0,17369.0,40.0,8,128,6.6,5000,32,50,Samsung Exynos 1480 Processor,4.4,2011,154
+realme,realme Narzo N61,Marble Black,Flipkart,8641.0,7649.0,992.0,11.0,4,64,6.74,5000,,32,,4.3,5693,271
+realme,realme Narzo N61,Marble Black,Flipkart,8641.0,7649.0,992.0,11.0,4,64,6.74,5000,,32,,4.3,5693,271
+Nokia,Nokia 105 Classic,Blue,Flipkart,1249.0,1129.0,120.0,9.0,,,1.77,800,0,0,SC6531E Processor,3.8,4485,193
+IQOO,IQOO Neo 10R,Raging Blue,Flipkart,31999.0,24193.0,7806.0,24.0,8,128,6.78,6400,,50,,4.5,978,75
+Google,Google Pixel 8a,Obsidian,Flipkart,52999.0,37999.0,15000.0,28.0,8,128,6.1,4404,13,64,Tensor G3 Processor,4.3,7112,581
+Tecno,Tecno POP 9,Glittery White,Flipkart,8499.0,6499.0,2000.0,23.0,3,64,6.67,5000,,13,,4.0,69,2
+realme,realme Narzo 80x,Sunlit Gold,Flipkart,16999.0,12120.0,4879.0,28.0,8,128,6.72,6000,,50,,4.2,559,21
+vivo,vivo T3 5G,Crystal Flake,Flipkart,22999.0,16999.0,6000.0,26.0,8,128,6.67,5000,16,50,Dimensity 7200 Processor,4.4,131464,8085
+Samsung,Samsung SM-B310EZDDINS,Black,Flipkart,1999.0,980.0,1019.0,50.0,,,1.8,800,0,0,NA Processor,3.2,8049,517
+Jio,Jio Jiobharat V3,Blue,Flipkart,1899.0,820.0,1079.0,56.0,,,1.77,1000,,3,,3.8,88,2
+REDMI,REDMI A5,Just Black,Flipkart,8999.0,6499.0,2500.0,27.0,3,64,6.88,5200,8,32,T7250 Processor,4.3,2309,116
+POCO,POCO M6 Plus,Ice Silver,Flipkart,17999.0,11499.0,6500.0,36.0,8,128,6.79,5030,13,108,Snapdragon 4 Gen2 AE Processor,4.2,11513,724
+realme,realme P3 Ultra,Neptune Blue,Flipkart,31999.0,22999.0,9000.0,28.0,8,128,6.83,6000,16,50,Dimensity 8350 Ultra Processor,4.4,5684,699
+realme,realme Narzo 80,Crystal Purple,Flipkart,14999.0,11274.0,3725.0,24.0,6,128,6.67,6000,,50,,4.6,43,0
+IQOO,IQOO Z10 Lite,Cyber Green,Flipkart,13999.0,10310.0,3689.0,26.0,4,128,6.74,6000,,50,,4.2,91,5
+Apple,Apple iPhone 15,Pink,Flipkart,69900.0,64900.0,5000.0,7.0,,128,6.1,,12,48,A16 Bionic Chip 6 Core Processor Processor,4.6,262580,9397
+realme,realme P3 Ultra,Neptune Blue,Flipkart,31999.0,22999.0,9000.0,28.0,8,128,6.83,6000,16,50,Dimensity 8350 Ultra Processor,4.4,5684,699
+Tecno,Tecno Spark Go,Turquoise Green,Flipkart,8499.0,6699.0,1800.0,21.0,3,64,6.67,5000,,13,T7250 Processor,4.3,,
+Tecno,Tecno Spark Go,Turquoise Green,Flipkart,8499.0,6699.0,1800.0,21.0,3,64,6.67,5000,,13,T7250 Processor,4.3,,
+realme,realme GT 6,Razor Green,Flipkart,43999.0,27999.0,16000.0,36.0,8,256,6.78,5500,32,50,8s Gen 3 Mobile Platform Processor,4.5,3582,370
+Google,Google Pixel 8a,Bay,Flipkart,52999.0,37999.0,15000.0,28.0,8,128,6.1,4404,13,64,Tensor G3 Processor,4.3,7112,581
+Samsung,Samsung Galaxy S24,Titanium Violet,Flipkart,134999.0,82999.0,52000.0,38.0,12,256,6.8,5000,12,200,Snapdragon 8 Gen 3 Processor,4.6,4020,353
+Apple,Apple iPhone 15,Black,Flipkart,79900.0,71999.0,7901.0,9.0,,128,6.7,,12,48,A16 Bionic Chip 6 Core Processor Processor,4.6,45792,2571
+POCO,POCO M6 Plus,Graphite Black,Flipkart,17999.0,11499.0,6500.0,36.0,8,128,6.79,5030,13,108,Snapdragon 4 Gen2 AE Processor,4.2,11513,724
+Samsung,Samsung Galaxy S24,Amber Yellow,Flipkart,79999.0,52999.0,27000.0,33.0,8,256,6.2,4000,12,50,Exynos 2400 Processor,4.6,6901,390
+realme,realme 14T 5G,Obsidian Black,Flipkart,20999.0,17999.0,3000.0,14.0,8,128,6.67,6000,16,50,Dimensity 6300 Processor,4.2,1092,101
+vivo,vivo T4 Ultra,Phoenix Gold,Flipkart,40999.0,37999.0,3000.0,7.0,8,256,6.67,5500,32,50,Dimensity 9300 Processor,4.5,1571,175
+vivo,vivo T4 Ultra,Phoenix Gold,Flipkart,40999.0,37999.0,3000.0,7.0,8,256,6.67,5500,32,50,Dimensity 9300 Processor,4.5,1571,175
+Apple,Apple iPhone 16,Natural Titanium,Flipkart,129900.0,117900.0,12000.0,9.0,,256,6.3,,12,48,A18 Pro Chip 6 Core Processor Processor,4.6,2499,125
+POCO,POCO M7 5G,Ocean Blue,Flipkart,12999.0,9299.0,3700.0,28.0,6,128,6.88,5160,8,50,4 Gen 2 5G Processor,4.1,25331,1321
+OnePlus,OnePlus 13R 5g,Astral Trail,Flipkart,44999.0,39883.0,5116.0,11.0,12,256,6.78,6000,,50,,4.5,2289,168
+Motorola,Motorola Edge 50,Hot Pink,Flipkart,25999.0,18999.0,7000.0,26.0,8,128,6.7,5000,32,50,7s Gen 2 Processor,4.4,129175,8373
+IQOO,IQOO Z10 5G,Glacier Silver / Silver,Flipkart,25999.0,21061.0,4938.0,18.0,8,128,6.7,7300,,50,,4.4,2045,114
+Apple,Apple iPhone 15,Pink,Flipkart,79900.0,71999.0,7901.0,9.0,,128,6.7,,12,48,A16 Bionic Chip 6 Core Processor Processor,4.6,45792,2571
+POCO,POCO F7 5G,Phantom Black,Flipkart,35999.0,31999.0,4000.0,11.0,12,256,6.83,7550,20,50,8s Gen 4 Processor,4.4,5646,699
+MOTOROLA,MOTOROLA Edge 50,Peach Fuzz,Flipkart,32999.0,21999.0,11000.0,33.0,8,256,6.67,5000,32,50,Snapdragon 7 Gen 1 Accelerated Edition Processor,4.3,37910,2824
+IQOO,IQOO Z10 Lite,Cyber Green,Flipkart,13999.0,10310.0,3689.0,26.0,4,128,6.74,6000,,50,,4.2,91,5
+realme,realme 14T 5G,Obsidian Black,Flipkart,20999.0,17999.0,3000.0,14.0,8,128,6.67,6000,16,50,Dimensity 6300 Processor,4.2,1092,101
+Jio,Jio V4 JBV191M2,Black,Flipkart,1899.0,837.0,1062.0,55.0,,,1.77,1000,,3,,4.6,7,0
+Google,Google Pixel 9,Porcelain,Flipkart,79999.0,64999.0,15000.0,18.0,12,256,6.3,4700,5,50,Google Tensor G4 Processor,4.5,3198,316
+vivo,vivo T4 Ultra,Phoenix Gold,Flipkart,40999.0,37999.0,3000.0,7.0,8,256,6.67,5500,32,50,Dimensity 9300 Processor,4.5,1571,175
+Samsung,Samsung Galaxy A55,Awesome Iceblue,Flipkart,45999.0,28208.0,17791.0,38.0,8,256,6.6,5000,32,50,Samsung Exynos 1480 Processor,4.4,2011,154
+realme,realme P3 Pro,Saturn Brown,Flipkart,28999.0,19999.0,9000.0,31.0,8,128,6.83,6000,16,50,7s Gen 3 Mobile Platform Processor,4.4,6148,536
+POCO,POCO C61,Mystical Green,Flipkart,8999.0,6999.0,2000.0,22.0,4,64,6.71,5000,5,8,Helio G36 Processor,4.1,110043,4655
+Samsung,Samsung Galaxy S24,Cobalt Violet,Flipkart,74999.0,46999.0,28000.0,37.0,8,128,6.2,4000,12,50,Exynos 2400 Processor,4.6,6901,390
+Nokia,Nokia 5310 DS,White,Flipkart,3999.0,2051.0,1948.0,48.0,,,2.4,1200,,3,MT6260A Processor,3.9,13924,1084
+POCO,POCO M7 5G,Satin Black,Flipkart,12999.0,9299.0,3700.0,28.0,6,128,6.88,5160,8,50,4 Gen 2 5G Processor,4.1,25331,1321
+IQOO,IQOO Z10 5G,Stellar Black / Black,Flipkart,25999.0,21087.0,4912.0,18.0,8,128,6.7,7300,,50,,4.4,2045,114
+Apple,Apple iPhone 16,Pink,Flipkart,99900.0,89999.0,9901.0,9.0,,256,6.7,,12,48,A18 Chip 6 Core Processor Processor,4.6,3067,171
+Kechaoda,Kechaoda A26,Silver,Flipkart,1499.0,895.0,604.0,40.0,,16,0.66,800,0,0,NA Processor,4.0,28250,1586
+Apple,Apple iPhone 16,Desert Titanium,Flipkart,144900.0,132900.0,12000.0,8.0,,256,6.9,,12,48,A18 Pro Chip 6 Core Processor Processor,4.7,1144,84
+POCO,POCO X7 Pro,Nebula Green,Flipkart,33999.0,24999.0,9000.0,26.0,12,256,6.67,6550,20,50,Dimensity D8400 Ultra Processor,4.4,4609,577
+Samsung,Samsung Galaxy F06,Lit Violet,Flipkart,13999.0,8699.0,5300.0,37.0,4,128,6.7,5000,8,50,Dimensity 6300 Processor,4.1,17201,1184
+realme,realme C75 5G,Midnight Lily,Flipkart,15999.0,12999.0,3000.0,18.0,4,128,6.67,6000,8,32,Dimensity 6300 Processor,4.3,485,22
+Jio,Jio PRIMA2 4G,LUXE BLUE,Flipkart,4199.0,3480.0,719.0,17.0,,4,2.4,1800,,3,,3.9,1227,60
+Samsung,Samsung Galaxy S24+,Cobalt Violet,Flipkart,99999.0,59999.0,40000.0,40.0,12,256,6.7,4900,12,50,Exynos 2400 Processor,4.5,11203,856
+realme,realme P2 Pro,Parrot Green,Flipkart,25999.0,16999.0,9000.0,34.0,8,128,6.7,5200,32,50,7s Gen2 Processor,4.4,17510,1251
+MOTOROLA,MOTOROLA A200,Black,Flipkart,1549.0,1249.0,300.0,19.0,,,1.77,800,,,,3.6,138,16
+IQOO,IQOO Z9s 5G,Titanium Matte,Flipkart,25999.0,20890.0,5109.0,19.0,8,128,6.77,5500,,50,,4.4,8518,531
+Google,Google Pixel 8a,Porcelain,Flipkart,52999.0,37999.0,15000.0,28.0,8,128,6.1,4404,13,64,Tensor G3 Processor,4.3,7112,581
+Apple,Apple iPhone 15,Green,Flipkart,69900.0,64900.0,5000.0,7.0,,128,6.1,,12,48,A16 Bionic Chip 6 Core Processor Processor,4.6,262580,9397
+POCO,POCO X7 Pro,Yellow,Flipkart,31999.0,22999.0,9000.0,28.0,8,256,6.67,6550,20,50,Dimensity D8400 Ultra Processor,4.3,8288,1153
+Samsung,Samsung Galaxy A06,Black,Flipkart,13499.0,9199.0,4300.0,31.0,4,64,6.7,5000,,50,mediatek Processor,4.0,789,63
+Samsung,Samsung Galaxy S24,Marble Gray,Flipkart,79999.0,52999.0,27000.0,33.0,8,256,6.2,4000,12,50,Exynos 2400 Processor,4.6,6901,390
+LAVA,LAVA A3 Torch,Dark Blue,Flipkart,1649.0,1339.0,310.0,18.0,,,1.8,1750,,3,,4.1,217,19
+Google,Google Pixel 9,Wintergreen,Flipkart,79999.0,64999.0,15000.0,18.0,12,256,6.3,4700,5,50,Google Tensor G4 Processor,4.5,3198,316
+Samsung,Samsung 1200,Black,Flipkart,1699.0,774.0,925.0,54.0,,,1.5,800,,,,3.1,4223,295
+realme,realme C75 5G,Midnight Lily,Flipkart,15999.0,12999.0,3000.0,18.0,4,128,6.67,6000,8,32,Dimensity 6300 Processor,4.3,485,22
+Samsung,Samsung Galaxy S24,Cobalt Violet,Flipkart,79999.0,52999.0,27000.0,33.0,8,256,6.2,4000,12,50,Exynos 2400 Processor,4.6,6901,390
+Samsung,Samsung Galaxy S24,Titanium Violet,Flipkart,134999.0,119999.0,15000.0,11.0,12,256,6.8,5000,12,200,Snapdragon 8 Gen 3 Processor,4.6,4020,353
+KARBONN,KARBONN BHARAT K1,BLACK-GREY,Flipkart,1999.0,847.0,1152.0,57.0,,,1.8,1000,,2,,3.7,1555,85
+realme,realme P3 Pro,Saturn Brown,Flipkart,28999.0,19999.0,9000.0,31.0,8,128,6.83,6000,16,50,7s Gen 3 Mobile Platform Processor,4.4,6148,536
+Kechaoda,Kechaoda K33,Black,Flipkart,2200.0,997.0,1203.0,54.0,,32,1.44,800,0,3,NA Processor,4.0,10850,619
+realme,realme P1 Speed,Brushed Blue,Flipkart,20999.0,14989.0,6010.0,28.0,8,128,6.67,5000,16,50,Dimensity 7300 Energy Processor,4.3,2672,275
+realme,realme Narzo 80,Crystal Purple,Flipkart,14999.0,11274.0,3725.0,24.0,6,128,6.67,6000,,50,,4.6,43,0
+MOTOROLA,MOTOROLA Edge 60,Pantone Dazzling Blue,Flipkart,40999.0,33999.0,7000.0,17.0,12,256,6.7,6000,50,50,Dimensity 8350 Processor,4.4,5417,524
+realme,realme Narzo 80x,Sunlit Gold,Flipkart,16999.0,12120.0,4879.0,28.0,8,128,6.72,6000,,50,,4.2,559,21
+IQOO,IQOO Neo 10,Inferno Red,Flipkart,36999.0,33242.0,3757.0,10.0,8,128,6.78,7000,,50,Qualcomm sd Processor,4.5,162,14
+LAVA,LAVA A5_2025,Black,Flipkart,1599.0,1348.0,251.0,15.0,,,2.4,1200,,3,,4.0,196,15
+vivo,vivo T4 Ultra,Phoenix Gold,Flipkart,40999.0,37999.0,3000.0,7.0,8,256,6.67,5500,32,50,Dimensity 9300 Processor,4.5,1571,175
+MOTOROLA,MOTOROLA Razr 60,PANTONE Lightest Sky,Flipkart,54999.0,49999.0,5000.0,9.0,8,256,6.9,4500,32,50,Dimensity 7400X Processor,4.5,344,41
+IQOO,IQOO Neo 10R,Raging Blue,Flipkart,31999.0,24187.0,7812.0,24.0,8,128,6.78,6400,,50,,4.5,978,75
+Apple,Apple iPhone 16,Natural Titanium,Flipkart,144900.0,132900.0,12000.0,8.0,,256,6.9,,12,48,A18 Pro Chip 6 Core Processor Processor,4.7,1144,84
+realme,realme P1 Speed,Brushed Blue,Flipkart,20999.0,14989.0,6010.0,28.0,8,128,6.67,5000,16,50,Dimensity 7300 Energy Processor,4.3,2672,275
+REDMI,REDMI A4,Sparkle Purple,Flipkart,11999.0,9527.0,2472.0,20.0,4,128,6.88,5160,,50,,4.3,7020,337
+Samsung,Samsung Galaxy F16,Glam Green,Flipkart,15999.0,10749.0,5250.0,32.0,4,128,6.657,5000,13,50,Dimensity 6300 Processor,4.2,2787,175
+Kechaoda,Kechaoda K115,Pink,Flipkart,1499.0,978.0,521.0,34.0,,32,1.44,850,0,3,NA Processor,4.1,41015,2645
+Jio,Jio BHARAT B2,Black,Flipkart,2499.0,1559.0,940.0,37.0,,,2.4,2000,0,3,NA Processor,3.7,2961,140
+IQOO,IQOO Neo 10R,Raging Blue,Flipkart,31999.0,24187.0,7812.0,24.0,8,128,6.78,6400,,50,,4.5,978,75
+itel,itel MagicX Play,Light Green,Flipkart,2699.0,1738.0,961.0,35.0,,,1.8,1900,,3,,3.9,1403,138
+OPPO,OPPO Reno14 Pro,Pearl White,Flipkart,54999.0,49999.0,5000.0,9.0,12,256,6.83,6200,50,50,Dimensity 8450 Processor,4.5,524,78
+Motorola,Motorola g45 5G,Pink Lavender,Flipkart,14999.0,11999.0,3000.0,20.0,8,128,6.5,5000,16,50,Snapdragon 6s Gen 3 Processor,4.3,195416,10117
+OPPO,OPPO K12x 5G,Breeze Blue,Flipkart,16999.0,12999.0,4000.0,23.0,6,128,6.67,5100,8,32,Dimensity 6300 Processor,4.5,183764,6497
+OPPO,OPPO K12x 5G,Feather Pink,Flipkart,16999.0,12999.0,4000.0,23.0,6,128,6.67,5100,8,32,Dimensity 6300 Processor,4.5,183764,6497
+OnePlus,OnePlus 13s 5G,Pink Satin,Flipkart,57999.0,51969.0,6030.0,10.0,12,256,6.32,5850,,50,,4.5,265,24
+REDMI,REDMI A3X,Ocean Green,Flipkart,9999.0,6699.0,3300.0,33.0,3,64,6.71,5000,5,8,,4.1,9774,433
+REDMI,REDMI A3X,Ocean Green,Flipkart,9999.0,6699.0,3300.0,33.0,3,64,6.71,5000,5,8,,4.1,9774,433
+Samsung,Samsung Guru Music,Black,Flipkart,1999.0,948.0,1051.0,52.0,,,1.8,800,,,,3.4,63,4
+realme,realme P3 Pro,Saturn Brown,Flipkart,28999.0,19999.0,9000.0,31.0,8,128,6.83,6000,16,50,7s Gen 3 Mobile Platform Processor,4.4,6148,536
+Apple,Apple iPhone 16,Black Titanium,Flipkart,144900.0,132900.0,12000.0,8.0,,256,6.9,,12,48,A18 Pro Chip 6 Core Processor Processor,4.7,1144,84
+OnePlus,OnePlus 13s 5G,Pink Satin,Flipkart,57999.0,51969.0,6030.0,10.0,12,256,6.32,5850,,50,,4.5,265,24
+Apple,Apple iPhone 16e,Black,Flipkart,69900.0,64900.0,5000.0,7.0,,256,6.1,,12,48,A18 Chip 6 Core Processor,4.6,1409,95
+IQOO,IQOO Neo 10,Inferno Red,Flipkart,36999.0,33242.0,3757.0,10.0,8,128,6.78,7000,,50,Qualcomm sd Processor,4.5,162,14
+Apple,Apple iPhone 16e,White,Flipkart,59900.0,54900.0,5000.0,8.0,,128,6.1,,12,48,A18 Chip 6 Core Processor,4.6,1409,95
+realme,realme P3 Pro,Saturn Brown,Flipkart,28999.0,19999.0,9000.0,31.0,8,128,6.83,6000,16,50,7s Gen 3 Mobile Platform Processor,4.5,,
+realme,realme P3 Pro,Saturn Brown,Flipkart,28999.0,19999.0,9000.0,31.0,8,128,6.83,6000,16,50,7s Gen 3 Mobile Platform Processor,4.4,6148,536
+Samsung,Samsung Galaxy A06,Black,Flipkart,11499.0,7690.0,3809.0,33.0,4,64,6.7,5000,8,50,Mediatek Helio G85 Processor,4.1,157,13
+POCO,POCO X7 5G,Glacier Green,Flipkart,27999.0,17999.0,10000.0,35.0,8,256,6.67,5500,20,50,Dimensity 7300 Ultra Processor,4.3,13142,1155
+Alcatel,Alcatel V3 Classic,Halo White,Flipkart,17999.0,10999.0,7000.0,38.0,4,128,6.67,5200,8,50,Dimensity 6300 Processor,4.3,29,8
+Snexian,Snexian GURU 315,Black,Flipkart,999.0,482.0,517.0,51.0,,,1.8,1000,,3,,3.5,251,11
+IQOO,IQOO Z10 5G,Glacier Silver / Silver,Flipkart,25999.0,21061.0,4938.0,18.0,8,128,6.7,7300,,50,,4.4,2045,114
+Apple,Apple iPhone 16,White,Flipkart,99900.0,89999.0,9901.0,9.0,,256,6.7,,12,48,A18 Chip 6 Core Processor Processor,4.6,3067,171
+MOTOROLA,MOTOROLA Razr 60,PANTONE Gibraltar Sea,Flipkart,54999.0,49999.0,5000.0,9.0,8,256,6.9,4500,32,50,Dimensity 7400X Processor,4.5,344,41
+OPPO,OPPO A3x,Ocean Blue,Flipkart,12999.0,8999.0,4000.0,30.0,4,64,6.67,5100,5,8,6s 4G Gen1 Processor,4.2,1100,72
+Infinix,Infinix SMART 9,Mint Green,Flipkart,8999.0,6699.0,2300.0,25.0,3,64,6.7,5000,8,13,Mediatek Helio G50 Processor,4.2,3286,225
+REDMI,REDMI A3X,Ocean Green,Flipkart,9999.0,6699.0,3300.0,33.0,3,64,6.71,5000,5,8,,4.1,9774,433
+POCO,POCO X7 Pro,Nebula Green,Flipkart,31999.0,22999.0,9000.0,28.0,8,256,6.67,6550,20,50,Dimensity D8400 Ultra Processor,4.3,8288,1153
+Kechaoda,Kechaoda K9,Grey,Flipkart,1599.0,1195.0,404.0,25.0,,,2.4,1700,,3,,4.1,3581,298
+itel,itel Flip 1,Black,Flipkart,3299.0,2078.0,1221.0,37.0,,,2.4,1200,,8,,4.0,902,66
+POCO,POCO X7 5G,Cosmic Silver,Flipkart,27999.0,17999.0,10000.0,35.0,8,256,6.67,5500,20,50,Dimensity 7300 Ultra Processor,4.3,13142,1155
+realme,realme P1 Speed,Brushed Blue,Flipkart,20999.0,14989.0,6010.0,28.0,8,128,6.67,5000,16,50,Dimensity 7300 Energy Processor,4.3,2672,275
+Samsung,Samsung Galaxy A16,Gold,Flipkart,19999.0,15480.0,4519.0,22.0,6,128,6.7,5000,13,50,Dimensity 6300 Processor,4.2,2475,112
+realme,realme 14T 5G,Obsidian Black,Flipkart,20999.0,17999.0,3000.0,14.0,8,128,6.67,6000,16,50,Dimensity 6300 Processor,4.2,1092,101
+IQOO,IQOO Z10 5G,Glacier Silver / Silver,Flipkart,29999.0,26500.0,3499.0,11.0,12,256,6.7,7300,,50,,4.4,530,37
+Infinix,Infinix SMART 9,Mint Green,Flipkart,8999.0,6699.0,2300.0,25.0,3,64,6.7,5000,8,13,Mediatek Helio G50 Processor,4.2,3286,225
+Nokia,Nokia 106 4G,Charcoal,Flipkart,2999.0,2399.0,600.0,20.0,,,1.77,1450,0,0,Unisoc T107 Processor,3.9,4158,275
+REDMI,REDMI A3X,Ocean Green,Flipkart,9999.0,6699.0,3300.0,33.0,3,64,6.71,5000,5,8,,4.1,9774,433
+Kechaoda,Kechaoda K60,Grey,Flipkart,1999.0,1779.0,220.0,11.0,,,2.4,3600,3,3,,4.0,1974,170
+Samsung,Samsung SM 1207,Black,Flipkart,1599.0,790.0,809.0,50.0,,,1.5,800,,,,3.2,5417,315
+Nokia,Nokia 130 Music,Purple,Flipkart,2199.0,1884.0,315.0,14.0,,,2.4,1450,0,0,6261D Processor,3.9,8860,548
+IQOO,IQOO Z10 5G,Stellar Black / Black,Flipkart,25999.0,23551.0,2448.0,9.0,8,256,6.77,7300,,50,,4.4,2045,114
+Samsung,Samsung Galaxy A06,Light Gray,Flipkart,15499.0,10099.0,5400.0,34.0,4,128,6.7,5000,,50,MEDIATEK Processor,4.0,789,63
+LAVA,LAVA Yuva Star,Glossy Black,Flipkart,6999.0,6249.0,750.0,10.0,4,64,6.75,5000,5,13,Unisoc SC9863A Processor,4.0,902,55
+OPPO,OPPO Reno14 Pro,Pearl White,Flipkart,54999.0,49999.0,5000.0,9.0,12,256,6.83,6200,50,50,Dimensity 8450 Processor,4.5,524,78
+realme,realme C73 5G,Jade Green,Flipkart,13999.0,11499.0,2500.0,17.0,4,128,6.67,6000,8,32,Dimensity 6300 Processor,4.3,508,17
+realme,realme C73 5G,Jade Green,Flipkart,13999.0,11499.0,2500.0,17.0,4,128,6.67,6000,8,32,Dimensity 6300 Processor,4.3,508,17
+Samsung,Samsung Galaxy F06,Bahama Blue,Flipkart,12499.0,8199.0,4300.0,34.0,4,64,6.7,5000,8,50,Dimensity 6300 Processor,4.1,17201,1184
+Jmax,Jmax iverve,White,Flipkart,2399.0,999.0,1400.0,58.0,,,2.4,2000,,3,NA Processor,3.7,125,9
+Infinix,Infinix Hot 50,Dreamy Purple,Flipkart,12999.0,9999.0,3000.0,23.0,4,128,6.7,5000,8,48,Dimensity 6300 Processor,4.3,5608,418
+Apple,Apple iPhone 16e,White,Flipkart,69900.0,64900.0,5000.0,7.0,,256,6.1,,12,48,A18 Chip 6 Core Processor,4.6,1409,95
+Apple,Apple iPhone 14,Starlight,Flipkart,69900.0,62990.0,6910.0,9.0,,256,6.1,,12,12,A15 Bionic Chip 6 Core Processor Processor,4.6,313551,11692
+Infinix,Infinix Hot 50,Dreamy Purple,Flipkart,12999.0,9999.0,3000.0,23.0,4,128,6.7,5000,8,48,Dimensity 6300 Processor,4.3,5608,418
+Infinix,Infinix Hot 50,Dreamy Purple,Flipkart,12999.0,9999.0,3000.0,23.0,4,128,6.7,5000,8,48,Dimensity 6300 Processor,4.3,5608,418
+Infinix,Infinix Hot 50,Dreamy Purple,Flipkart,12999.0,9999.0,3000.0,23.0,4,128,6.7,5000,8,48,Dimensity 6300 Processor,4.3,5608,418
+POCO,POCO F7 5G,Frost White,Flipkart,37999.0,33999.0,4000.0,10.0,12,512,6.83,7550,20,50,8s Gen 4 Processor,4.4,5646,699
+Samsung,Samsung Galaxy A55,Awesome Navy,Flipkart,45999.0,28640.0,17359.0,37.0,8,256,6.6,5000,32,50,Exynos 1480 Processor,4.4,2011,154
+Kechaoda,Kechaoda K112,Orange,Flipkart,1999.0,1739.0,260.0,13.0,,,2.4,3600,,3,,4.0,31204,2805
+Samsung,Samsung Galaxy A16,Gold,Flipkart,19999.0,15480.0,4519.0,22.0,6,128,6.7,5000,13,50,Dimensity 6300 Processor,4.2,2475,112
+Samsung,Samsung Galaxy F06,Lit Violet,Flipkart,15499.0,9999.0,5500.0,35.0,6,128,6.7,5000,8,50,Dimensity 6300 Processor,4.1,7433,541
+Nokia,Nokia 5310 DS,8 MB Black,Flipkart,4186.0,3199.0,987.0,23.0,,,2.4,1200,,3,MT6260A Processor,3.9,10901,817
+Samsung,Samsung Galaxy A36,Awesome Black,Flipkart,35999.0,30999.0,5000.0,13.0,8,128,6.7,5000,12,50,Qualcomm Snapdragon 6 Gen 3 Processor,4.3,960,73
+REDMI,REDMI Note 14,Mystique White,Flipkart,21999.0,14701.0,7298.0,33.0,6,128,6.67,5110,,50,,4.3,1977,97
+Samsung,Samsung Galaxy A16,Light Green,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.7,5000,13,50,Dimensity 6300 Processor,4.2,2475,112
+Nokia,Nokia 3210 4G,Grunge Black,Flipkart,5299.0,3889.0,1410.0,26.0,,,2.4,1450,,2,,3.9,1287,112
+Nokia,"Nokia 106-SS-1578,32 MB,1000",Emerald Green,Flipkart,1699.0,1210.0,489.0,28.0,,,6.7,1000,,,SC6531E Processor,3.9,1650,96
+IQOO,IQOO Neo 10,Inferno Red,Flipkart,36999.0,33242.0,3757.0,10.0,8,128,6.78,7000,,50,Qualcomm sd Processor,4.5,162,14
+Samsung,Samsung Galaxy A16,Light Green,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.7,5000,13,50,Dimensity 6300 Processor,4.2,2475,112
+OPPO,OPPO A3x 5G,Starlight White,Flipkart,14999.0,10999.0,4000.0,26.0,4,64,6.67,5100,5,8,Dimensity 6300 Processor,4.2,3233,145
+Tecno,Tecno Pova Curve,Neon Cyan,Flipkart,18999.0,15999.0,3000.0,15.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.3,804,117
+Tecno,Tecno Pova Curve,Neon Cyan,Flipkart,18999.0,15999.0,3000.0,15.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.3,804,117
+Tecno,Tecno Pova Curve,Neon Cyan,Flipkart,18999.0,15999.0,3000.0,15.0,6,128,6.78,5500,13,64,Dimensity 7300 Ultimate Processor,4.3,804,117
+Samsung,Samsung Galaxy A36,Awesome Black,Flipkart,41999.0,36999.0,5000.0,11.0,12,256,6.7,5000,12,50,Qualcomm Snapdragon 6 Gen 3 Processor,4.3,121,11
+Samsung,Samsung Galaxy A06,Light Gray,Flipkart,11999.0,9319.0,2680.0,22.0,4,64,6.7,5000,,50,mediatek Processor,4.0,789,63
+realme,realme 14T 5G,Obsidian Black,Flipkart,20999.0,17999.0,3000.0,14.0,8,128,6.67,6000,16,50,Dimensity 6300 Processor,4.2,1092,101
+realme,realme 14T 5G,Obsidian Black,Flipkart,20999.0,17999.0,3000.0,14.0,8,128,6.67,6000,16,50,Dimensity 6300 Processor,4.2,1092,101
+Samsung,Samsung Galaxy A56,Awesome Olive,Flipkart,45999.0,38999.0,7000.0,15.0,8,128,6.7,5000,12,50,Samsng Exynos 1580 Processor,4.3,359,28
+OPPO,OPPO K12x 5G,Breeze Blue,Flipkart,16999.0,12999.0,4000.0,23.0,6,128,6.67,5100,8,32,Dimensity 6300 Processor,4.5,183764,6497
+Samsung,Samsung Galaxy F16,Bling Black,Flipkart,18999.0,13499.0,5500.0,28.0,8,128,6.657,5000,13,50,Dimensity 6300 Processor,4.2,2075,150
+realme,realme P1 Speed,Brushed Blue,Flipkart,20999.0,14989.0,6010.0,28.0,8,128,6.67,5000,16,50,Dimensity 7300 Energy Processor,4.3,2672,275
+Motorola,Motorola g64 5G,Mint Green,Flipkart,19999.0,15999.0,4000.0,20.0,12,256,6.5,6000,16,50,Dimensity 7025 Processor,4.2,85325,5457
+POCO,POCO C61,Diamond Dust Black,Flipkart,8999.0,6990.0,2009.0,22.0,4,64,6.71,5000,5,8,Helio G36 Processor,4.1,110043,4655
+vivo,vivo V50 5G,Rose Red,Flipkart,39999.0,32999.0,7000.0,17.0,8,128,6.77,6000,50,50,7 Gen 3 Processor,4.5,6154,540
+Samsung,Samsung Guru Music,Black,Flipkart,1999.0,990.0,1009.0,50.0,,,1.8,800,,,,3.1,16817,1264
+OPPO,OPPO A3x 5G,Starlight White,Flipkart,14999.0,10999.0,4000.0,26.0,4,64,6.67,5100,5,8,Dimensity 6300 Processor,4.2,3233,145
+vivo,vivo V50 5G,Rose Red,Flipkart,39999.0,32999.0,7000.0,17.0,8,128,6.77,6000,50,50,7 Gen 3 Processor,4.5,6154,540
+Samsung,Samsung Galaxy M16,Thunder Black,Flipkart,13999.0,11933.0,2066.0,14.0,4,128,6.7,5000,,50,,4.1,203,6
+UiSmart,UiSmart Ui-06,Black,Flipkart,2499.0,1650.0,849.0,33.0,,,1.77,1050,0,2,Feature Phone Processor,4.0,3535,310
+MOTOROLA,MOTOROLA A50V Dual,Gold,Flipkart,1849.0,1499.0,350.0,18.0,,5,1.8,1750,,,,4.1,1339,71
+Honor,Honor 200 5G,Black,Flipkart,39999.0,22489.0,17510.0,43.0,8,256,6.7,5200,50,50,Snapdragon 7 Gen 3 Processor,4.4,142,13
+Samsung,Samsung Galaxy F16,Glam Green,Flipkart,18999.0,13499.0,5500.0,28.0,8,128,6.657,5000,13,50,Dimensity 6300 Processor,4.2,2075,150
+itel,itel A80,Sandstone Black,Flipkart,8999.0,6849.0,2150.0,23.0,4,128,6.7,5000,,50,,4.2,331,17
+Tecno,Tecno Spark Go,Magic Skin Green,Flipkart,8599.0,6899.0,1700.0,19.0,3,64,6.67,5000,8,13,Unisoc T61 Processor,4.3,1407,69
+realme,realme C63 5G,Forest Green,Flipkart,12999.0,10999.0,2000.0,15.0,4,128,6.67,5000,8,32,Dimensity 6300 Processor,4.4,6704,266
+Xiaomi,Xiaomi 14 CIVI,Panda White,Flipkart,59999.0,39999.0,20000.0,33.0,12,512,6.55,4700,,50,8s Gen 3 Mobile Platform Processor,4.4,754,68
+LAVA,LAVA Shark,Titanium Gold,Flipkart,7799.0,7296.0,503.0,6.0,4,64,6.67,5000,,50,UNISOC T606 octa-core processor Processor,4.2,30,0
+OPPO,OPPO Reno14 Pro,Pearl White,Flipkart,54999.0,49999.0,5000.0,9.0,12,256,6.83,6200,50,50,Dimensity 8450 Processor,4.5,524,78
+OPPO,OPPO Reno14 Pro,Pearl White,Flipkart,54999.0,49999.0,5000.0,9.0,12,256,6.83,6200,50,50,Dimensity 8450 Processor,4.5,524,78
+itel,itel A80,Sandstone Black,Flipkart,8999.0,6849.0,2150.0,23.0,4,128,6.7,5000,,50,,4.2,331,17
+REDMI,REDMI 13 5G,Orchid Pink,Flipkart,17999.0,12499.0,5500.0,30.0,6,128,6.79,5030,13,108,4 Gen 2 AE Processor,4.2,42234,2172
+REDMI,REDMI 13 5G,Orchid Pink,Flipkart,17999.0,12499.0,5500.0,30.0,6,128,6.79,5030,13,108,4 Gen 2 AE Processor,4.2,42234,2172
+IQOO,IQOO Z10 5G,Stellar Black / Black,Flipkart,27999.0,23551.0,4448.0,15.0,8,256,6.77,7300,,50,,4.4,2045,114
+Samsung,Samsung B310ED,White,Flipkart,1599.0,990.0,609.0,38.0,,,2.4,850,,,,3.2,391,27
+Tecno,Tecno Pop 9,Aurora Cloud,Flipkart,11999.0,9499.0,2500.0,20.0,4,128,6.67,5000,8,48,Dimensity 6300 5G Processor,3.9,63,5
+POCO,POCO X7 Pro,Yellow,Flipkart,33999.0,24999.0,9000.0,26.0,12,256,6.67,6550,20,50,Dimensity D8400 Ultra Processor,4.4,4609,577
+realme,realme C63 5G,Forest Green,Flipkart,12999.0,10999.0,2000.0,15.0,4,128,6.67,5000,8,32,Dimensity 6300 Processor,4.4,6704,266
+vivo,vivo V50 5G,Rose Red,Flipkart,39999.0,32999.0,7000.0,17.0,8,128,6.77,6000,50,50,7 Gen 3 Processor,4.5,6154,540
+TOUCH,TOUCH 18 Rock,Purple,Flipkart,2899.0,1667.0,1232.0,42.0,,,2.4,1800,,2,,3.8,171,11
+Samsung,Samsung Galaxy M16,Thunder Black,Flipkart,13999.0,11933.0,2066.0,14.0,4,128,6.7,5000,,50,,4.1,203,6
+realme,realme 70 TURBO,Turbo Green,Flipkart,19999.0,14760.0,5239.0,26.0,6,128,6.67,5000,,50,Segment's Fastest Dimensity 7300 Energy 5G Chipset Processor,4.3,5488,430
+Apple,Apple iPhone 16,White Titanium,Flipkart,144900.0,132900.0,12000.0,8.0,,256,6.9,,12,48,A18 Pro Chip 6 Core Processor Processor,4.7,1144,84
+POCO,POCO C71,Desert Gold,Flipkart,8999.0,6399.0,2600.0,28.0,4,64,6.88,5200,8,32,Unisoc T7250 Processor,3.9,21407,1080
+Samsung,Samsung Galaxy A06,Black,Flipkart,11999.0,9277.0,2722.0,22.0,4,64,6.7,5000,8,50,Dimensity 6300 Processor,4.0,789,63
+Samsung,Samsung Galaxy A56,Awesome Olive,Flipkart,52999.0,44999.0,8000.0,15.0,12,256,6.7,5000,12,50,Samsung Exynos 1580 Processor,4.4,213,21
+realme,realme 70 TURBO,Turbo Green,Flipkart,19999.0,14760.0,5239.0,26.0,6,128,6.67,5000,,50,Segment's Fastest Dimensity 7300 Energy 5G Chipset Processor,4.3,5488,430
+IQOO,IQOO Neo 10,Inferno Red,Flipkart,36999.0,33242.0,3757.0,10.0,8,128,6.78,7000,,50,Qualcomm sd Processor,4.5,162,14
+Apple,Apple iPhone 15,Blue,Flipkart,79900.0,74900.0,5000.0,6.0,,256,6.1,,12,48,A16 Bionic Chip 6 Core Processor Processor,4.6,262580,9397
+vivo,vivo V50e 5G,Pearl White,Flipkart,33999.0,28999.0,5000.0,14.0,8,128,6.77,5600,50,50,Dimensity 7300 Processor,4.4,1486,98
+vivo,vivo V50e 5G,Pearl White,Flipkart,33999.0,28999.0,5000.0,14.0,8,128,6.77,5600,50,50,Dimensity 7300 Processor,4.4,1486,98
+OPPO,OPPO F29 5G,Glacier Blue,Flipkart,28999.0,23999.0,5000.0,17.0,8,128,6.7,6500,16,50,6 Gen 1 Processor,4.3,1720,105
+Jmax,Jmax J32,Black,Flipkart,999.0,583.0,416.0,41.0,,,1.8,1050,,2,,3.6,643,45
+realme,realme 70 TURBO,Turbo Green,Flipkart,19999.0,14760.0,5239.0,26.0,6,128,6.67,5000,,50,Segment's Fastest Dimensity 7300 Energy 5G Chipset Processor,4.3,5488,430
+LAVA,LAVA A7 Torch+,Black,Flipkart,1899.0,1553.0,346.0,18.0,,,2.4,2574,0,3,,4.0,1298,97
+Tecno,Tecno Spark Go,Magic Skin Green,Flipkart,8599.0,6899.0,1700.0,19.0,3,64,6.67,5000,8,13,Unisoc T61 Processor,4.3,1407,69
+vivo,vivo V50 5G,Rose Red,Flipkart,39999.0,32999.0,7000.0,17.0,8,128,6.77,6000,50,50,7 Gen 3 Processor,4.5,6154,540
+realme,realme C73 5G,Jade Green,Flipkart,13999.0,11499.0,2500.0,17.0,4,128,6.67,6000,8,32,Dimensity 6300 Processor,4.3,508,17
+Honor,Honor 200 5G,Black,Flipkart,39999.0,22489.0,17510.0,43.0,8,256,6.7,5200,50,50,Snapdragon 7 Gen 3 Processor,4.4,142,13
+Motorola,Motorola g64 5G,Ice Lilac,Flipkart,17999.0,13999.0,4000.0,22.0,8,128,6.5,6000,16,50,Dimensity 7025 Processor,4.3,60363,3762
+Micromax,Micromax X818,Maroon,Flipkart,2199.0,1697.0,502.0,22.0,,,2.8,1450,,3,,3.9,5599,400
+vivo,vivo V50 5G,Rose Red,Flipkart,39999.0,32999.0,7000.0,17.0,8,128,6.77,6000,50,50,7 Gen 3 Processor,4.5,6154,540
+Samsung,Samsung Galaxy M16,Thunder Black,Flipkart,13999.0,11933.0,2066.0,14.0,4,128,6.7,5000,,50,,4.1,203,6
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,12999.0,9499.0,3500.0,26.0,4,64,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,12999.0,9499.0,3500.0,26.0,4,64,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,12999.0,9499.0,3500.0,26.0,4,64,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,12999.0,9499.0,3500.0,26.0,4,64,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,12999.0,9499.0,3500.0,26.0,4,64,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+KARBONN,KARBONN Jumbo K9,Black and Red,Flipkart,1890.0,1296.0,594.0,31.0,,,2.4,1800,2,3,NA Processor,4.0,16166,1482
+LAVA,LAVA A1 Vibe,2' White,Flipkart,1499.0,1209.0,290.0,19.0,,,2.0,1000,,3,,4.2,109,6
+Tecno,Tecno Camon 30,Basaltic Dark,Flipkart,32999.0,23999.0,9000.0,27.0,12,512,6.78,5000,50,50,Dimensity 7020 5G Processor,4.0,171,13
+Samsung,Samsung Galaxy A55,Awesome Navy,Flipkart,48999.0,34490.0,14509.0,29.0,12,256,6.6,5000,32,50,Samsung Exynos 1480 Processor,4.3,507,40
+IQOO,IQOO z9x,Tornado Green,Flipkart,18999.0,13790.0,5209.0,27.0,6,128,6.72,6000,8,50,Qualcomm SM6450 Snapdragon 6 Gen 1 Processor,4.4,10267,514
+POCO,POCO M7 5G,Mint Green,Flipkart,13999.0,10299.0,3700.0,26.0,8,128,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,5232,314
+Samsung,Samsung Galaxy S24+,Onyx Black,Flipkart,99999.0,59999.0,40000.0,40.0,12,256,6.7,4900,12,50,Exynos 2400 Processor,4.5,11203,856
+vivo,vivo V50e 5G,Pearl White,Flipkart,33999.0,28999.0,5000.0,14.0,8,128,6.77,5600,50,50,Dimensity 7300 Processor,4.4,1486,98
+Samsung,Samsung Galaxy S24,Amber Yellow,Flipkart,74999.0,46999.0,28000.0,37.0,8,128,6.2,4000,12,50,Exynos 2400 Processor,4.6,6901,390
+Motorola,Motorola G85 5G,Cobalt Blue,Flipkart,22999.0,17999.0,5000.0,21.0,12,256,6.67,5000,32,50,6s Gen 3 Processor,4.4,79386,4451
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,13999.0,10000.0,3999.0,28.0,4,128,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+KARBONN,KARBONN K9,Black And Red,Flipkart,1890.0,1297.0,593.0,31.0,,,2.6,1800,,2,,4.1,9360,731
+Kechaoda,Kechaoda A27,Pink,Flipkart,2200.0,894.0,1306.0,59.0,,,1.68,800,0,0,,4.0,14513,826
+realme,realme 70 TURBO,Turbo Green,Flipkart,19999.0,14760.0,5239.0,26.0,6,128,6.67,5000,,50,Segment's Fastest Dimensity 7300 Energy 5G Chipset Processor,4.3,5488,430
+realme,realme C61,Marble Black,Flipkart,8999.0,7699.0,1300.0,14.0,4,64,6.745,5000,5,32,T612 Processor,4.4,9818,322
+IQOO,IQOO Z9S 5G,Titanium Matte,Flipkart,27999.0,22470.0,5529.0,19.0,8,256,6.77,5500,,50,MediaTek Dimensity 7300 5G Processor,4.4,8518,531
+realme,realme 14 Pro,Glass Purple,Flipkart,25999.0,21999.0,4000.0,15.0,8,128,6.7,5200,32,50,7s Gen2 Processor,4.4,408,24
+LAVA,LAVA LF9000,BLACK GOLD,Flipkart,2099.0,1699.0,400.0,19.0,,,2.8,2575,,3,,4.1,628,35
+Samsung,Samsung Galaxy A16,Blue Black,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.7,5000,13,50,Dimensity 6300 Processor,4.2,2475,112
+Kechaoda,Kechaoda A26_rose gold,Rose_Gold,Flipkart,1499.0,949.0,550.0,36.0,,16,0.66,800,0,0,NA Processor,3.9,506,15
+Infinix,Infinix Note 40,Racing Grey,Flipkart,24999.0,15999.0,9000.0,36.0,8,256,6.78,5000,32,108,Dimensity 7020 Processor,4.2,12307,1141
+itel,itel ZENO 10,Phantom Crystal,Flipkart,7399.0,6115.0,1284.0,17.0,4,64,6.6,5000,,8,,4.2,21,0
+POCO,POCO X6 Neo,Astral Black,Flipkart,19999.0,13990.0,6009.0,30.0,8,128,6.67,5000,16,108,Dimensity 6080 Processor,4.2,42214,3058
+KARBONN,KARBONN KX29 DS,grey blue,Flipkart,1790.0,1458.0,332.0,18.0,,,2.4,2700,,3,,3.7,2532,163
+POCO,POCO C71,Power Black,Flipkart,8999.0,6399.0,2600.0,28.0,4,64,6.88,5200,8,32,Unisoc T7250 Processor,3.9,21407,1080
+Apple,Apple iPhone 15,Pink,Flipkart,89900.0,81999.0,7901.0,8.0,,256,6.7,,12,48,A16 Bionic Chip 6 Core Processor Processor,4.6,45792,2571
+Apple,Apple iPhone 14,Blue,Flipkart,69900.0,62990.0,6910.0,9.0,,256,6.1,,12,12,A15 Bionic Chip 6 Core Processor Processor,4.6,313551,11692
+Samsung,Samsung Galaxy A56,Awesome Graphite,Flipkart,48999.0,41999.0,7000.0,14.0,8,256,6.7,5000,12,50,Samsung Exynos 1580 Processor,4.3,359,28
+MOTOROLA,MOTOROLA Edge 50,Jungle Green,Flipkart,32999.0,21999.0,11000.0,33.0,8,256,6.67,5000,32,50,Snapdragon 7 Gen 1 Accelerated Edition Processor,4.3,37910,2824
+Tecno,Tecno Spark Go,Magic Skin Green,Flipkart,8599.0,6899.0,1700.0,19.0,3,64,6.67,5000,8,13,Unisoc T61 Processor,4.3,1407,69
+vivo,vivo V50e 5G,Pearl White,Flipkart,33999.0,28999.0,5000.0,14.0,8,128,6.77,5600,50,50,Dimensity 7300 Processor,4.4,1486,98
+Jio,Jio Bharat B2,Blue,Flipkart,2599.0,1590.0,1009.0,38.0,,,2.4,2000,,3,,3.7,2961,140
+vivo,vivo T3 Ultra,Frost Green,Flipkart,35999.0,27999.0,8000.0,22.0,8,128,6.78,5500,50,50,Dimensity 9200 Processor,4.5,22016,1801
+KARBONN,KARBONN K-Phone 1,White-Blue,Flipkart,1599.0,1449.0,150.0,9.0,,,2.4,1400,,3,,4.1,78,3
+ringme,ringme R1+ JUMBO,Green,Flipkart,2999.0,1440.0,1559.0,51.0,,,2.4,4000,,1,,4.2,186,16
+Tecno,Tecno Camon 20,Serenity Blue,Flipkart,24999.0,15399.0,9600.0,38.0,8,128,6.67,5000,32,64,Mediatek Dimensity 8050 Processor,4.1,841,95
+KARBONN,"KARBONN K2Stylo,Dual SIM",Deep Blue,Flipkart,1790.0,1294.0,496.0,27.0,,,2.4,1750,5,5,NA Processor,4.3,42,4
+Samsung,Samsung M06 5G,Blazing Black,Flipkart,13999.0,10390.0,3609.0,25.0,4,128,6.7,5000,,50,,3.9,270,30
+MOTOROLA,MOTOROLA A10V DS,Teal Blue,Flipkart,1499.0,999.0,500.0,33.0,,,1.8,800,,,,4.1,7845,501
+Motorola,Motorola g04s,Satin Blue,Flipkart,9999.0,7299.0,2700.0,27.0,4,64,6.6,5000,5,50,T606 Processor,4.2,29839,1642
+Apple,Apple iPhone 15,Black,Flipkart,79900.0,74900.0,5000.0,6.0,,256,6.1,,12,48,A16 Bionic Chip 6 Core Processor Processor,4.6,262580,9397
+REDMI,REDMI A3,Olive Green,Flipkart,11999.0,8490.0,3509.0,29.0,6,128,6.71,5000,5,8,Mediatek Helio G36 Processor,4.1,6776,346
+Samsung,Samsung Galaxy A16,Blue Black,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.7,5000,13,50,Dimensity 6300 Processor,4.2,2475,112
+I,I Kall I10,Shiny Gold,Flipkart,2799.0,1799.0,1000.0,35.0,,,2.8,2500,,8,,3.1,27,2
+realme,realme 14 Pro,Glass Purple,Flipkart,25999.0,21999.0,4000.0,15.0,8,128,6.7,5200,32,50,7s Gen2 Processor,4.4,408,24
+Samsung,Samsung SM-B310EZDDINS,Black,Flipkart,1999.0,928.0,1071.0,53.0,,,1.8,800,0,0,NA Processor,3.2,8049,517
+Google,Google Pixel 9,Peony,Flipkart,79999.0,64999.0,15000.0,18.0,12,256,6.3,4700,5,50,Google Tensor G4 Processor,4.5,3198,316
+vivo,vivo T3 Lite,Vibrant Green,Flipkart,14499.0,10499.0,4000.0,27.0,4,128,6.56,5000,8,50,Dimensity 6300 Processor,4.4,70298,2338
+REDMI,REDMI 9i Sport,Coral Green,Flipkart,9999.0,9500.0,499.0,4.0,4,64,6.53,5000,5,13,MediaTek Helio G25 Processor,4.3,270336,14927
+realme,realme 13 Pro+,Emerald Green,Flipkart,36999.0,25999.0,11000.0,29.0,8,256,6.7,5200,32,50,Snapdragon 7s Gen2 Processor,4.4,15033,1523
+realme,realme NARZO 80,Speed Silver,Flipkart,23999.0,18122.0,5877.0,24.0,8,128,6.7,6000,,50,,4.4,307,13
+Apple,Apple iPhone 16,Teal,Flipkart,99900.0,89999.0,9901.0,9.0,,256,6.7,,12,48,A18 Chip 6 Core Processor Processor,4.6,3067,171
+Samsung,Samsung Galaxy M35,Moonlight Blue,Flipkart,27499.0,26990.0,509.0,1.0,8,256,6.6,6000,,50,,4.3,3633,249
+vivo,vivo T3 Ultra,Frost Green,Flipkart,35999.0,27999.0,8000.0,22.0,8,128,6.78,5500,50,50,Dimensity 9200 Processor,4.5,22016,1801
+Motorola,Motorola G34 5G,Charcoal Black,Flipkart,14999.0,11999.0,3000.0,20.0,8,128,6.5,5000,16,50,Snapdragon 695 5G Processor,4.2,146858,10026
+Apple,Apple iPhone 14,Blue,Flipkart,59900.0,52990.0,6910.0,11.0,,128,6.1,,12,12,A15 Bionic Chip 6 Core Processor Processor,4.6,313551,11692
+realme,realme 70 TURBO,Turbo Green,Flipkart,19999.0,14760.0,5239.0,26.0,6,128,6.67,5000,,50,Segment's Fastest Dimensity 7300 Energy 5G Chipset Processor,4.3,5488,430
+Samsung,Samsung Galaxy A16,Blue Black,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.7,5000,13,50,Dimensity 6300 Processor,4.2,2475,112
+Google,Google Pixel 8,Bay,Flipkart,106999.0,59999.0,47000.0,43.0,12,128,6.7,5050,5,50,Tensor G3 Processor,4.4,1218,134
+Google,Google Pixel 8,Bay,Flipkart,106999.0,59999.0,47000.0,43.0,12,128,6.7,5050,5,50,Tensor G3 Processor,4.4,1218,134
+Kechaoda,Kechaoda K200,Red,Flipkart,1620.0,998.0,622.0,38.0,,,1.3,400,,3,,4.0,407,14
+vivo,vivo V50 5G,Rose Red,Flipkart,39999.0,32999.0,7000.0,17.0,8,128,6.77,6000,50,50,7 Gen 3 Processor,4.5,6154,540
+Alcatel,Alcatel V3 Classic,Halo White,Flipkart,17999.0,10999.0,7000.0,38.0,4,128,6.67,5200,8,50,Dimensity 6300 Processor,4.3,29,8
+vivo,vivo Y400 Pro,Freestyle White,Flipkart,29999.0,24999.0,5000.0,16.0,8,128,6.77,5500,32,50,Dimensity 7300 Processor,4.4,291,14
+Infinix,Infinix Note 40,Racing Grey,Flipkart,24999.0,15999.0,9000.0,36.0,8,256,6.78,5000,32,108,Dimensity 7020 Processor,4.2,12307,1141
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,12999.0,9999.0,3000.0,23.0,4,64,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+OPPO,OPPO A3x,Ocean Blue,Flipkart,12999.0,8999.0,4000.0,30.0,4,64,6.67,5100,5,8,6s 4G Gen1 Processor,4.2,1100,72
+Samsung,Samsung M55s,Coral Green,Flipkart,28999.0,18990.0,10009.0,34.0,8,128,6.7,5000,,50,,4.1,160,13
+POCO,POCO X6 Neo,Horizon Blue,Flipkart,19999.0,13990.0,6009.0,30.0,8,128,6.67,5000,16,108,Dimensity 6080 Processor,4.2,42214,3058
+OPPO,OPPO F29 Pro,Marble White,Flipkart,32999.0,25999.0,7000.0,21.0,8,128,6.7,6000,16,50,Dimensity 7300 Processor,4.4,1057,83
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,12999.0,9999.0,3000.0,23.0,4,64,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+vivo,vivo Y400 Pro,Freestyle White,Flipkart,29999.0,24999.0,5000.0,16.0,8,128,6.77,5500,32,50,Dimensity 7300 Processor,4.4,291,14
+vivo,vivo Y400 Pro,Freestyle White,Flipkart,29999.0,24999.0,5000.0,16.0,8,128,6.77,5500,32,50,Dimensity 7300 Processor,4.4,291,14
+Samsung,Samsung Galaxy A06,Light Green,Flipkart,12499.0,9291.0,3208.0,25.0,4,64,6.7,5000,,50,MEDIATEK Processor,4.0,789,63
+Samsung,Samsung Galaxy Z,Mint,Flipkart,109999.0,72999.0,37000.0,33.0,12,256,6.7,4000,10,50,Snapdragon 8 Gen 3 Processor,4.5,140,13
+vivo,vivo Y58 5G,Sundarbans Green,Flipkart,23999.0,16979.0,7020.0,29.0,8,128,6.72,6000,8,50,4 Gen 2 Processor,4.4,1202,57
+Snectian,Snectian Rock Z,Gold,Flipkart,2499.0,2161.0,338.0,13.0,,,2.4,1800,,2,,3.9,155,9
+IQOO,IQOO Neo 10,Inferno Red,Flipkart,40999.0,37590.0,3409.0,8.0,12,256,6.78,7000,,50,Qualcomm Processor,4.4,77,9
+Jio,Jio Bharat V3,Black,Flipkart,1899.0,987.0,912.0,48.0,,,1.77,1000,,3,,4.1,11,0
+REDMI,REDMI 14C 5G,Stardust Purple,Flipkart,12999.0,9999.0,3000.0,23.0,4,64,6.88,5160,8,50,4 Gen 2 5G Processor,4.2,4714,250
+itel,itel P 55,Mint Green,Flipkart,13499.0,9190.0,4309.0,31.0,6,128,6.6,5000,8,50,Mediatek Dimensity 6080 Processor,4.1,712,48
+Samsung,Samsung Galaxy S23,Phantom Black,Flipkart,149999.0,78699.0,71300.0,47.0,12,256,6.8,5000,12,200,Qualcomm Snapdragon 8 Gen 2 Processor,4.6,4300,396
+Samsung,Samsung Galaxy A06,Light Green,Flipkart,15499.0,10699.0,4800.0,30.0,4,128,6.7,5000,8,50,Dimensity 6300 Processor,4.0,789,63
+vivo,vivo Y400 Pro,Freestyle White,Flipkart,29999.0,24999.0,5000.0,16.0,8,128,6.77,5500,32,50,Dimensity 7300 Processor,4.4,291,14
+realme,realme Gt 7,Icesense Black,Flipkart,45999.0,37499.0,8500.0,18.0,8,256,6.78,7000,,50,Dimensity Processor,4.5,36,4
+HOTLINE,HOTLINE V66,Gold,Flipkart,999.0,490.0,509.0,50.0,,,1.77,1000,,3,,3.6,329,18
+REDMI,REDMI Note 14,Mystique White,Flipkart,21999.0,14701.0,7298.0,33.0,6,128,6.67,5110,,50,,4.3,1977,97
+IQOO,IQOO Neo 10,Inferno Red,Flipkart,40999.0,37590.0,3409.0,8.0,12,256,6.78,7000,,50,Qualcomm Processor,4.4,77,9
+I,I Kall I5,Blue,Flipkart,1699.0,849.0,850.0,50.0,,,2.4,2500,,3,,4.3,23,2
+vivo,vivo T3 Ultra,Frost Green,Flipkart,35999.0,27999.0,8000.0,22.0,8,128,6.78,5500,50,50,Dimensity 9200 Processor,4.5,22016,1801
+IQOO,IQOO Neo 10,Inferno Red,Flipkart,40999.0,37590.0,3409.0,8.0,12,256,6.78,7000,,50,Qualcomm Processor,4.4,77,9
+Samsung,Samsung SM 1207,Black,Flipkart,1799.0,779.0,1020.0,56.0,,,1.5,800,,,,3.2,5417,315
+OnePlus,OnePlus Nord CE4,Celadon Marble,Flipkart,24999.0,21884.0,3115.0,12.0,8,128,6.7,5500,,50,OxygenOS 14.0 Processor,4.4,23940,1341
+itel,itel Ace2 Power,Light Green,Flipkart,1399.0,1298.0,101.0,7.0,,,1.8,2500,,,,4.1,451,29
+Samsung,Samsung Galaxy A26,Awesome Black,Flipkart,27999.0,22999.0,5000.0,17.0,8,128,6.7,5000,13,50,Samsung Exynos 1380 Processor,4.1,158,22
+LAVA,LAVA Yuva 2,Marble Black,Flipkart,10999.0,8497.0,2502.0,22.0,4,128,6.67,5000,,50,,4.3,40,1
+OnePlus,OnePlus 13,Black Eclipse,Flipkart,72999.0,65999.0,7000.0,9.0,12,256,6.82,6000,32,50,Snapdragon 8 Elite Processor,4.5,186,16
+Nokia,Nokia 106,Terracotta Red,Flipkart,1699.0,1198.0,501.0,29.0,,,6.7,1000,,,SC6531E Processor,3.8,4923,281
+realme,realme 14 Pro+,Bikaner Purple,Flipkart,33999.0,29999.0,4000.0,11.0,8,128,6.83,6000,32,50,7s Gen 3 Mobile Platform Processor,4.4,11228,1493
+GFive,GFive SHARK,Champagne Gold,Flipkart,999.0,839.0,160.0,16.0,,,1.8,1000,,3,,3.6,731,70
+OPPO,OPPO F29 5G,Glacier Blue,Flipkart,28999.0,23999.0,5000.0,17.0,8,128,6.7,6500,16,50,6 Gen 1 Processor,4.3,1720,105
+realme,realme 14 Pro+,Bikaner Purple,Flipkart,33999.0,29999.0,4000.0,11.0,8,128,6.83,6000,32,50,7s Gen 3 Mobile Platform Processor,4.4,11228,1493
+OPPO,OPPO Reno 12,Matte Brown,Flipkart,43999.0,32999.0,11000.0,25.0,8,256,6.7,5000,32,50,Dimensity 7300 Energy Processor,4.4,6829,449
+OnePlus,OnePlus 13s 5G,Pink Satin,Flipkart,57999.0,51789.0,6210.0,10.0,12,256,6.32,5850,,50,,4.5,265,24
+Motorola,Motorola Edge 50,Peach Fuzz,Flipkart,64999.0,44999.0,20000.0,30.0,12,512,6.7,4500,50,50,8s Gen 3 Mobile Platform Processor,4.3,2939,322
+MOTOROLA,MOTOROLA Edge 60,Pantone Sparkling Grape,Flipkart,42999.0,37999.0,5000.0,11.0,16,512,6.7,6000,50,50,Dimensity 8350 Processor,4.4,157,15
+OPPO,OPPO K12x 5G,Breeze Blue,Flipkart,16999.0,12999.0,4000.0,23.0,6,128,6.67,5100,8,32,Dimensity 6300 Processor,4.5,183764,6497
+BlackZone,BlackZone ECO X,Gold,Flipkart,2199.0,1449.0,750.0,34.0,,,1.77,1100,,3,,4.0,8910,541
+IQOO,IQOO Z9S 5G,Titanium Matte,Flipkart,27999.0,22470.0,5529.0,19.0,8,256,6.77,5500,,50,MediaTek Dimensity 7300 5G Processor,4.4,8518,531
+Nokia,Nokia 105 Classic,Charcoal,Flipkart,1599.0,1339.0,260.0,16.0,,,1.77,800,0,0,SC6531E Processor,3.6,6828,445
+Jio,Jio Bharat V4,Blue,Flipkart,1899.0,798.0,1101.0,57.0,,,1.77,1000,,3,mediatek Processor,3.8,132,4
+Nokia,Nokia 150,Black,Flipkart,3199.0,2599.0,600.0,18.0,,,2.4,1450,0,3,6261D Processor,3.9,14758,1329
+Tecno,Tecno Camon 30,Basaltic Dark,Flipkart,32999.0,23999.0,9000.0,27.0,12,512,6.78,5000,50,50,Dimensity 7020 5G Processor,4.0,171,13
+Nokia,Nokia 110 4G,Arctic Purple,Flipkart,3299.0,3198.0,101.0,3.0,,,1.8,1450,,8,T107 Processor,4.0,1160,70
+LAVA,LAVA A5_2025,Dark Blue,Flipkart,1599.0,1468.0,131.0,8.0,,,2.4,1200,,3,,4.0,196,15
+itel,itel Ace3 Young,Deep Blue,Flipkart,1199.0,900.0,299.0,24.0,,,1.8,1000,,,Unisoc Processor,4.2,6,0
+realme,realme 14 Pro,Jaipur Pink,Flipkart,27999.0,24999.0,3000.0,10.0,8,128,6.77,6000,16,50,Dimensity 7300 Energy Processor,4.4,10199,842
+realme,realme 14 Pro,Jaipur Pink,Flipkart,27999.0,24999.0,3000.0,10.0,8,128,6.77,6000,16,50,Dimensity 7300 Energy Processor,4.4,10199,842
+realme,realme 14 Pro,Jaipur Pink,Flipkart,27999.0,24999.0,3000.0,10.0,8,128,6.77,6000,16,50,Dimensity 7300 Energy Processor,4.4,10199,842
+POCO,POCO C71 -,Desert Gold,Flipkart,8999.0,5899.0,3100.0,34.0,4,64,6.88,5200,8,32,Unisoc T7250 Processor,3.9,21407,1080
+MOTOROLA,MOTOROLA Razr 60,PANTONE Spring Bud,Flipkart,54999.0,49999.0,5000.0,9.0,8,256,6.9,4500,32,50,Dimensity 7400X Processor,4.5,344,41
+REDMI,REDMI A3,Lake Blue,Flipkart,11999.0,8590.0,3409.0,28.0,6,128,6.71,5000,5,8,Mediatek Helio G36 Processor,4.1,6776,346
+REDMI,REDMI Note 14,Mystique White,Flipkart,21999.0,14701.0,7298.0,33.0,6,128,6.67,5110,,50,,4.3,1977,97
+vivo,vivo Y400 Pro,Freestyle White,Flipkart,29999.0,24999.0,5000.0,16.0,8,128,6.77,5500,32,50,Dimensity 7300 Processor,4.4,291,14
+SAREGAMA,SAREGAMA Carvaan Mobile,Classic Black,Flipkart,2199.0,977.0,1222.0,55.0,,2,1.8,1800,,,,3.8,161,12
+OPPO,OPPO F29 5G,Glacier Blue,Flipkart,28999.0,23999.0,5000.0,17.0,8,128,6.7,6500,16,50,6 Gen 1 Processor,4.3,1720,105
+REDMI,REDMI Note 14,Titan Black,Flipkart,24999.0,19817.0,5182.0,20.0,8,256,6.67,5110,,50,,4.2,1322,80
+realme,realme 14 Pro+,Bikaner Purple,Flipkart,33999.0,29999.0,4000.0,11.0,8,128,6.83,6000,32,50,7s Gen 3 Mobile Platform Processor,4.4,11228,1493
+OPPO,OPPO F29 Pro,Marble White,Flipkart,32999.0,25999.0,7000.0,21.0,8,128,6.7,6000,16,50,Dimensity 7300 Processor,4.4,1057,83
+realme,realme 14 Pro+,Bikaner Purple,Flipkart,33999.0,29999.0,4000.0,11.0,8,128,6.83,6000,32,50,7s Gen 3 Mobile Platform Processor,4.4,11228,1493
+realme,realme 14 Pro+,Bikaner Purple,Flipkart,33999.0,29999.0,4000.0,11.0,8,128,6.83,6000,32,50,7s Gen 3 Mobile Platform Processor,4.4,11228,1493
+Samsung,Samsung Galaxy Z,Blue,Flipkart,121999.0,73999.0,48000.0,39.0,12,512,6.7,4000,10,50,Snapdragon 8 Gen 3 Processor,4.5,140,13
+OPPO,OPPO F29 Pro,Marble White,Flipkart,32999.0,25999.0,7000.0,21.0,8,128,6.7,6000,16,50,Dimensity 7300 Processor,4.4,1057,83
+OPPO,OPPO F29 Pro,Marble White,Flipkart,32999.0,25999.0,7000.0,21.0,8,128,6.7,6000,16,50,Dimensity 7300 Processor,4.4,1057,83
+itel,itel it5027 Slim,White,Flipkart,1649.0,1069.0,580.0,35.0,,,2.4,1200,,3,,4.1,104,5
+realme,realme 14 Pro,Glass Purple,Flipkart,25999.0,21999.0,4000.0,15.0,8,128,6.7,5200,32,50,7s Gen2 Processor,4.4,408,24
+realme,realme 14 Pro,Glass Purple,Flipkart,25999.0,21999.0,4000.0,15.0,8,128,6.7,5200,32,50,7s Gen2 Processor,4.4,408,24
+itel,itel A50C,Black,Flipkart,6199.0,5849.0,350.0,5.0,2,32,6.67,4000,,8,,4.1,336,13
+Jmax,Jmax LEGEND,NEOW BLUE,Flipkart,9499.0,3999.0,5500.0,57.0,3,16,6.8,4000,,5,NA Processor,3.0,196,25
+Tecno,Tecno Pop 9,Aurora Cloud,Flipkart,11999.0,9499.0,2500.0,20.0,4,128,6.67,5000,8,48,Dimensity 6300 5G Processor,3.9,63,5
+KARBONN,KARBONN K121i Dual,Grey Black,Flipkart,1190.0,880.0,310.0,26.0,,,1.8,1000,0,0,NA Processor,3.8,30,1
+OPPO,OPPO A3x 5G,Starlight White,Flipkart,14999.0,10999.0,4000.0,26.0,4,64,6.67,5100,5,8,Dimensity 6300 Processor,4.2,3233,145
+OPPO,OPPO A3x 5G,Starlight White,Flipkart,14999.0,10999.0,4000.0,26.0,4,64,6.67,5100,5,8,Dimensity 6300 Processor,4.2,3233,145
+REDMI,REDMI Note 13,Arctic White,Flipkart,28999.0,19699.0,9300.0,32.0,8,128,6.67,5100,16,200,7s Gen 2 Mobile Platform 5G Processor,4.3,38315,2994
+REDMI,REDMI A5,Just Black,Flipkart,8999.0,6499.0,2500.0,27.0,3,64,6.88,5200,8,32,T7250 Processor,4.3,2309,116
+Samsung,Samsung Galaxy S23,Cream,Flipkart,89999.0,44999.0,45000.0,50.0,8,128,6.1,3900,12,50,Qualcomm Snapdragon 8 Gen 2 Processor,4.6,79125,5408
+OPPO,OPPO A5 Pro,Mocha Brown,Flipkart,21999.0,17999.0,4000.0,18.0,8,128,6.67,5800,8,50,Dimensity 6300 Processor,4.2,237,8
+Samsung,Samsung Galaxy A15,Blue Black,Flipkart,21499.0,16999.0,4500.0,20.0,8,128,6.5,5000,13,50,Dimensity 6100 Processor,4.3,4081,241
+REDMI,REDMI Note-14 Pro+,Phantom Purple,Flipkart,34999.0,25150.0,9849.0,28.0,8,128,6.67,6200,20,50,7s Gen 3 Processor,4.2,145,7
+Motorola,Motorola G62 5G,Frosted Blue,Flipkart,24999.0,11999.0,13000.0,52.0,8,128,,5000,16,50,Qualcomm Snapdragon 695 5G Processor,4.1,30464,2523
+Motorola,Motorola Edge 50,PANTONE Nautical Blue,Flipkart,29999.0,19999.0,10000.0,33.0,8,256,6.4,4310,32,50,Dimensity 7300 Processor,4.4,28920,2820
+Snexian,Snexian ROCK 7600,Black Red,Flipkart,1999.0,990.0,1009.0,50.0,,,1.8,1000,,3,,3.3,57,1
+LAVA,LAVA A1 vibe,Blue,Flipkart,1499.0,1065.0,434.0,28.0,,,1.77,1000,,3,,4.0,4576,328
+LAVA,LAVA Yuva Star,Glossy Black,Flipkart,6999.0,6249.0,750.0,10.0,4,64,6.75,5000,5,13,Unisoc SC9863A Processor,4.0,902,55
+POCO,POCO F6 5G,Black,Flipkart,35999.0,23999.0,12000.0,33.0,12,256,6.67,5000,20,50,8s Gen3 Processor,4.3,7760,752
+Google,Google Pixel 8a,Aloe,Flipkart,52999.0,37999.0,15000.0,28.0,8,128,6.1,4404,13,64,Tensor G3 Processor,4.3,7112,581
+Nokia,Nokia 150 Dual,Red,Flipkart,3000.0,1979.0,1021.0,34.0,,,2.4,1020,,3,MediaTek Processor,3.9,30011,2281
+Samsung,Samsung Galaxy A36,Awesome Black,Flipkart,38999.0,33999.0,5000.0,12.0,8,256,6.7,5000,12,50,Qualcomm Snapdragon 6 Gen 3 Processor,4.3,960,73
+Kechaoda,Kechaoda K28,Gold,Flipkart,1499.0,1194.0,305.0,20.0,,,2.4,1700,,3,,4.0,4807,359
+OPPO,OPPO A3x 5G,Starlight White,Flipkart,14999.0,10999.0,4000.0,26.0,4,64,6.67,5100,5,8,Dimensity 6300 Processor,4.2,3233,145
+Xiaomi,Xiaomi 14 CIVI,Cruise Blue,Flipkart,54999.0,36999.0,18000.0,32.0,8,256,6.55,4700,,50,8s Gen 3 Mobile Platform Processor,4.3,1469,185
+REDMI,REDMI 9 Power,Mighty Black,Flipkart,13999.0,8775.0,5224.0,37.0,4,64,6.53,6000,8,48,Qualcomm Snapdragon 662 Processor,4.3,245593,16878
+Snexian,Snexian BOLD CORDLESS,Gold,Flipkart,2499.0,1499.0,1000.0,40.0,,,2.2,2500,,3,,4.3,33,4
+Jmax,Jmax Prime1,Blue,Flipkart,2399.0,999.0,1400.0,58.0,,,2.4,2250,,3,,3.9,60,10
+CMF,CMF by Nothing,Blue,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.67,5000,16,50,Dimensity 7300 5G Processor,4.4,81541,5613
+Apple,Apple iPhone 16,White,Flipkart,109900.0,99999.0,9901.0,9.0,,512,6.1,,12,48,A18 Chip 6 Core Processor Processor,4.6,19106,793
+CMF,CMF by Nothing,Blue,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.67,5000,16,50,Dimensity 7300 5G Processor,4.4,81541,5613
+CMF,CMF by Nothing,Blue,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.67,5000,16,50,Dimensity 7300 5G Processor,4.4,81541,5613
+Motorola,Motorola e13,Cosmic Black,Flipkart,10999.0,6999.0,4000.0,36.0,4,64,6.5,5000,5,13,Unisoc T606 Processor,4.1,107533,7789
+OnePlus,OnePlus Nord 4,Obsidian Midnight,Flipkart,29999.0,24990.0,5009.0,16.0,8,128,6.74,5500,,50,,4.5,3748,233
+Samsung,Samsung Guru1200,Black,Flipkart,1800.0,791.0,1009.0,56.0,,,1.8,800,,,,3.0,1596,137
+Jmax,Jmax Touch,Purple,Flipkart,2199.0,999.0,1200.0,54.0,,,2.8,3000,,1,,3.7,20,2
+itel,itel A80,Sandstone Black,Flipkart,8999.0,6849.0,2150.0,23.0,4,128,6.7,5000,,50,,4.2,331,17
+Kechaoda,Kechaoda 888_black,Black,Flipkart,1999.0,1739.0,260.0,13.0,,,1.8,3000,0,3,NA Processor,4.2,240,11
+REDMI,REDMI Note 14,Titan Black,Flipkart,24999.0,19817.0,5182.0,20.0,8,256,6.67,5110,,50,,4.2,1322,80
+Google,Google Pixel 9,Obsidian,Flipkart,172999.0,129999.0,43000.0,24.0,16,256,6.3,4650,10,48,Google Tensor G4 Processor,4.6,154,14
+hmd,hmd Crest Max,Aqua Green,Flipkart,22499.0,11999.0,10500.0,46.0,8,256,6.9,5000,,64,,4.0,133,20
+IQOO,IQOO Z10 5G,Stellar Black / Black,Flipkart,29999.0,26990.0,3009.0,10.0,12,256,6.7,7300,,50,,4.4,530,37
+realme,realme 14 Pro,Jaipur Pink,Flipkart,27999.0,24999.0,3000.0,10.0,8,128,6.77,6000,16,50,Dimensity 7300 Energy Processor,4.4,10199,842
+realme,realme 14 Pro,Jaipur Pink,Flipkart,27999.0,24999.0,3000.0,10.0,8,128,6.77,6000,16,50,Dimensity 7300 Energy Processor,4.4,10199,842
+itel,itel it5027 6.1cm,Blue,Flipkart,1699.0,1498.0,201.0,11.0,,,2.4,1200,0,3,NA Processor,4.0,1667,81
+vivo,vivo V50 5G,Rose Red,Flipkart,50999.0,39999.0,11000.0,21.0,12,512,6.77,6000,50,50,7 Gen 3 Processor,4.5,192,15
+itel,itel Super Guru,Blue,Flipkart,2099.0,1764.0,335.0,15.0,,,2.0,1000,,3,,3.7,479,30
+Samsung,Samsung Galaxy Z,Blue,Flipkart,109999.0,71999.0,38000.0,34.0,12,256,6.7,4000,10,50,Snapdragon 8 Gen 3 Processor,4.5,140,13
+Samsung,Samsung M55s,Thunder Black,Flipkart,28999.0,18986.0,10013.0,34.0,8,128,6.7,5000,,50,snapdragon Processor,4.1,160,13
+Xiaomi,Xiaomi 14 CIVI,Cruise Blue,Flipkart,59999.0,38999.0,21000.0,35.0,12,512,6.55,4700,,50,8s Gen 3 Mobile Platform Processor,4.4,754,68
+LAVA,LAVA Yuva Star,Glossy Black,Flipkart,6999.0,6249.0,750.0,10.0,4,64,6.75,5000,5,13,Unisoc SC9863A Processor,4.0,902,55
+Samsung,Samsung 1200,Blue,Flipkart,1699.0,797.0,902.0,53.0,,,1.5,800,,3,,3.1,4223,295
+vivo,vivo Y58 5G,Sundarbans Green,Flipkart,23999.0,16575.0,7424.0,30.0,8,128,6.72,6000,8,50,4 Gen 2 Processor,4.4,1202,57
+Nokia,Nokia 105 Single,Charcoal,Flipkart,1593.0,1340.0,253.0,15.0,,,1.77,800,0,0,SC6531E Processor,3.9,162924,10312
+realme,realme 14 Pro+,Bikaner Purple,Flipkart,33999.0,29999.0,4000.0,11.0,8,128,6.83,6000,32,50,7s Gen 3 Mobile Platform Processor,4.4,11228,1493
+realme,realme NARZO N65,AMBER GOLD,Flipkart,13999.0,10452.0,3547.0,25.0,4,128,6.67,5000,,50,,4.3,1779,95
+POCO,POCO C71 -,Cool Blue,Flipkart,8999.0,5899.0,3100.0,34.0,4,64,6.88,5200,8,32,Unisoc T7250 Processor,3.9,21407,1080
+OPPO,OPPO A17k,Navy Blue,Flipkart,12999.0,8499.0,4500.0,34.0,3,64,6.56,5000,5,8,Mediatek Helio P35 Processor,4.5,16315,386
+I,I Kall K444,Blue,Flipkart,1999.0,854.0,1145.0,57.0,,,2.4,2500,,3,,3.7,45,2
+Samsung,Samsung Galaxy A36,Awesome Lavender,Flipkart,38999.0,33999.0,5000.0,12.0,8,256,6.7,5000,12,50,Qualcomm Snapdragon 6 Gen 3 Processor,4.3,960,73
+REDMI,REDMI Note 14,Spectre Blue,Flipkart,34999.0,27999.0,7000.0,20.0,8,128,6.67,6200,20,50,7s Gen 3 Processor,4.3,2159,205
+GFive,GFive SHARK NEW,Midnight Black,Flipkart,999.0,740.0,259.0,25.0,,,1.8,1000,,3,,3.7,134,3
+REDMI,REDMI Note 13,Purple,Flipkart,20999.0,17899.0,3100.0,14.0,6,128,6.67,5000,16,108,Dimensity 6080 Processor,4.2,30637,1768
+POCO,POCO C61,Mystical Green,Flipkart,8999.0,6990.0,2009.0,22.0,4,64,6.71,5000,5,8,Helio G36 Processor,4.1,110043,4655
+itel,itel Color Pro,River Blue,Flipkart,13499.0,9590.0,3909.0,28.0,6,128,6.6,5000,8,50,Dimensity 6080 Processor,4.3,192,18
+POCO,POCO M7 Pro,Lunar Dust,Flipkart,20999.0,14999.0,6000.0,28.0,8,256,6.67,5110,20,50,Dimensity 7025 Ultra Processor,4.2,6921,707
+CMF,CMF by Nothing,Blue,Flipkart,19999.0,15999.0,4000.0,20.0,6,128,6.67,5000,16,50,Dimensity 7300 5G Processor,4.4,81541,5613
+leysky,leysky Lyf-jiof320 4g,Black,Flipkart,2999.0,2490.0,509.0,16.0,,,2.4,1500,,3,Qualcom Processor,4.0,4,0
+Honor,Honor 200 5G,Black,Flipkart,39999.0,22489.0,17510.0,43.0,8,256,6.7,5200,50,50,Snapdragon 7 Gen 3 Processor,4.4,142,13
+vivo,vivo Y19 5G,Majestic Green,Flipkart,13999.0,10499.0,3500.0,25.0,4,64,6.74,5500,5,13,Dimensity 6300 Processor,4.3,999,43
+Tecno,Tecno Spark 30C,Aurora Cloud,Flipkart,11999.0,9999.0,2000.0,16.0,4,64,6.67,5000,8,48,Dimensity 6300 5G Processor,4.1,824,42
+Tecno,Tecno Spark 30C,Aurora Cloud,Flipkart,11999.0,9999.0,2000.0,16.0,4,64,6.67,5000,8,48,Dimensity 6300 5G Processor,4.1,824,42
+Tecno,Tecno Spark 30C,Azure Sky,Flipkart,11999.0,9999.0,2000.0,16.0,4,64,6.67,5000,8,48,Dimensity 6300 5G Processor,4.1,824,42
+Tecno,Tecno Spark 30C,Azure Sky,Flipkart,11999.0,9999.0,2000.0,16.0,4,64,6.67,5000,8,48,Dimensity 6300 5G Processor,4.1,824,42
+vivo,vivo Y19 5G,Majestic Green,Flipkart,13999.0,10499.0,3500.0,25.0,4,64,6.74,5500,5,13,Dimensity 6300 Processor,4.3,999,43
+vivo,vivo Y19 5G,Majestic Green,Flipkart,13999.0,10499.0,3500.0,25.0,4,64,6.74,5500,5,13,Dimensity 6300 Processor,4.3,999,43
+itel,itel it2175 Pro,Deep Blue,Flipkart,1499.0,1184.0,315.0,21.0,,,2.0,1200,,8,SC6531E Processor,4.1,1985,93
+OnePlus,OnePlus Nord 4,Obsidian Midnight,Flipkart,29999.0,24990.0,5009.0,16.0,8,128,6.74,5500,,50,,4.5,3748,233
+realme,realme Gt 7,Icesense Black,Flipkart,45999.0,37499.0,8500.0,18.0,8,256,6.78,7000,,50,Dimensity Processor,4.5,36,4
+OnePlus,OnePlus Nord CE4,Celadon Marble,Flipkart,24999.0,21884.0,3115.0,12.0,8,128,6.7,5500,,50,OxygenOS 14.0 Processor,4.4,23940,1341
+itel,itel it5262,Light Blue,Flipkart,1599.0,1379.0,220.0,13.0,,,2.4,2000,,8,,4.0,1666,93
+IQOO,IQOO z9x,Tornado Green,Flipkart,18999.0,13790.0,5209.0,27.0,6,128,6.72,6000,8,50,Qualcomm SM6450 Snapdragon 6 Gen 1 Processor,4.4,10267,514
+Samsung,Samsung Galaxy M56,Light Green,Flipkart,30999.0,24952.0,6047.0,19.0,8,128,6.7,5000,,50,Octacore Processor,4.5,110,4
+POCO,POCO M6 Plus,Misty Lavender,Flipkart,17999.0,11499.0,6500.0,36.0,8,128,6.79,5030,13,108,Snapdragon 4 Gen2 AE Processor,4.2,11513,724
+itel,itel Power 450,Dark Grey,Flipkart,1899.0,1597.0,302.0,15.0,,,2.4,2500,,8,,4.1,1062,73
+Kechaoda,Kechaoda K28 PRO,Silver,Flipkart,1999.0,1249.0,750.0,37.0,,,2.4,3000,,3,,4.0,147,9
+POCO,POCO X6 5G,Mirror Black,Flipkart,27999.0,24999.0,3000.0,10.0,12,512,6.67,5100,16,64,7s Gen 2 Mobile Platform 5G Processor,4.3,12937,1121
+OPPO,OPPO A5 5G,Mist White,Flipkart,19499.0,15499.0,4000.0,20.0,6,128,6.67,6000,8,50,Dimensity 6300 Processor,4.4,32,3
+realme,realme NARZO N65,AMBER GOLD,Flipkart,13999.0,10452.0,3547.0,25.0,4,128,6.67,5000,,50,,4.3,1779,95
+Samsung,Samsung Galaxy Z,Cream,Flipkart,113999.0,66999.0,47000.0,41.0,8,512,6.7,3700,10,12,Snapdragon 8 Gen 2 Processor,4.4,839,49
+vivo,vivo V40e 5G,Mint Green,Flipkart,33999.0,24999.0,9000.0,26.0,8,128,6.77,5500,50,50,Dimensity 7300 Processor,4.4,9807,661
+Google,Google Pixel 9,Obsidian,Flipkart,124999.0,104999.0,20000.0,16.0,16,256,6.8,5060,42,50,Google Tensor G4 Processor,4.6,856,74
+REDMI,REDMI 13c 5G,Starlight Black,Flipkart,13999.0,10617.0,3382.0,24.0,4,128,6.74,5000,,50,,4.3,45648,1831
+itel,itel A70,Brilliant Gold,Flipkart,7299.0,6349.0,950.0,13.0,4,64,6.56,5000,,13,,4.2,3067,113
+Samsung,Samsung Galaxy A36,Awesome White,Flipkart,38999.0,33999.0,5000.0,12.0,8,256,6.7,5000,12,50,Qualcomm Snapdragon 6 Gen 3 Processor,4.3,960,73
+POCO,POCO X6 Pro,Yellow,Flipkart,30999.0,19699.0,11300.0,36.0,8,256,6.67,5000,16,64,Dimensity D8300 Ultra Processor,4.3,24363,2541
+REDMI,REDMI Note 14,Phantom Purple,Flipkart,28999.0,22999.0,6000.0,20.0,8,128,6.67,5500,20,50,Dimensity 7300 Ultra Processor,4.3,3970,298
+vivo,vivo Y400 Pro,Freestyle White,Flipkart,29999.0,24999.0,5000.0,16.0,8,128,6.77,5500,32,50,Dimensity 7300 Processor,4.4,291,14
+realme,realme Gt 7,Icesense Black,Flipkart,45999.0,37499.0,8500.0,18.0,8,256,6.78,7000,,50,Dimensity Processor,4.5,36,4
+OPPO,OPPO A5 5G,Mist White,Flipkart,19499.0,15499.0,4000.0,20.0,6,128,6.67,6000,8,50,Dimensity 6300 Processor,4.4,32,3
+Alcatel,Alcatel V3 Ultra,Ocean Grey,Flipkart,27999.0,17999.0,10000.0,35.0,6,128,6.78,5010,32,108,Dimensity 6300 Processor,3.8,36,13
+Xiaomi,Xiaomi 14 CIVI,Hot Pink,Flipkart,59999.0,39999.0,20000.0,33.0,12,512,6.55,4700,,50,8s Gen 3 Mobile Platform Processor,4.4,754,68
+itel,itel Muzik 430,Purple,Flipkart,1899.0,1796.0,103.0,5.0,,,2.4,3000,0,3,Unisoc Processor,3.8,,
+BlackZone,BlackZone PEPSO,Blue,Flipkart,1699.0,879.0,820.0,48.0,,,1.0,800,,3,,4.6,9,0
+LAVA,LAVA Blaze Duo,Arctic White,Flipkart,17999.0,15899.0,2100.0,11.0,6,128,6.67,5000,,64,,3.8,83,8
+REDMI,REDMI 13c 5G,Starlight Black,Flipkart,13999.0,10617.0,3382.0,24.0,4,128,6.74,5000,,50,,4.3,45648,1831
+vivo,vivo Y19 5G,Majestic Green,Flipkart,13999.0,10499.0,3500.0,25.0,4,64,6.74,5500,5,13,Dimensity 6300 Processor,4.3,999,43
+POCO,POCO C71 -,Power Black,Flipkart,8999.0,5899.0,3100.0,34.0,4,64,6.88,5200,8,32,Unisoc T7250 Processor,3.9,21407,1080
+Motorola,Motorola G32,Satin Maroon,Flipkart,18999.0,11990.0,7009.0,36.0,8,128,6.5,5000,16,50,Qualcomm Snapdragon 680 Processor,4.2,127547,9972
+itel,itel A90,Aurora Blue,Flipkart,8299.0,6499.0,1800.0,21.0,4,64,6.6,5000,,13,,3.9,25,1
+OnePlus,OnePlus Nord CE4,Celadon Marble,Flipkart,24999.0,21884.0,3115.0,12.0,8,128,6.7,5500,,50,OxygenOS 14.0 Processor,4.4,23940,1341
+Nothing,Nothing Phone,Black,Flipkart,25999.0,22999.0,3000.0,11.0,8,128,6.7,5000,32,50,Dimensity 7200 Pro Processor,4.4,101289,8071
+itel,itel A50C,Black,Flipkart,6199.0,5849.0,350.0,5.0,2,32,6.67,4000,,8,,4.1,336,13
+OPPO,OPPO Reno 12,Matte Brown,Flipkart,43999.0,32999.0,11000.0,25.0,8,256,6.7,5000,32,50,Dimensity 7300 Energy Processor,4.4,6829,449
+OnePlus,OnePlus Nord CE4,Celadon Marble,Flipkart,24999.0,21884.0,3115.0,12.0,8,128,6.7,5500,,50,OxygenOS 14.0 Processor,4.4,23940,1341
+Nokia,Nokia 105,Charcoal,Flipkart,1699.0,1143.0,556.0,32.0,,,1.77,1000,0,0,,3.2,6601,474
+Nothing,Nothing Phone,Black,Flipkart,25999.0,22999.0,3000.0,11.0,8,128,6.7,5000,32,50,Dimensity 7200 Pro Processor,4.4,101289,8071
+Motorola,Motorola g04s,Sea Green,Flipkart,9999.0,7299.0,2700.0,27.0,4,64,6.6,5000,5,50,T606 Processor,4.2,29839,1642
+Samsung,Samsung Galaxy A36,Awesome White,Flipkart,35999.0,30999.0,5000.0,13.0,8,128,6.7,5000,12,50,Qualcomm Snapdragon 6 Gen 3 Processor,4.3,960,73
+REDMI,REDMI Note 14,Spectre Blue,Flipkart,34999.0,27999.0,7000.0,20.0,8,128,6.67,6200,20,50,7s Gen 3 Processor,4.3,2159,205
+POCO,POCO C61,Ethereal Blue,Flipkart,8999.0,6975.0,2024.0,22.0,4,64,6.71,5000,5,8,Helio G36 Processor,4.1,110043,4655
+Samsung,Samsung M06 5G,Blazing Black,Flipkart,13999.0,10390.0,3609.0,25.0,4,128,6.7,5000,,50,,3.9,270,30
+REDMI,REDMI Note 14,Titan Black,Flipkart,24999.0,19817.0,5182.0,20.0,8,256,6.67,5110,,50,,4.2,1322,80
+REDMI,REDMI Note 14,Phantom Purple,Flipkart,22999.0,17319.0,5680.0,24.0,8,128,6.67,5110,,50,,4.2,1322,80
+Kechaoda,Kechaoda K120,Black,Flipkart,2130.0,1199.0,931.0,43.0,,,2.8,2500,,3,,3.9,181,19
