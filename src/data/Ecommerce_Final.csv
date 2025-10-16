@@ -1,0 +1,886 @@
+Brand,Brand_Model,Color,Platform,MRP,Selling_Price,Discount_Price,Discount,RAM,ROM,Display_Size,Battery,Front_Cam(MP),Back_Cam(MP),Processor,Ratings,Rating_Count,Review_Count
+poco,c75 5g,enchanted green,flipkart,10999,7699,3300,30,4,64,6.88,5160,5,50,4s gen 2 5g processor,4.3,83280,4112
+poco,m6 plus,graphite black,flipkart,15999,10080,5919,36,6,128,6.79,5030,13,50,snapdragon 4 gen2 ae processor,4.2,59597,3573
+cmf,phone 1,black,flipkart,22999,18999,4000,17,8,128,6.77,5000,16,108,dimensity 7300 pro 5g processor,4.4,15881,1311
+motorola,g85 5g,viva magenta,flipkart,20999,15999,5000,23,8,128,6.67,5000,32,108,6s gen 3 processor,4.4,217987,11163
+oppo,k13 5g,prism black,flipkart,22999,17999,5000,21,8,128,6.67,7000,16,50,snapdragon 6 gen 4 processor,4.5,24615,1677
+motorola,g35 5g,midnight black,flipkart,12499,9999,2500,20,4,128,6.72,5000,16,108,t760 processor,4.2,64998,4764
+poco,f7 5g,cyber silver edition,flipkart,37999,33999,4000,10,12,512,6.83,7550,20,50,8s gen 4 processor,4.4,5646,699
+motorola,g45 5g,viva magenta,flipkart,14999,11999,3000,20,8,128,6.5,5000,16,50,snapdragon 6s gen 3 processor,4.3,195416,10117
+vivo,t4 lite,titanium gold,flipkart,13999,9999,4000,28,4,128,6.74,6000,5,108,dimensity 6300 5g processor,4.4,7237,216
+samsung,guru music,black,flipkart,2349,949,1400,59,6,64,1.8,800,16,50,na processor,3.1,16817,1264
+samsung,guru 1200,black,flipkart,1699,786,913,53,8,128,1.52,800,6,50,4s gen 2 5g processor,3.1,5194,373
+poco,c75 5g,aqua bliss,flipkart,11499,8499,3000,26,4,128,6.88,5160,5,32,4s gen 2 5g processor,4.3,83280,4112
+samsung,galaxy f16,glam green,flipkart,17499,11499,6000,34,6,128,6.657,5000,13,50,dimensity 6300 processor,4.2,4683,309
+redmi,a5,just black,flipkart,8999,6499,2500,27,3,64,6.88,5200,8,108,t7250 processor,4.3,2309,116
+motorola,edge 60,pantone amazonite,flipkart,25999,22999,3000,11,8,256,6.67,5500,32,50,dimensity 7400 processor,4.5,42821,2423
+motorola,g45 5g,viva magenta,flipkart,12999,10999,2000,15,4,128,6.5,5000,16,50,snapdragon 6s gen 3 processor,4.3,48119,2944
+apple,iphone 16,white,flipkart,79900,69999,9901,12,12,128,6.1,4500,12,108,a18 chip 6 core processor processor,4.6,19106,793
+poco,m7 5g,mint green,flipkart,12999,9299,3700,28,6,128,6.88,5160,8,50,4 gen 2 5g processor,4.1,25331,1321
+apple,iphone 16,black,flipkart,79900,69999,9901,12,12,128,6.1,4600,12,50,a18 chip 6 core processor processor,4.6,19106,793
+infinix,note 50s,marine drift,flipkart,19999,14999,5000,25,6,128,6.78,5500,13,50,dimensity 7300 ultimate processor,4.4,1276,86
+oppo,k13x 5g,midnight violet,flipkart,15999,11999,4000,25,4,128,6.67,6000,8,108,dimensity 6300 processor,4.5,1949,310
+redmi,a5,just black,flipkart,8999,6499,2500,27,3,64,6.88,5200,8,50,t7250 processor,4.3,2309,116
+vivo,t4x 5g,marine blue,flipkart,17999,13999,4000,22,6,128,6.72,6500,8,32,dimensity 7300 5g processor,4.4,91091,4758
+redmi,13 5g,orchid pink,flipkart,17999,11967,6032,33,6,128,6.79,5030,12,50,qualcomm sm4450 snapdragon 4 gen 2 ae 4 nm processor,4.2,42234,2172
+motorola,edge 60,pantone zephyr,flipkart,25999,22999,3000,11,8,256,6.67,5500,32,20,dimensity 7400 processor,4.5,42821,2423
+poco,c71,power black,flipkart,9999,6999,3000,30,6,128,6.88,5200,8,108,unisoc t7250 processor,4.1,9351,513
+motorola,g85 5g,olive green,flipkart,20999,15999,5000,23,8,128,6.67,5000,32,50,6s gen 3 processor,4.4,217987,11163
+motorola,edge 60,pantone slipstream,flipkart,25999,22999,3000,11,8,256,6.67,5500,32,50,dimensity 7400 processor,4.5,42821,2423
+samsung,galaxy f16,vibing blue,flipkart,18999,13499,5500,28,8,128,6.657,5000,13,108,dimensity 6300 processor,4.2,2075,150
+motorola,g45 5g,brilliant blue,flipkart,12999,10999,2000,15,4,128,6.5,5000,16,108,snapdragon 6s gen 3 processor,4.3,48119,2944
+vivo,t4 lite,titanium gold,flipkart,13999,9999,4000,28,4,128,6.74,6000,5,50,dimensity 6300 5g processor,4.4,7237,216
+motorola,g45 5g,brilliant green,flipkart,12999,10999,2000,15,4,128,6.5,5000,16,20,snapdragon 6s gen 3 processor,4.3,48119,2944
+poco,m7 pro,lavender frost,flipkart,20999,14999,6000,28,8,256,6.67,5110,20,50,dimensity 7025 ultra processor,4.2,6921,707
+redmi,13 5g,orchid pink,flipkart,17999,11967,6032,33,6,128,6.79,5030,16,50,qualcomm sm4450 snapdragon 4 gen 2 ae 4 nm processor,4.2,42234,2172
+samsung,guru music,blue,flipkart,1999,948,1051,52,8,128,1.8,800,8,108,qualcomm sm4450 snapdragon 4 gen 2 ae 4 nm processor,3.1,16817,1264
+motorola,edge 50,marshmallow blue,flipkart,25999,18999,7000,26,8,128,6.7,5000,32,50,7s gen 2 processor,4.4,129175,8373
+poco,m7 pro,lunar dust,flipkart,18999,12999,6000,31,6,128,6.67,5110,20,12,dimensity 7025 ultra processor,4.3,17015,1472
+tecno,spark go,turquoise green,flipkart,8499,6699,1800,21,3,64,6.67,5000,12,13,t7250 processor,4.3,1200,1430
+poco,c75 5g,enchanted green,flipkart,11499,8499,3000,26,4,128,6.88,5160,5,13,4s gen 2 5g processor,4.3,83280,4112
+motorola,g35 5g,leaf green,flipkart,12499,9999,2500,20,4,128,6.72,5000,16,12,t760 processor,4.2,64998,4764
+motorola,edge 50,forest blue,flipkart,25999,18999,7000,26,8,128,6.7,5000,32,108,7s gen 2 processor,4.4,129175,8373
+samsung,galaxy f16,bling black,flipkart,17499,11499,6000,34,6,128,6.657,5000,13,108,dimensity 6300 processor,4.2,4683,309
+samsung,sm 310e,black,flipkart,1999,990,1009,50,4,64,1.9,800,13,50,dimensity 6300 processor,3.2,317,27
+oppo,k13 5g,prism black,flipkart,22999,17999,5000,21,8,128,6.67,7000,16,108,snapdragon 6 gen 4 processor,4.5,24615,1677
+motorola,edge 50,marshmallow blue,flipkart,27999,20999,7000,25,12,256,6.7,5000,32,108,7s gen 2 processor,4.4,157688,10859
+motorola,edge 50,forest blue,flipkart,27999,20999,7000,25,12,256,6.7,5000,32,108,7s gen 2 processor,4.4,157688,10859
+samsung,galaxy f16,bling black,flipkart,15999,10749,5250,32,4,128,6.657,5000,13,20,dimensity 6300 processor,4.2,2787,175
+motorola,edge 50,forest green,flipkart,25999,18999,7000,26,8,128,6.7,5000,32,20,7s gen 2 processor,4.4,129175,8373
+oneplus,nord ce4,mega blue,flipkart,20999,16843,4156,19,8,128,6.67,5500,16,32,a18 chip 6 core processor processor,4.4,25654,1235
+apple,iphone 16,ultramarine,flipkart,79900,69999,9901,12,16,128,6.1,4300,12,50,a18 chip 6 core processor processor,4.6,19106,793
+poco,x7 5g,cosmic silver,flipkart,24999,15999,9000,36,8,128,6.67,5500,20,50,dimensity 7300 ultra processor,4.3,13142,1155
+infinix,note 50s,burgundy red,flipkart,19999,14999,5000,25,6,128,6.78,5500,13,50,dimensity 7300 ultimate processor,4.4,1276,86
+realme,p3x 5g,lunar silver,flipkart,16999,12999,4000,23,6,128,6.72,6000,8,32,dimensity 6400 processor,4.4,25519,891
+iqoo,z10x 5g,ultramarine,flipkart,17499,13690,3809,21,6,128,6.7,6500,5,50,dimensity 6400 processor,4.4,2066,120
+oppo,k13 5g,prism black,flipkart,22999,17999,5000,21,8,128,6.67,7000,16,12,snapdragon 6 gen 4 processor,4.5,24615,1677
+poco,m7 5g,ocean blue,flipkart,13999,10299,3700,26,8,128,6.88,5160,8,12,4 gen 2 5g processor,4.2,5232,314
+infinix,note 50s,burgundy red,flipkart,19999,14999,5000,25,6,128,6.78,5500,13,12,dimensity 7300 ultimate processor,4.4,1276,86
+poco,c75 5g,silver stardust,flipkart,10999,7699,3300,30,4,64,6.88,5160,5,3,4s gen 2 5g processor,4.3,83280,4112
+samsung,galaxy a35,awesome navy,flipkart,36999,21999,15000,40,8,256,6.6,5000,13,108,samsung exynos 1380 processor,4.3,22174,1486
+poco,m7 5g,satin black,flipkart,13999,10299,3700,26,8,128,6.88,5160,8,50,4 gen 2 5g processor,4.2,5232,314
+vivo,t4x 5g,marine blue,flipkart,17999,13999,4000,22,6,128,6.72,6500,8,50,dimensity 7300 5g processor,4.4,91091,4758
+samsung,galaxy f16,vibing blue,flipkart,15999,10749,5250,32,4,128,6.657,5000,13,50,dimensity 6300 processor,4.2,2787,175
+realme,14x 5g,crystal black,flipkart,16999,14999,2000,11,6,128,6.67,6000,8,20,dimensity 6300 processor,4.3,10608,523
+samsung,guru1200,black,flipkart,1799,797,1002,55,6,64,1.8,800,12,50,dimensity 6300 processor,3,1596,137
+infinix,note 50x,enchanted purple,flipkart,14999,11499,3500,23,6,128,6.67,5500,8,108,dimensity 7300 ultimate processor,4.3,10347,1032
+motorola,g85 5g,cobalt blue,flipkart,20999,15999,5000,23,8,128,6.67,5000,32,108,6s gen 3 processor,4.4,217987,11163
+samsung,m05,mint green,flipkart,9999,6646,3353,33,4,64,6.7,5000,12,50,dimensity 7300 ultimate processor,4.3,2731,116
+samsung,galaxy m35,moonlight blue,flipkart,24499,15939,8560,34,6,128,6.6,6000,16,50,dimensity 7300 ultimate processor,4.4,24821,1984
+motorola,edge 50,hot pink,flipkart,27999,20999,7000,25,12,256,6.7,5000,32,12,7s gen 2 processor,4.4,157688,10859
+redmi,13 5g,orchid pink,flipkart,17999,12499,5500,30,6,128,6.79,5030,13,108,4 gen 2 ae processor,4.2,42234,2172
+tecno,pova 6,azure sky,flipkart,15999,9499,6500,40,6,128,6.67,5000,8,12,dimensity 6300 5g processor,4.3,3544,202
+tecno,pova 6,azure sky,flipkart,15999,9499,6500,40,6,128,6.67,5000,8,50,dimensity 6300 5g processor,4.3,3544,202
+motorola,edge 60,pantone mykonos blue,flipkart,25999,22999,3000,11,8,256,6.67,5500,32,50,dimensity 7400 processor,4.5,42821,2423
+vivo,t4 5g,phantom grey,flipkart,25999,21999,4000,15,8,128,6.77,7300,32,32,snapdragon 7s gen 3 5g processor,4.5,40354,1979
+poco,m7 pro,lavender frost,flipkart,18999,12999,6000,31,6,128,6.67,5110,20,20,dimensity 7025 ultra processor,4.3,17015,1472
+samsung,galaxy a35,awesome iceblue,flipkart,33999,19999,14000,41,8,128,6.6,5000,13,20,samsung exynos 1380 processor,4.3,22174,1486
+realme,p3 5g,space silver,flipkart,19999,15999,4000,20,6,128,6.67,6000,16,50,6 gen 4 processor,4.4,19673,1422
+iqoo,z10x 5g,ultramarine,flipkart,17499,13690,3809,21,6,128,6.7,6500,3,2,dimensity 7300 ultimate processor,4.4,2066,120
+oppo,k13x 5g,midnight violet,flipkart,15999,11999,4000,25,4,128,6.67,6000,8,50,dimensity 6300 processor,4.5,1949,310
+realme,gt 6,razor green,flipkart,43999,27999,16000,36,8,256,6.78,5500,32,50,8s gen 3 mobile platform processor,4.5,3582,370
+realme,p2 pro,parrot green,flipkart,25999,16999,9000,34,8,128,6.7,5200,32,50,7s gen2 processor,4.4,17510,1251
+realme,c61,marble black,flipkart,8999,7699,1300,14,4,64,6.745,5000,5,50,t612 processor,4.4,9818,322
+nothing,phone,3a grey,flipkart,32999,28999,4000,12,8,128,6.6,5000,50,20,7s gen3 processor,4.5,5898,545
+cmf,watch pro 2,black,flipkart,22999,18999,4000,17,8,128,6.77,5000,16,50,dimensity 7300 pro 5g processor,4.4,15881,1311
+vivo,y19e,titanium silver,flipkart,11999,7999,4000,33,4,64,6.74,5500,5,50,t7225 processor,4.3,1565,56
+infinix,note 50x,enchanted purple,flipkart,14999,11499,3500,23,6,128,6.67,5500,8,32,dimensity 7300 ultimate processor,4.3,10347,1032
+realme,p3 5g,space silver,flipkart,19999,15999,4000,20,6,128,6.67,6000,16,108,6 gen 4 processor,4.4,19673,1422
+iqoo,z10 lite,cyber green,flipkart,13999,10310,3689,26,4,128,6.74,6000,16,50,unisoc processor,4.2,91,5
+realme,p3 pro,saturn brown,flipkart,28999,19999,9000,31,8,128,6.83,6000,16,108,7s gen 3 mobile platform processor,4.4,6148,536
+motorola,g85 5g,urban grey,flipkart,20999,15999,5000,23,8,128,6.67,5000,32,50,6s gen 3 processor,4.4,217987,11163
+vivo,t4 5g,phantom grey,flipkart,25999,21999,4000,15,8,128,6.77,7300,32,50,snapdragon 7s gen 3 5g processor,4.5,40354,1979
+motorola,g64 5g,berry red,flipkart,19999,15999,4000,20,12,256,6.5,6000,16,20,dimensity 7025 processor,4.2,85325,5457
+tecno,spark go,turquoise green,flipkart,8499,6699,1800,21,3,64,6.67,5000,12,13,t7250 processor,4.3,654,53
+redmi,a4 5g,starry black,flipkart,10999,8630,2369,21,4,64,6.88,5160,8,50,t7250 processor,4.3,7020,337
+oppo,reno14 5g,pearl white,flipkart,42999,37999,5000,11,8,256,6.59,6000,50,50,dimensity 8350 processor,4.4,1129,135
+samsung,galaxy s24,blue,flipkart,59999,35999,24000,40,8,128,6.7,4700,10,32,exynos 2400e processor,4.5,12849,1043
+samsung,galaxy s24,blue,flipkart,59999,35999,24000,40,8,128,6.7,4700,10,50,exynos 2400e processor,4.5,12849,1043
+apple,iphone 16,ultramarine,flipkart,89900,79999,9901,11,8,128,6.7,4700,12,50,a18 chip 6 core processor processor,4.6,3067,171
+oppo,f27 pro+,midnight navy,flipkart,32999,18749,14250,43,8,128,6.7,5000,8,50,dimensity 7050 processor,4.4,6858,307
+samsung,galaxy s24,titanium gray,flipkart,134999,82997,52002,38,12,256,6.8,5000,12,50,snapdragon 8 gen 3 processor,4.6,4020,353
+oneplus,nord ce4,mega blue,flipkart,20999,16838,4161,19,8,128,6.67,5500,32,50,snapdragon 8 gen 3 processor,4.4,25654,1235
+samsung,galaxy a35,awesome navy,flipkart,33999,19999,14000,41,8,128,6.6,5000,13,20,samsung exynos 1380 processor,4.3,22174,1486
+poco,x7 5g,yellow,flipkart,24999,15999,9000,36,8,128,6.67,5500,20,50,dimensity 7300 ultra processor,4.3,13142,1155
+poco,m7 pro,olive twilight,flipkart,18999,12999,6000,31,6,128,6.67,5110,20,20,dimensity 7025 ultra processor,4.3,17015,1472
+nothing,phone,3a white,flipkart,27999,24999,3000,10,8,128,6.67,5000,32,50,7s gen3 processor,4.5,29639,2517
+iqoo,z10x 5g,ultramarine,flipkart,17499,13690,3809,21,6,128,6.7,6500,8,50,7s gen3 processor,4.4,2066,120
+iqoo,z10x 5g,ultramarine,flipkart,17499,13690,3809,21,6,128,6.7,6500,8,64,dimensity 8350 ultimate processor,4.4,2066,120
+infinix,gt 30,blade white,flipkart,31999,24999,7000,21,8,256,6.78,5500,13,50,dimensity 8350 ultimate processor,4.6,8521,450
+iqoo,z10 5g,glacier silver / silver,flipkart,27999,23358,4641,16,8,256,6.77,7300,12,50,dimensity 7300 pro 5g processor,4.4,2045,114
+apple,iphone 16,ultramarine,flipkart,99900,89999,9901,9,6,256,6.7,5000,12,64,a18 chip 6 core processor processor,4.6,3067,171
+samsung,galaxy s24,titanium black,flipkart,134999,89999,45000,33,12,256,6.8,5000,12,50,snapdragon 8 gen 3 processor,4.6,4020,353
+infinix,gt 30,blade white,flipkart,31999,24999,7000,21,8,256,6.78,5500,13,50,dimensity 8350 ultimate processor,4.4,931,72
+motorola,edge 50,caneel bay,flipkart,41999,27999,14000,33,12,256,6.7,4500,50,50,7 gen 3 mobile platform processor,4.4,65435,4389
+oppo,f27 pro+,midnight navy,flipkart,32999,18749,14250,43,8,128,6.7,5000,8,108,dimensity 7050 processor,4.4,6858,307
+samsung,galaxy f06,bahama blue,flipkart,13999,8699,5300,37,4,64,6.7,5000,8,50,dimensity 6300 processor,4.1,17201,1184
+realme,p3 ultra,neptune blue,flipkart,31999,22999,9000,28,8,128,6.83,6000,16,108,dimensity 8350 ultra processor,4.4,5684,699
+infinix,note 50s,marine drift,flipkart,19999,14999,5000,25,6,128,6.78,5500,13,20,dimensity 7300 ultimate processor,4.4,1276,86
+tecno,pova 6,azure sky,flipkart,15999,9499,6500,40,6,128,6.67,5000,8,32,dimensity 6300 5g processor,4.3,3544,202
+poco,f7 5g,frost white,flipkart,35999,31999,4000,11,12,256,6.83,7550,20,32,8s gen 4 processor,4.4,5646,699
+apple,iphone 16,desert titanium,flipkart,119900,107900,12000,10,6,128,6.3,6500,12,20,a18 pro chip 6 core processor processor,4.6,2499,125
+samsung,galaxy s24,onyx black,flipkart,79999,52999,27000,33,8,256,6.2,4000,12,50,exynos 2400 processor,4.6,6901,390
+poco,f7 5g,phantom black,flipkart,37999,33999,4000,10,12,512,6.83,7550,20,50,8s gen 4 processor,4.4,5646,699
+samsung,galaxy s24,marble gray,flipkart,74999,46999,28000,37,8,128,6.2,4000,12,20,exynos 2400 processor,4.6,6901,390
+google,pixel 9,obsidian,flipkart,79999,64999,15000,18,12,256,6.3,4700,5,50,google tensor g4 processor,4.5,3198,316
+apple,iphone 13,midnight,flipkart,49900,44999,4901,9,16,128,6.1,4600,12,50,a15 bionic chip processor,4.6,292993,13973
+oneplus,13r 5g,astral trail,flipkart,44999,39883,5116,11,12,256,6.78,6000,32,50,a15 bionic chip processor,4.5,2289,168
+realme,p3 ultra,neptune blue,flipkart,31999,22999,9000,28,8,128,6.83,6000,16,50,dimensity 8350 ultra processor,4.4,5684,699
+poco,x7 pro,obsidian black,flipkart,33999,24999,9000,26,12,256,6.67,6550,20,108,dimensity d8400 ultra processor,4.4,4609,577
+samsung,galaxy m35,daybreak blue,flipkart,25999,16690,9309,35,8,128,6.6,6000,16,50,a18 chip 6 core processor processor,4.3,3633,249
+apple,iphone 16,natural titanium,flipkart,119900,107900,12000,10,12,128,6.3,4300,12,108,a18 pro chip 6 core processor processor,4.6,2499,125
+samsung,galaxy m35,daybreak blue,flipkart,25999,16690,9309,35,8,128,6.6,6000,13,50,a18 pro chip 6 core processor processor,4.3,3633,249
+oneplus,nord ce4,mega blue,flipkart,20999,16838,4161,19,8,128,6.67,5500,32,50,a18 pro chip 6 core processor processor,4.4,25654,1235
+samsung,guru 1200,black,flipkart,1699,792,907,53,4,64,1.52,800,16,50,a18 pro chip 6 core processor processor,3.1,5194,373
+iqoo,neo 10r,raging blue,flipkart,31999,24195,7804,24,8,128,6.78,6400,13,50,a18 pro chip 6 core processor processor,4.5,978,75
+samsung,galaxy m35,daybreak blue,flipkart,25999,16690,9309,35,8,128,6.6,6000,16,50,a18 pro chip 6 core processor processor,4.3,3633,249
+oppo,reno14 5g,forest green,flipkart,42999,37999,5000,11,8,256,6.59,6000,12,50,dimensity 8350 processor,4.4,1129,135
+redmi,13 5g,black diamond,flipkart,19999,13059,6940,34,8,128,6.79,5030,20,108,dimensity 8350 processor,4.3,10383,593
+redmi,a4 5g,starry black,flipkart,10999,8630,2369,21,4,64,6.88,5160,12,50,dimensity 8350 processor,4.3,7020,337
+samsung,galaxy m35,moonlight blue,flipkart,24499,15939,8560,34,6,128,6.6,6000,8,50,dimensity 8350 processor,4.4,24821,1984
+poco,x7 5g,yellow,flipkart,27999,17999,10000,35,8,256,6.67,5500,20,50,dimensity 7300 ultra processor,4.3,13142,1155
+vivo,t3 5g,crystal flake,flipkart,22999,16999,6000,26,8,128,6.67,5000,16,50,dimensity 7200 processor,4.4,131464,8085
+apple,iphone 16,white,flipkart,89900,79999,9901,11,6,128,6.7,4300,12,50,dimensity 7200 processor,4.6,3067,171
+samsung,guru music,blue,flipkart,1999,930,1069,53,4,64,2,1100,13,108,a18 chip 6 core processor processor,3.1,3020,180
+motorola,edge 60,pantone gibraltar sea,flipkart,28999,22999,6000,20,8,256,6.67,5000,32,50,7s gen 2 mobile processor processor,4.3,7957,670
+poco,c71,cool blue,flipkart,8999,6399,2600,28,4,64,6.88,5200,8,50,unisoc t7250 processor,3.9,21407,1080
+motorola,edge 60,pantone dazzling blue,flipkart,36999,29999,7000,18,8,256,6.7,6000,12,108,dimensity 8350 processor,4.4,11714,1091
+poco,x7 5g,glacier green,flipkart,24999,15999,9000,36,8,128,6.67,5500,20,50,dimensity 7300 ultra processor,4.3,13142,1155
+samsung,galaxy s24,onyx black,flipkart,74999,46999,28000,37,8,128,6.2,4000,12,50,exynos 2400 processor,4.6,6901,390
+realme,gt 6,razor green,flipkart,43999,27999,16000,36,8,256,6.78,5500,32,20,8s gen 3 mobile platform processor,4.5,3582,370
+samsung,galaxy m35,moonlight blue,flipkart,24499,15939,8560,34,6,128,6.6,6000,16,50,8s gen 3 mobile platform processor,4.4,24821,1984
+realme,14x 5g,crystal black,flipkart,16999,14999,2000,11,6,128,6.67,6000,8,50,dimensity 6300 processor,4.3,10608,523
+realme,14x 5g,crystal black,flipkart,16999,14999,2000,11,6,128,6.67,6000,8,32,dimensity 6300 processor,4.3,10608,523
+oppo,reno14 5g,pearl white,flipkart,42999,37999,5000,11,8,256,6.59,6000,12,50,dimensity 8350 processor,4.4,1129,135
+nothing,phone,3a grey,flipkart,32999,28999,4000,12,8,128,6.59,5000,16,50,7s gen3 processor,4.5,5898,545
+apple,iphone 15,black,flipkart,69900,64900,5000,7,12,128,6.1,5000,12,50,a16 bionic chip 6 core processor processor,4.6,262580,9397
+poco,m6 plus,ice silver,flipkart,15999,10080,5919,36,6,128,6.79,5030,13,50,snapdragon 4 gen2 ae processor,4.2,59597,3573
+vivo,t3 pro,sandstone orange,flipkart,29999,22999,7000,23,8,128,6.77,5500,16,32,snapdragon 7 gen 3 processor,4.5,84614,5328
+vivo,t3 pro,sandstone orange,flipkart,29999,22999,7000,23,8,128,6.77,5500,16,50,snapdragon 7 gen 3 processor,4.5,84614,5328
+samsung,galaxy a55,awesome navy,flipkart,42999,25630,17369,40,8,128,6.6,5000,32,50,samsung exynos 1480 processor,4.4,2011,154
+realme,narzo n61,marble black,flipkart,8641,7649,992,11,4,64,6.74,5000,12,20,samsung exynos 1480 processor,4.3,5693,271
+realme,narzo n61,marble black,flipkart,8641,7649,992,11,4,64,6.74,5000,13,32,samsung exynos 1480 processor,4.3,5693,271
+iqoo,neo 10r,raging blue,flipkart,31999,24193,7806,24,8,128,6.78,6400,16,50,sc6531e processor,4.5,978,75
+google,pixel 8a,obsidian,flipkart,52999,37999,15000,28,8,128,6.1,4404,13,108,tensor g3 processor,4.3,7112,581
+tecno,pop 9,glittery white,flipkart,8499,6499,2000,23,3,64,6.67,5000,12,13,tensor g3 processor,4,69,2
+realme,narzo 80x,sunlit gold,flipkart,16999,12120,4879,28,8,128,6.72,6000,16,50,tensor g3 processor,4.2,559,21
+vivo,t3 5g,crystal flake,flipkart,22999,16999,6000,26,8,128,6.67,5000,16,108,dimensity 7200 processor,4.4,131464,8085
+redmi,a5,just black,flipkart,8999,6499,2500,27,3,64,6.88,5200,8,20,t7250 processor,4.3,2309,116
+poco,m6 plus,ice silver,flipkart,17999,11499,6500,36,8,128,6.79,5030,13,108,snapdragon 4 gen2 ae processor,4.2,11513,724
+realme,p3 ultra,neptune blue,flipkart,31999,22999,9000,28,8,128,6.83,6000,16,32,dimensity 8350 ultra processor,4.4,5684,699
+realme,narzo 80,crystal purple,flipkart,14999,11274,3725,24,6,128,6.67,6000,12,50,dimensity 8350 ultra processor,4.6,43,0
+iqoo,z10 lite,cyber green,flipkart,13999,10310,3689,26,4,128,6.74,6000,8,50,dimensity 8350 ultra processor,4.2,91,5
+apple,iphone 15,pink,flipkart,69900,64900,5000,7,16,128,6.1,4300,12,108,a16 bionic chip 6 core processor processor,4.6,262580,9397
+tecno,spark go,turquoise green,flipkart,8499,6699,1800,21,3,64,6.67,5000,3,13,t7250 processor,4.3,6358,452
+tecno,spark go,turquoise green,flipkart,8499,6699,1800,21,3,64,6.67,5000,3,13,t7250 processor,4.3,74589,9658
+google,pixel 8a,bay,flipkart,52999,37999,15000,28,8,128,6.1,4404,13,50,tensor g3 processor,4.3,7112,581
+samsung,galaxy s24,titanium violet,flipkart,134999,82999,52000,38,12,256,6.8,5000,12,50,snapdragon 8 gen 3 processor,4.6,4020,353
+apple,iphone 15,black,flipkart,79900,71999,7901,9,16,128,6.7,4700,12,50,a16 bionic chip 6 core processor processor,4.6,45792,2571
+poco,m6 plus,graphite black,flipkart,17999,11499,6500,36,8,128,6.79,5030,13,108,snapdragon 4 gen2 ae processor,4.2,11513,724
+samsung,galaxy s24,amber yellow,flipkart,79999,52999,27000,33,8,256,6.2,4000,12,108,exynos 2400 processor,4.6,6901,390
+realme,14t 5g,obsidian black,flipkart,20999,17999,3000,14,8,128,6.67,6000,16,50,dimensity 6300 processor,4.2,1092,101
+vivo,t4 ultra,phoenix gold,flipkart,40999,37999,3000,7,8,256,6.67,5500,32,50,dimensity 9300 processor,4.5,1571,175
+apple,iphone 16,natural titanium,flipkart,129900,117900,12000,9,12,256,6.3,4700,12,50,a18 pro chip 6 core processor processor,4.6,2499,125
+poco,m7 5g,ocean blue,flipkart,12999,9299,3700,28,6,128,6.88,5160,8,50,4 gen 2 5g processor,4.1,25331,1321
+oneplus,13r 5g,astral trail,flipkart,44999,39883,5116,11,12,256,6.78,6000,12,50,5 gen 2 5g processor,4.5,2289,168
+motorola,edge 50,hot pink,flipkart,25999,18999,7000,26,8,128,6.7,5000,32,20,7s gen 2 processor,4.4,129175,8373
+iqoo,z10 5g,glacier silver / silver,flipkart,25999,21061,4938,18,8,128,6.7,7300,16,50,7s gen 2 processor,4.4,2045,114
+apple,iphone 15,pink,flipkart,79900,71999,7901,9,12,128,6.7,4300,12,50,a16 bionic chip 6 core processor processor,4.6,45792,2571
+poco,f7 5g,phantom black,flipkart,35999,31999,4000,11,12,256,6.83,7550,20,50,8s gen 4 processor,4.4,5646,699
+motorola,edge 50,peach fuzz,flipkart,32999,21999,11000,33,8,256,6.67,5000,32,32,snapdragon 7 gen 1 accelerated edition processor,4.3,37910,2824
+iqoo,z10 lite,cyber green,flipkart,13999,10310,3689,26,4,128,6.74,6000,12,50,snapdragon 7 gen 1 accelerated edition processor,4.2,91,5
+google,pixel 9,porcelain,flipkart,79999,64999,15000,18,12,256,6.3,4700,5,50,google tensor g4 processor,4.5,3198,316
+samsung,galaxy a55,awesome iceblue,flipkart,45999,28208,17791,38,8,256,6.6,5000,32,50,samsung exynos 1480 processor,4.4,2011,154
+realme,p3 pro,saturn brown,flipkart,28999,19999,9000,31,8,128,6.83,6000,16,50,7s gen 3 mobile platform processor,4.4,6148,536
+poco,c61,mystical green,flipkart,8999,6999,2000,22,4,64,6.71,5000,5,50,helio g36 processor,4.1,110043,4655
+samsung,galaxy s24,cobalt violet,flipkart,74999,46999,28000,37,8,128,6.2,4000,12,108,exynos 2400 processor,4.6,6901,390
+poco,m7 5g,satin black,flipkart,12999,9299,3700,28,6,128,6.88,5160,8,20,4 gen 2 5g processor,4.1,25331,1321
+iqoo,z10 5g,stellar black / black,flipkart,25999,21087,4912,18,8,128,6.7,7300,12,50,5 gen 2 5g processor,4.4,2045,114
+apple,iphone 16,pink,flipkart,99900,89999,9901,9,12,256,6.7,4300,12,50,a18 chip 6 core processor processor,4.6,3067,171
+apple,iphone 16,desert titanium,flipkart,144900,132900,12000,8,12,256,6.9,4300,12,50,a18 pro chip 6 core processor processor,4.7,1144,84
+poco,x7 pro,nebula green,flipkart,33999,24999,9000,26,12,256,6.67,6550,20,50,dimensity d8400 ultra processor,4.4,4609,577
+samsung,galaxy f06,lit violet,flipkart,13999,8699,5300,37,4,64,6.7,5000,12,50,dimensity 6300 processor,4.1,17201,1184
+realme,c75 5g,midnight lily,flipkart,15999,12999,3000,18,4,128,6.67,6000,8,108,dimensity 6300 processor,4.3,485,22
+samsung,galaxy s24+,cobalt violet,flipkart,99999,59999,40000,40,12,256,6.7,4900,12,32,exynos 2400 processor,4.5,11203,856
+realme,p2 pro,parrot green,flipkart,25999,16999,9000,34,8,128,6.7,5200,32,20,7s gen2 processor,4.4,17510,1251
+motorola,a200,black,flipkart,1549,1249,300,19,4,64,1.77,800,8,50,7s gen2 processor,3.6,138,16
+iqoo,z9s 5g,titanium matte,flipkart,25999,20890,5109,19,8,128,6.77,5500,12,50,7s gen2 processor,4.4,8518,531
+google,pixel 8a,porcelain,flipkart,52999,37999,15000,28,8,128,6.1,4404,13,50,tensor g3 processor,4.3,7112,581
+apple,iphone 15,green,flipkart,69900,64900,5000,7,16,128,6.1,4700,12,50,a16 bionic chip 6 core processor processor,4.6,262580,9397
+poco,x7 pro,yellow,flipkart,31999,22999,9000,28,8,256,6.67,6550,20,50,dimensity d8400 ultra processor,4.3,8288,1153
+samsung,galaxy a06,black,flipkart,13499,9199,4300,31,4,64,6.7,5000,12,50,mediatek processor,4,789,63
+samsung,galaxy s24,marble gray,flipkart,79999,52999,27000,33,8,256,6.2,4000,12,50,exynos 2400 processor,4.6,6901,390
+lava,a3 torch,dark blue,flipkart,1649,1339,310,18,6,128,1.8,1750,8,3,exynos 2400 processor,4.1,217,19
+google,pixel 9,wintergreen,flipkart,79999,64999,15000,18,12,256,6.3,4700,5,108,google tensor g4 processor,4.5,3198,316
+samsung,1200,black,flipkart,1699,774,925,54,4,64,1.5,800,12,108,google tensor g4 processor,3.1,4223,295
+realme,c75 5g,midnight lily,flipkart,15999,12999,3000,18,4,128,6.67,6000,8,20,dimensity 6300 processor,4.3,485,22
+samsung,galaxy s24,cobalt violet,flipkart,79999,52999,27000,33,8,256,6.2,4000,12,32,exynos 2400 processor,4.6,6901,390
+samsung,galaxy s24,titanium violet,flipkart,134999,119999,15000,11,12,256,6.8,5000,12,108,snapdragon 8 gen 3 processor,4.6,4020,353
+realme,p1 speed,brushed blue,flipkart,20999,14989,6010,28,8,128,6.67,5000,16,50,dimensity 7300 energy processor,4.3,2672,275
+realme,narzo 80,crystal purple,flipkart,14999,11274,3725,24,6,128,6.67,6000,16,50,dimensity 7300 energy processor,4.6,43,0
+motorola,edge 60,pantone dazzling blue,flipkart,40999,33999,7000,17,12,256,6.7,6000,12,108,dimensity 8350 processor,4.4,5417,524
+realme,narzo 80x,sunlit gold,flipkart,16999,12120,4879,28,8,128,6.72,6000,8,50,dimensity 8350 processor,4.2,559,21
+iqoo,neo 10,inferno red,flipkart,36999,33242,3757,10,8,128,6.78,7000,8,108,qualcomm sd processor,4.5,162,14
+motorola,razr 60,pantone lightest sky,flipkart,54999,49999,5000,9,8,256,6.9,4500,32,50,dimensity 7400x processor,4.5,344,41
+iqoo,neo 10r,raging blue,flipkart,31999,24187,7812,24,8,128,6.78,6400,12,32,dimensity 7400x processor,4.5,978,75
+realme,p1 speed,brushed blue,flipkart,20999,14989,6010,28,8,128,6.67,5000,16,108,dimensity 7300 energy processor,4.3,2672,275
+redmi,a4,sparkle purple,flipkart,11999,9527,2472,20,4,128,6.88,5160,8,50,dimensity 7300 energy processor,4.3,7020,337
+samsung,galaxy f16,glam green,flipkart,15999,10749,5250,32,4,128,6.657,5000,13,50,dimensity 6300 processor,4.2,2787,175
+iqoo,neo 10r,raging blue,flipkart,31999,24187,7812,24,8,128,6.78,6400,12,50,dimensity 8450 processor,4.5,978,75
+oppo,reno14 pro,pearl white,flipkart,54999,49999,5000,9,12,256,6.83,6200,12,108,dimensity 8450 processor,4.5,524,78
+motorola,g45 5g,pink lavender,flipkart,14999,11999,3000,20,8,128,6.5,5000,16,50,snapdragon 6s gen 3 processor,4.3,195416,10117
+oppo,k12x 5g,breeze blue,flipkart,16999,12999,4000,23,6,128,6.67,5100,8,50,dimensity 6300 processor,4.5,183764,6497
+oppo,k12x 5g,feather pink,flipkart,16999,12999,4000,23,6,128,6.67,5100,8,50,dimensity 6300 processor,4.5,183764,6497
+oneplus,13s 5g,pink satin,flipkart,57999,51969,6030,10,12,256,6.32,5850,16,108,dimensity 6300 processor,4.5,265,24
+redmi,a3x,ocean green,flipkart,9999,6699,3300,33,3,64,6.71,5000,5,50,dimensity 6300 processor,4.1,9774,433
+samsung,guru music,black,flipkart,1999,948,1051,52,6,64,1.8,800,16,50,dimensity 6300 processor,3.4,63,4
+oneplus,13s 5g,pink satin,flipkart,57999,51969,6030,10,12,256,6.32,5850,16,20,a18 pro chip 6 core processor processor,4.5,265,24
+apple,iphone 16e,black,flipkart,69900,64900,5000,7,12,256,6.1,4600,12,50,a18 chip 6 core processor,4.6,1409,95
+iqoo,neo 10,inferno red,flipkart,36999,33242,3757,10,8,128,6.78,7000,12,50,qualcomm sd processor,4.5,162,14
+apple,iphone 16e,white,flipkart,59900,54900,5000,8,16,128,6.1,4300,12,50,a18 chip 6 core processor,4.6,1409,95
+realme,p3 pro,saturn brown,flipkart,28999,19999,9000,31,8,128,6.83,6000,16,20,7s gen 3 mobile platform processor,4.5,4520,650
+realme,p3 pro,saturn brown,flipkart,28999,19999,9000,31,8,128,6.83,6000,16,32,7s gen 3 mobile platform processor,4.4,6148,536
+samsung,galaxy a06,black,flipkart,11499,7690,3809,33,4,64,6.7,5000,8,50,mediatek helio g85 processor,4.1,157,13
+poco,x7 5g,glacier green,flipkart,27999,17999,10000,35,8,256,6.67,5500,20,50,dimensity 7300 ultra processor,4.3,13142,1155
+alcatel,alcatel v3 classic,halo white,flipkart,17999,10999,7000,38,4,128,6.67,5200,8,50,dimensity 6300 processor,4.3,29,8
+iqoo,z10 5g,glacier silver / silver,flipkart,25999,21061,4938,18,8,128,6.7,7300,12,32,dimensity 6300 processor,4.4,2045,114
+apple,iphone 16,white,flipkart,99900,89999,9901,9,16,256,6.7,4700,12,50,a18 chip 6 core processor processor,4.6,3067,171
+motorola,razr 60,pantone gibraltar sea,flipkart,54999,49999,5000,9,8,256,6.9,4500,32,50,dimensity 7400x processor,4.5,344,41
+oppo,a3x,ocean blue,flipkart,12999,8999,4000,30,4,64,6.67,5100,5,50,6s 4g gen1 processor,4.2,1100,72
+infinix,smart 9,mint green,flipkart,8999,6699,2300,25,3,64,6.7,5000,8,50,mediatek helio g50 processor,4.2,3286,225
+redmi,a3x,ocean green,flipkart,9999,6699,3300,33,3,64,6.71,5000,5,50,mediatek helio g50 processor,4.1,9774,433
+poco,x7 pro,nebula green,flipkart,31999,22999,9000,28,8,256,6.67,6550,20,50,dimensity d8400 ultra processor,4.3,8288,1153
+poco,x7 5g,cosmic silver,flipkart,27999,17999,10000,35,8,256,6.67,5500,12,50,dimensity 7300 ultra processor,4.3,13142,1155
+realme,p1 speed,brushed blue,flipkart,20999,14989,6010,28,8,128,6.67,5000,16,20,dimensity 7300 energy processor,4.3,2672,275
+samsung,galaxy a16,gold,flipkart,19999,15480,4519,22,6,128,6.7,5000,13,32,dimensity 6300 processor,4.2,2475,112
+iqoo,z10 5g,glacier silver / silver,flipkart,29999,26500,3499,11,12,256,6.7,7300,12,50,dimensity 6300 processor,4.4,530,37
+redmi,a3x,ocean green,flipkart,9999,6699,3300,33,3,64,6.71,5000,5,50,unisoc t107 processor,4.1,9774,433
+samsung,sm 1207,black,flipkart,1599,790,809,50,6,64,6.6,5000,12,108,unisoc t107 processor,3.2,5417,315
+samsung,galaxy a06,light gray,flipkart,15499,10099,5400,34,4,128,6.7,5000,8,50,mediatek processor,4,789,63
+lava,yuva star,glossy black,flipkart,6999,6249,750,10,4,64,6.75,5000,5,50,unisoc sc9863a processor,4,902,55
+oppo,reno14 pro,pearl white,flipkart,54999,49999,5000,9,12,256,6.83,6200,12,32,dimensity 8450 processor,4.5,524,78
+realme,c73 5g,jade green,flipkart,13999,11499,2500,17,4,128,6.67,6000,8,50,dimensity 6300 processor,4.3,508,17
+samsung,galaxy f06,bahama blue,flipkart,12499,8199,4300,34,4,64,6.7,5000,8,50,dimensity 6300 processor,4.1,17201,1184
+infinix,hot 50,dreamy purple,flipkart,12999,9999,3000,23,4,128,6.7,5000,8,50,dimensity 6300 processor,4.3,5608,418
+apple,iphone 16e,white,flipkart,69900,64900,5000,7,12,256,6.1,4700,12,108,a18 chip 6 core processor,4.6,1409,95
+apple,iphone 14,starlight,flipkart,69900,62990,6910,9,16,256,6.1,4700,12,32,a15 bionic chip 6 core processor processor,4.6,313551,11692
+poco,f7 5g,frost white,flipkart,37999,33999,4000,10,12,512,6.83,7550,20,108,8s gen 4 processor,4.4,5646,699
+samsung,galaxy a55,awesome navy,flipkart,45999,28640,17359,37,8,256,6.6,5000,32,108,exynos 1480 processor,4.4,2011,154
+samsung,galaxy a16,gold,flipkart,19999,15480,4519,22,6,128,6.7,5000,13,20,dimensity 6300 processor,4.2,2475,112
+samsung,galaxy f06,lit violet,flipkart,15499,9999,5500,35,6,128,6.7,5000,8,50,dimensity 6300 processor,4.1,7433,541
+samsung,galaxy a36,awesome black,flipkart,35999,30999,5000,13,8,128,6.7,5000,12,20,qualcomm snapdragon 6 gen 3 processor,4.3,960,73
+redmi,note 14,mystique white,flipkart,21999,14701,7298,33,6,128,6.67,5110,12,50,qualcomm snapdragon 6 gen 3 processor,4.3,1977,97
+samsung,galaxy a16,light green,flipkart,19999,15999,4000,20,6,128,6.7,5000,13,50,dimensity 6300 processor,4.2,2475,112
+oppo,a3x 5g,starlight white,flipkart,14999,10999,4000,26,4,64,6.67,5100,5,50,dimensity 6300 processor,4.2,3233,145
+tecno,pova curve,neon cyan,flipkart,18999,15999,3000,15,6,128,6.78,5500,13,50,dimensity 7300 ultimate processor,4.3,804,117
+tecno,pova curve,neon cyan,flipkart,18999,15999,3000,15,6,128,6.78,5500,13,20,dimensity 7300 ultimate processor,4.3,804,117
+samsung,galaxy a36,awesome black,flipkart,41999,36999,5000,11,12,256,6.7,5000,12,50,qualcomm snapdragon 6 gen 3 processor,4.3,121,11
+samsung,galaxy a06,light gray,flipkart,11999,9319,2680,22,4,64,6.7,5000,16,50,mediatek processor,4,789,63
+realme,14t 5g,obsidian black,flipkart,20999,17999,3000,14,8,128,6.67,6000,16,20,dimensity 6300 processor,4.2,1092,101
+samsung,galaxy a56,awesome olive,flipkart,45999,38999,7000,15,8,128,6.7,5000,12,108,samsng exynos 1580 processor,4.3,359,28
+samsung,galaxy f16,bling black,flipkart,18999,13499,5500,28,8,128,6.657,5000,13,50,dimensity 6300 processor,4.2,2075,150
+motorola,g64 5g,mint green,flipkart,19999,15999,4000,20,12,256,6.5,6000,16,50,dimensity 7025 processor,4.2,85325,5457
+poco,c61,diamond dust black,flipkart,8999,6990,2009,22,4,64,6.71,5000,5,50,helio g36 processor,4.1,110043,4655
+vivo,v50 5g,rose red,flipkart,39999,32999,7000,17,8,128,6.77,6000,16,108,7 gen 3 processor,4.5,6154,540
+samsung,guru music,black,flipkart,1999,990,1009,50,6,64,1.8,800,8,50,8 gen 3 processor,3.1,16817,1264
+vivo,v50 5g,rose red,flipkart,39999,32999,7000,17,8,128,6.77,6000,12,50,7 gen 3 processor,4.5,6154,540
+samsung,galaxy m16,thunder black,flipkart,13999,11933,2066,14,4,128,6.7,5000,16,50,8 gen 3 processor,4.1,203,6
+motorola,a50v dual,gold,flipkart,1849,1499,350,18,4,64,1.8,1750,13,50,snapdragon 7 gen 3 processor,4.1,1339,71
+honor,200 5g,black,flipkart,39999,22489,17510,43,8,256,6.7,5200,12,108,snapdragon 7 gen 3 processor,4.4,142,13
+samsung,galaxy f16,glam green,flipkart,18999,13499,5500,28,8,128,6.657,5000,13,50,dimensity 6300 processor,4.2,2075,150
+itel,itel a80,sandstone black,flipkart,8999,6849,2150,23,4,128,6.7,5000,16,50,dimensity 6300 processor,4.2,331,17
+tecno,spark go,magic skin green,flipkart,8599,6899,1700,19,3,64,6.67,5000,8,50,unisoc t61 processor,4.3,1407,69
+realme,c63 5g,forest green,flipkart,12999,10999,2000,15,4,128,6.67,5000,12,108,dimensity 6300 processor,4.4,6704,266
+xiaomi,xiaomi 14 civi,panda white,flipkart,59999,39999,20000,33,12,512,6.55,4700,13,50,8s gen 3 mobile platform processor,4.4,754,68
+lava,shark,titanium gold,flipkart,7799,7296,503,6,4,256,6.67,5000,12,50,unisoc t606 octa-core processor processor,4.2,30,0
+oppo,reno14 pro,pearl white,flipkart,54999,49999,5000,9,12,256,6.83,6200,13,50,dimensity 8450 processor,4.5,524,78
+itel,itel a80,sandstone black,flipkart,8999,6849,2150,23,4,128,6.7,5000,8,50,dimensity 8450 processor,4.2,331,17
+redmi,13 5g,orchid pink,flipkart,17999,12499,5500,30,6,128,6.79,5030,13,50,4 gen 2 ae processor,4.2,42234,2172
+iqoo,z10 5g,stellar black / black,flipkart,27999,23551,4448,15,8,256,6.77,7300,8,50,5 gen 2 ae processor,4.4,2045,114
+samsung,b310ed,white,flipkart,1599,990,609,38,6,128,2.4,850,12,50,6 gen 2 ae processor,3.2,391,27
+tecno,pop 9,aurora cloud,flipkart,11999,9499,2500,20,4,128,6.67,5000,8,50,dimensity 6300 5g processor,3.9,63,5
+poco,x7 pro,yellow,flipkart,33999,24999,9000,26,12,256,6.67,6550,20,108,dimensity d8400 ultra processor,4.4,4609,577
+realme,c63 5g,forest green,flipkart,12999,10999,2000,15,4,128,6.67,5000,8,50,dimensity 6300 processor,4.4,6704,266
+samsung,galaxy m16,thunder black,flipkart,13999,11933,2066,14,4,128,6.7,5000,8,50,9 gen 3 processor,4.1,203,6
+realme,70 turbo,turbo green,flipkart,19999,14760,5239,26,6,128,6.67,5000,8,50,segment's fastest dimensity 7300 energy 5g chipset processor,4.3,5488,430
+poco,c71,desert gold,flipkart,8999,6399,2600,28,4,64,6.88,5200,8,50,unisoc t7250 processor,3.9,21407,1080
+samsung,galaxy a06,black,flipkart,11999,9277,2722,22,4,64,6.7,5000,8,50,dimensity 6300 processor,4,789,63
+samsung,galaxy a56,awesome olive,flipkart,52999,44999,8000,15,12,256,6.7,5000,12,50,samsung exynos 1580 processor,4.4,213,21
+realme,70 turbo,turbo green,flipkart,19999,14760,5239,26,6,128,6.67,5000,12,50,segment's fastest dimensity 7300 energy 5g chipset processor,4.3,5488,430
+iqoo,neo 10,inferno red,flipkart,36999,33242,3757,10,8,128,6.78,7000,8,50,qualcomm sd processor,4.5,162,14
+apple,iphone 15,blue,flipkart,79900,74900,5000,6,12,256,6.1,4300,12,108,a16 bionic chip 6 core processor processor,4.6,262580,9397
+vivo,v50e 5g,pearl white,flipkart,33999,28999,5000,14,8,128,6.77,5600,12,108,dimensity 7300 processor,4.4,1486,98
+vivo,v50e 5g,pearl white,flipkart,33999,28999,5000,14,8,128,6.77,5600,13,50,dimensity 7300 processor,4.4,1486,98
+oppo,f29 5g,glacier blue,flipkart,28999,23999,5000,17,8,128,6.7,6500,16,50,6 gen 1 processor,4.3,1720,105
+tecno,spark go,magic skin green,flipkart,8599,6899,1700,19,3,64,6.67,5000,8,32,unisoc t61 processor,4.3,1407,69
+honor,200 5g,black,flipkart,39999,22489,17510,43,8,256,6.7,5200,12,50,snapdragon 7 gen 3 processor,4.4,142,13
+motorola,g64 5g,ice lilac,flipkart,17999,13999,4000,22,8,128,6.5,6000,16,50,dimensity 7025 processor,4.3,60363,3762
+vivo,v50 5g,rose red,flipkart,39999,32999,7000,17,8,128,6.77,6000,16,50,7 gen 3 processor,4.5,6154,540
+redmi,14c 5g,stardust purple,flipkart,12999,9499,3500,26,4,64,6.88,5160,8,50,4 gen 2 5g processor,4.2,4714,250
+redmi,14c 5g,stardust purple,flipkart,12999,9499,3500,26,4,64,6.88,5160,8,32,4 gen 2 5g processor,4.2,4714,250
+tecno,camon 30,basaltic dark,flipkart,32999,23999,9000,27,12,512,6.78,5000,8,50,dimensity 7020 5g processor,4,171,13
+samsung,galaxy a55,awesome navy,flipkart,48999,34490,14509,29,12,256,6.6,5000,32,50,samsung exynos 1480 processor,4.3,507,40
+iqoo,z9x,tornado green,flipkart,18999,13790,5209,27,6,128,6.72,6000,8,50,qualcomm sm6450 snapdragon 6 gen 1 processor,4.4,10267,514
+poco,m7 5g,mint green,flipkart,13999,10299,3700,26,8,128,6.88,5160,8,20,4 gen 2 5g processor,4.2,5232,314
+samsung,galaxy s24+,onyx black,flipkart,99999,59999,40000,40,12,256,6.7,4900,12,50,exynos 2400 processor,4.5,11203,856
+vivo,v50e 5g,pearl white,flipkart,33999,28999,5000,14,8,128,6.77,5600,16,50,dimensity 7300 processor,4.4,1486,98
+samsung,galaxy s24,amber yellow,flipkart,74999,46999,28000,37,8,128,6.2,4000,12,50,exynos 2400 processor,4.6,6901,390
+motorola,g85 5g,cobalt blue,flipkart,22999,17999,5000,21,12,256,6.67,5000,32,50,6s gen 3 processor,4.4,79386,4451
+redmi,14c 5g,stardust purple,flipkart,13999,10000,3999,28,4,128,6.88,5160,8,50,4 gen 2 5g processor,4.2,4714,250
+realme,c61,marble black,flipkart,8999,7699,1300,14,4,64,6.745,5000,5,108,t612 processor,4.4,9818,322
+iqoo,z9s 5g,titanium matte,flipkart,27999,22470,5529,19,8,256,6.77,5500,12,50,mediatek dimensity 7300 5g processor,4.4,8518,531
+realme,14 pro,glass purple,flipkart,25999,21999,4000,15,8,128,6.7,5200,32,50,7s gen2 processor,4.4,408,24
+samsung,galaxy a16,blue black,flipkart,19999,15999,4000,20,6,128,6.7,5000,13,50,dimensity 6300 processor,4.2,2475,112
+infinix,note 40,racing grey,flipkart,24999,15999,9000,36,8,256,6.78,5000,32,108,dimensity 7020 processor,4.2,12307,1141
+itel,itel zeno 10,phantom crystal,flipkart,7399,6115,1284,17,4,64,6.6,5000,2,50,dimensity 7020 processor,4.2,21,0
+poco,x6 neo,astral black,flipkart,19999,13990,6009,30,8,128,6.67,5000,16,50,dimensity 6080 processor,4.2,42214,3058
+karbonn,karbonn kx29 ds,grey blue,flipkart,1790,1458,332,18,6,32,2.4,2700,8,50,dimensity 6080 processor,3.7,2532,163
+poco,c71,power black,flipkart,8999,6399,2600,28,4,64,6.88,5200,8,50,unisoc t7250 processor,3.9,21407,1080
+apple,iphone 15,pink,flipkart,89900,81999,7901,8,16,256,6.7,4300,12,108,a16 bionic chip 6 core processor processor,4.6,45792,2571
+apple,iphone 14,blue,flipkart,69900,62990,6910,9,16,256,6.1,4300,12,108,a15 bionic chip 6 core processor processor,4.6,313551,11692
+samsung,galaxy a56,awesome graphite,flipkart,48999,41999,7000,14,8,256,6.7,5000,12,50,samsung exynos 1580 processor,4.3,359,28
+motorola,edge 50,jungle green,flipkart,32999,21999,11000,33,8,256,6.67,5000,32,128,snapdragon 7 gen 1 accelerated edition processor,4.3,37910,2824
+vivo,v50e 5g,pearl white,flipkart,33999,28999,5000,14,8,128,6.77,5600,12,50,dimensity 7300 processor,4.4,1486,98
+vivo,t3 ultra,frost green,flipkart,35999,27999,8000,22,8,128,6.78,5500,13,50,dimensity 7300 processor,4.5,22016,1801
+tecno,camon 20,serenity blue,flipkart,24999,15399,9600,38,8,128,6.67,5000,32,20,mediatek dimensity 8050 processor,4.1,841,95
+samsung,m06 5g,blazing black,flipkart,13999,10390,3609,25,4,128,6.7,5000,8,50,snapdragon 7 gen 3 processor,3.9,270,30
+motorola,a10v ds,teal blue,flipkart,1499,999,500,33,4,64,1.8,800,8,50,snapdragon 7 gen 3 processor,4.1,7845,501
+motorola,g04s,satin blue,flipkart,9999,7299,2700,27,4,64,6.6,5000,8,32,t606 processor,4.2,29839,1642
+apple,iphone 15,black,flipkart,79900,74900,5000,6,16,256,6.1,4300,12,20,a16 bionic chip 6 core processor processor,4.6,262580,9397
+redmi,a3,olive green,flipkart,11999,8490,3509,29,6,128,6.71,5000,5,50,mediatek helio g36 processor,4.1,6776,346
+realme,14 pro,glass purple,flipkart,25999,21999,4000,15,8,128,6.7,5200,32,108,7s gen2 processor,4.4,408,24
+samsung,sm-b310ezddins,black,flipkart,1999,928,1071,53,4,64,1.8,800,8,50,7s gen2 processor,3.2,8049,517
+google,pixel 9,peony,flipkart,79999,64999,15000,18,12,256,6.3,4700,5,50,google tensor g4 processor,4.5,3198,316
+vivo,t3 lite,vibrant green,flipkart,14499,10499,4000,27,4,128,6.56,5000,8,108,dimensity 6300 processor,4.4,70298,2338
+redmi,9i sport,coral green,flipkart,9999,9500,499,4,4,512,6.53,5000,5,50,mediatek helio g25 processor,4.3,270336,14927
+realme,13 pro+,emerald green,flipkart,36999,25999,11000,29,8,256,6.7,5200,32,108,snapdragon 7s gen2 processor,4.4,15033,1523
+realme,narzo 80,speed silver,flipkart,23999,18122,5877,24,8,128,6.7,6000,12,50,snapdragon 7s gen2 processor,4.4,307,13
+apple,iphone 16,teal,flipkart,99900,89999,9901,9,12,256,6.7,4700,12,50,a18 chip 6 core processor processor,4.6,3067,171
+samsung,galaxy m35,moonlight blue,flipkart,27499,26990,509,1,8,256,6.6,6000,32,50,snapdragon 7 gen 3 processor,4.3,3633,249
+vivo,t3 ultra,frost green,flipkart,35999,27999,8000,22,8,128,6.78,5500,32,108,dimensity 9200 processor,4.5,22016,1801
+motorola,g34 5g,charcoal black,flipkart,14999,11999,3000,20,8,128,6.5,5000,16,50,snapdragon 695 5g processor,4.2,146858,10026
+apple,iphone 14,blue,flipkart,59900,52990,6910,11,16,128,6.1,4300,12,50,a15 bionic chip 6 core processor processor,4.6,313551,11692
+google,pixel 8,bay,flipkart,106999,59999,47000,43,12,128,6.7,5050,5,50,tensor g3 processor,4.4,1218,134
+google,pixel 8,bay,flipkart,106999,59999,47000,43,12,128,6.7,5050,5,108,tensor g3 processor,4.4,1218,134
+vivo,v50 5g,rose red,flipkart,39999,32999,7000,17,8,128,6.77,6000,5,50,7 gen 3 processor,4.5,6154,540
+vivo,y400 pro,freestyle white,flipkart,29999,24999,5000,16,8,128,6.77,5500,32,50,dimensity 7300 processor,4.4,291,14
+infinix,note 40,racing grey,flipkart,24999,15999,9000,36,8,256,6.78,5000,32,50,dimensity 7020 processor,4.2,12307,1141
+redmi,14c 5g,stardust purple,flipkart,12999,9999,3000,23,4,64,6.88,5160,8,50,4 gen 2 5g processor,4.2,4714,250
+samsung,m55s,coral green,flipkart,28999,18990,10009,34,8,128,6.7,5000,16,108,6s 4g gen1 processor,4.1,160,13
+poco,x6 neo,horizon blue,flipkart,19999,13990,6009,30,8,128,6.67,5000,16,108,dimensity 6080 processor,4.2,42214,3058
+oppo,f29 pro,marble white,flipkart,32999,25999,7000,21,8,128,6.7,6000,16,50,dimensity 7300 processor,4.4,1057,83
+samsung,galaxy a06,light green,flipkart,12499,9291,3208,25,4,64,6.7,5000,12,50,mediatek processor,4,789,63
+samsung,galaxy z,mint,flipkart,109999,72999,37000,33,12,256,6.7,4000,10,50,snapdragon 8 gen 3 processor,4.5,140,13
+vivo,y58 5g,sundarbans green,flipkart,23999,16979,7020,29,8,128,6.72,6000,8,50,4 gen 2 processor,4.4,1202,57
+iqoo,neo 10,inferno red,flipkart,40999,37590,3409,8,12,256,6.78,7000,12,50,qualcomm processor,4.4,77,9
+itel,itel p 55,mint green,flipkart,13499,9190,4309,31,6,128,6.6,5000,8,108,mediatek dimensity 6080 processor,4.1,712,48
+samsung,galaxy s23,phantom black,flipkart,149999,78699,71300,47,12,256,6.8,5000,12,12,qualcomm snapdragon 8 gen 2 processor,4.6,4300,396
+samsung,galaxy a06,light green,flipkart,15499,10699,4800,30,4,128,6.7,5000,8,108,dimensity 6300 processor,4,789,63
+realme,gt 7,icesense black,flipkart,45999,37499,8500,18,8,256,6.78,7000,12,50,dimensity processor,4.5,36,4
+redmi,note 14,mystique white,flipkart,21999,14701,7298,33,6,128,6.67,5110,8,50,dimensity processor,4.3,1977,97
+vivo,t3 ultra,frost green,flipkart,35999,27999,8000,22,8,128,6.78,5500,50,50,dimensity 9200 processor,4.5,22016,1801
+samsung,sm 1207,black,flipkart,1799,779,1020,56,6,64,1.5,800,8,50,qualcomm processor,3.2,5417,315
+oneplus,nord ce4,celadon marble,flipkart,24999,21884,3115,12,8,128,6.7,5500,12,50,oxygenos 14.0 processor,4.4,23940,1341
+samsung,galaxy a26,awesome black,flipkart,27999,22999,5000,17,8,128,6.7,5000,13,50,samsung exynos 1380 processor,4.1,158,22
+lava,yuva 2,marble black,flipkart,10999,8497,2502,22,4,128,6.67,5000,12,50,snapdragon 7 gen 3 processor,4.3,40,1
+oneplus,13,black eclipse,flipkart,72999,65999,7000,9,12,256,6.82,6000,32,50,snapdragon 8 elite processor,4.5,186,16
+realme,14 pro+,bikaner purple,flipkart,33999,29999,4000,11,8,128,6.83,6000,32,50,7s gen 3 mobile platform processor,4.4,11228,1493
+oppo,reno 12,matte brown,flipkart,43999,32999,11000,25,8,256,6.7,5000,32,50,dimensity 7300 energy processor,4.4,6829,449
+oneplus,13s 5g,pink satin,flipkart,57999,51789,6210,10,12,256,6.32,5850,16,50,dimensity 7300 energy processor,4.5,265,24
+motorola,edge 50,peach fuzz,flipkart,64999,44999,20000,30,12,512,6.7,4500,12,50,8s gen 3 mobile platform processor,4.3,2939,322
+motorola,edge 60,pantone sparkling grape,flipkart,42999,37999,5000,11,16,512,6.7,6000,8,50,dimensity 8350 processor,4.4,157,15
+iqoo,z9s 5g,titanium matte,flipkart,27999,22470,5529,19,8,256,6.77,5500,16,50,mediatek dimensity 7300 5g processor,4.4,8518,531
+tecno,camon 30,basaltic dark,flipkart,32999,23999,9000,27,12,512,6.78,5000,3,12,dimensity 7020 5g processor,4,171,13
+realme,14 pro,jaipur pink,flipkart,27999,24999,3000,10,8,128,6.77,6000,16,12,dimensity 7300 energy processor,4.4,10199,842
+realme,14 pro,jaipur pink,flipkart,27999,24999,3000,10,8,128,6.77,6000,16,50,dimensity 7300 energy processor,4.4,10199,842
+poco,c71 -,desert gold,flipkart,8999,5899,3100,34,4,64,6.88,5200,8,50,unisoc t7250 processor,3.9,21407,1080
+motorola,razr 60,pantone spring bud,flipkart,54999,49999,5000,9,8,256,6.9,4500,32,108,dimensity 7400x processor,4.5,344,41
+redmi,a3,lake blue,flipkart,11999,8590,3409,28,6,128,6.71,5000,5,50,mediatek helio g36 processor,4.1,6776,346
+redmi,note 14,mystique white,flipkart,21999,14701,7298,33,6,128,6.67,5110,12,50,mediatek helio g36 processor,4.3,1977,97
+vivo,y400 pro,freestyle white,flipkart,29999,24999,5000,16,8,128,6.77,5500,32,108,dimensity 7300 processor,4.4,291,14
+realme,14 pro+,bikaner purple,flipkart,33999,29999,4000,11,8,128,6.83,6000,32,12,7s gen 3 mobile platform processor,4.4,11228,1493
+realme,14 pro+,bikaner purple,flipkart,33999,29999,4000,11,8,128,6.83,6000,32,108,7s gen 3 mobile platform processor,4.4,11228,1493
+samsung,galaxy z,blue,flipkart,121999,73999,48000,39,12,512,6.7,4000,10,50,snapdragon 8 gen 3 processor,4.5,140,13
+oppo,f29 pro,marble white,flipkart,32999,25999,7000,21,8,128,6.7,6000,16,108,dimensity 7300 processor,4.4,1057,83
+jmax,jmax legend,neow blue,flipkart,9499,3999,5500,57,3,128,6.8,4000,2,0,na processor,3,196,25
+redmi,note 13,arctic white,flipkart,28999,19699,9300,32,8,128,6.67,5100,16,50,7s gen 2 mobile platform 5g processor,4.3,38315,2994
+samsung,galaxy s23,cream,flipkart,89999,44999,45000,50,8,128,6.1,3900,12,50,qualcomm snapdragon 8 gen 2 processor,4.6,79125,5408
+oppo,a5 pro,mocha brown,flipkart,21999,17999,4000,18,8,128,6.67,5800,8,50,dimensity 6300 processor,4.2,237,8
+samsung,galaxy a15,blue black,flipkart,21499,16999,4500,20,8,128,6.5,5000,13,50,dimensity 6100 processor,4.3,4081,241
+redmi,note-14 pro+,phantom purple,flipkart,34999,25150,9849,28,8,128,6.67,6200,20,50,7s gen 3 processor,4.2,145,7
+motorola,g62 5g,frosted blue,flipkart,24999,11999,13000,52,8,128,6.67,5000,16,50,qualcomm snapdragon 695 5g processor,4.1,30464,2523
+motorola,edge 50,pantone nautical blue,flipkart,29999,19999,10000,33,8,256,6.4,4310,32,108,dimensity 7300 processor,4.4,28920,2820
+poco,f6 5g,black,flipkart,35999,23999,12000,33,12,256,6.67,5000,20,108,8s gen3 processor,4.3,7760,752
+google,pixel 8a,aloe,flipkart,52999,37999,15000,28,8,128,6.1,4404,13,50,tensor g3 processor,4.3,7112,581
+samsung,galaxy a36,awesome black,flipkart,38999,33999,5000,12,8,256,6.7,5000,12,50,qualcomm snapdragon 6 gen 3 processor,4.3,960,73
+xiaomi,xiaomi 14 civi,cruise blue,flipkart,54999,36999,18000,32,8,256,6.55,4700,8,50,8s gen 3 mobile platform processor,4.3,1469,185
+redmi,9 power,mighty black,flipkart,13999,8775,5224,37,4,64,6.53,6000,8,50,qualcomm snapdragon 662 processor,4.3,245593,16878
+cmf,phone 1,blue,flipkart,19999,15999,4000,20,6,128,6.67,5000,16,50,dimensity 7300 5g processor,4.4,81541,5613
+cmf,watch pro 2,blue,flipkart,19999,15999,4000,20,6,128,6.67,5000,16,108,dimensity 7300 5g processor,4.4,81541,5613
+motorola,e13,cosmic black,flipkart,10999,6999,4000,36,4,64,6.5,5000,5,50,unisoc t606 processor,4.1,107533,7789
+oneplus,nord 4,obsidian midnight,flipkart,29999,24990,5009,16,8,128,6.74,5500,16,108,unisoc t606 processor,4.5,3748,233
+samsung,guru1200,black,flipkart,1800,791,1009,56,4,64,1.8,800,12,50,unisoc t606 processor,3,1596,137
+itel,itel a80,sandstone black,flipkart,8999,6849,2150,23,4,128,6.7,5000,8,12,unisoc t606 processor,4.2,331,17
+hmd,hmd crest max,aqua green,flipkart,22499,11999,10500,46,8,256,6.9,5000,12,64,dimensity 7300 energy processor,4,133,20
+iqoo,z10 5g,stellar black / black,flipkart,29999,26990,3009,10,12,256,6.7,7300,16,50,dimensity 7300 energy processor,4.4,530,37
+realme,14 pro,jaipur pink,flipkart,27999,24999,3000,10,8,128,6.77,6000,16,108,dimensity 7300 energy processor,4.4,10199,842
+vivo,v50 5g,rose red,flipkart,50999,39999,11000,21,12,512,6.77,6000,16,50,7 gen 3 processor,4.5,192,15
+samsung,galaxy z,blue,flipkart,109999,71999,38000,34,12,256,6.7,4000,10,50,snapdragon 8 gen 3 processor,4.5,140,13
+samsung,m55s,thunder black,flipkart,28999,18986,10013,34,8,128,6.7,5000,12,50,snapdragon processor,4.1,160,13
+xiaomi,xiaomi 14 civi,cruise blue,flipkart,59999,38999,21000,35,12,512,6.55,4700,16,108,8s gen 3 mobile platform processor,4.4,754,68
+vivo,y58 5g,sundarbans green,flipkart,23999,16575,7424,30,8,128,6.72,6000,8,12,4 gen 2 processor,4.4,1202,57
+realme,narzo n65,amber gold,flipkart,13999,10452,3547,25,4,128,6.67,5000,16,50,7s gen 3 mobile platform processor,4.3,1779,95
+poco,c71 -,cool blue,flipkart,8999,5899,3100,34,4,64,6.88,5200,8,50,unisoc t7250 processor,3.9,21407,1080
+oppo,a17k,navy blue,flipkart,12999,8499,4500,34,3,64,6.56,5000,5,50,mediatek helio p35 processor,4.5,16315,386
+samsung,galaxy a36,awesome lavender,flipkart,38999,33999,5000,12,8,256,6.7,5000,12,50,qualcomm snapdragon 6 gen 3 processor,4.3,960,73
+redmi,note 14,spectre blue,flipkart,34999,27999,7000,20,8,128,6.67,6200,20,108,7s gen 3 processor,4.3,2159,205
+redmi,note 13,purple,flipkart,20999,17899,3100,14,6,128,6.67,5000,16,108,dimensity 6080 processor,4.2,30637,1768
+poco,c61,mystical green,flipkart,8999,6990,2009,22,4,64,6.71,5000,5,108,helio g36 processor,4.1,110043,4655
+itel,itel color pro,river blue,flipkart,13499,9590,3909,28,6,128,6.6,5000,8,50,dimensity 6080 processor,4.3,192,18
+poco,m7 pro,lunar dust,flipkart,20999,14999,6000,28,8,256,6.67,5110,20,50,dimensity 7025 ultra processor,4.2,6921,707
+honor,200 5g,black,flipkart,39999,22489,17510,43,8,256,6.7,5200,16,50,snapdragon 7 gen 3 processor,4.4,142,13
+vivo,y19 5g,majestic green,flipkart,13999,10499,3500,25,4,64,6.74,5500,5,50,dimensity 6300 processor,4.3,999,43
+tecno,spark 30c,aurora cloud,flipkart,11999,9999,2000,16,4,64,6.67,5000,8,50,dimensity 6300 5g processor,4.1,824,42
+tecno,spark 30c,azure sky,flipkart,11999,9999,2000,16,4,64,6.67,5000,8,5,dimensity 6300 5g processor,4.1,824,42
+tecno,spark 30c,azure sky,flipkart,11999,9999,2000,16,4,64,6.67,5000,8,50,dimensity 6300 5g processor,4.1,824,42
+vivo,y19 5g,majestic green,flipkart,13999,10499,3500,25,4,64,6.74,5500,5,108,dimensity 6300 processor,4.3,999,43
+oneplus,nord 4,obsidian midnight,flipkart,29999,24990,5009,16,8,128,6.74,5500,16,50,sc6531e processor,4.5,3748,233
+realme,gt 7,icesense black,flipkart,45999,37499,8500,18,8,256,6.78,7000,16,108,dimensity processor,4.5,36,4
+oneplus,nord ce4,celadon marble,flipkart,24999,21884,3115,12,8,128,6.7,5500,16,50,oxygenos 14.0 processor,4.4,23940,1341
+samsung,galaxy m56,light green,flipkart,30999,24952,6047,19,8,128,6.7,5000,12,50,octacore processor,4.5,110,4
+poco,m6 plus,misty lavender,flipkart,17999,11499,6500,36,8,128,6.79,5030,13,50,snapdragon 4 gen2 ae processor,4.2,11513,724
+poco,x6 5g,mirror black,flipkart,27999,24999,3000,10,12,512,6.67,5100,16,12,7s gen 2 mobile platform 5g processor,4.3,12937,1121
+oppo,a5 5g,mist white,flipkart,19499,15499,4000,20,6,128,6.67,6000,8,12,dimensity 6300 processor,4.4,32,3
+realme,narzo n65,amber gold,flipkart,13999,10452,3547,25,4,128,6.67,5000,16,50,dimensity 6300 processor,4.3,1779,95
+vivo,v40e 5g,mint green,flipkart,33999,24999,9000,26,8,128,6.77,5500,50,50,dimensity 7300 processor,4.4,9807,661
+google,pixel 9,obsidian,flipkart,124999,104999,20000,16,16,256,6.8,5060,42,108,google tensor g4 processor,4.6,856,74
+redmi,13c 5g,starlight black,flipkart,13999,10617,3382,24,4,128,6.74,5000,10,50,snapdragon 7 gen 3 processor,4.3,45648,1831
+itel,itel a70,brilliant gold,flipkart,7299,6349,950,13,4,64,6.56,5000,2,13,snapdragon 7 gen 3 processor,4.2,3067,113
+samsung,galaxy a36,awesome white,flipkart,38999,33999,5000,12,8,256,6.7,5000,12,50,qualcomm snapdragon 6 gen 3 processor,4.3,960,73
+poco,x6 pro,yellow,flipkart,30999,19699,11300,36,8,256,6.67,5000,16,50,dimensity d8300 ultra processor,4.3,24363,2541
+redmi,note 14,phantom purple,flipkart,28999,22999,6000,20,8,128,6.67,5500,20,108,dimensity 7300 ultra processor,4.3,3970,298
+realme,gt 7,icesense black,flipkart,45999,37499,8500,18,8,256,6.78,7000,16,50,dimensity processor,4.5,36,4
+oppo,a5 5g,mist white,flipkart,19499,15499,4000,20,6,128,6.67,6000,8,50,dimensity 6300 processor,4.4,32,3
+alcatel,alcatel v3 ultra,ocean grey,flipkart,27999,17999,10000,35,6,128,6.78,5010,32,50,dimensity 6300 processor,3.8,36,13
+xiaomi,xiaomi 14 civi,hot pink,flipkart,59999,39999,20000,33,12,512,6.55,4700,8,50,8s gen 3 mobile platform processor,4.4,754,68
+lava,blaze duo,arctic white,flipkart,17999,15899,2100,11,6,128,6.67,5000,16,64,unisoc processor,3.8,83,8
+redmi,13c 5g,starlight black,flipkart,13999,10617,3382,24,4,128,6.74,5000,8,50,unisoc processor,4.3,45648,1831
+poco,c71 -,power black,flipkart,8999,5899,3100,34,4,64,6.88,5200,8,50,unisoc t7250 processor,3.9,21407,1080
+motorola,g32,satin maroon,flipkart,18999,11990,7009,36,8,128,6.5,5000,16,50,qualcomm snapdragon 680 processor,4.2,127547,9972
+itel,itel a90,aurora blue,flipkart,8299,6499,1800,21,4,64,6.6,5000,3,13,qualcomm snapdragon 680 processor,3.9,25,1
+nothing,phone,black,flipkart,25999,22999,3000,11,8,128,6.7,5000,32,12,dimensity 7200 pro processor,4.4,101289,8071
+itel,itel a50c,black,flipkart,6199,5849,350,5,2,32,6.67,4000,2,8,dimensity 7200 pro processor,4.1,336,13
+oppo,reno 12,matte brown,flipkart,43999,32999,11000,25,8,256,6.7,5000,32,108,dimensity 7300 energy processor,4.4,6829,449
+oneplus,nord ce4,celadon marble,flipkart,24999,21884,3115,12,8,128,6.7,5500,32,50,oxygenos 14.0 processor,4.4,23940,1341
+nothing,phone,black,flipkart,25999,22999,3000,11,8,128,6.7,5000,32,50,dimensity 7200 pro processor,4.4,101289,8071
+motorola,g04s,sea green,flipkart,9999,7299,2700,27,4,64,6.6,5000,5,3,t606 processor,4.2,29839,1642
+samsung,galaxy a36,awesome white,flipkart,35999,30999,5000,13,8,128,6.7,5000,12,8,qualcomm snapdragon 6 gen 3 processor,4.3,960,73
+redmi,note 14,spectre blue,flipkart,34999,27999,7000,20,8,128,6.67,6200,20,32,7s gen 3 processor,4.3,2159,205
+poco,c61,ethereal blue,flipkart,8999,6975,2024,22,4,64,6.71,5000,5,108,helio g36 processor,4.1,110043,4655
+samsung,m06 5g,blazing black,flipkart,13999,10390,3609,25,4,128,6.7,5000,8,50,helio g36 processor,3.9,270,30
+redmi,note 14,titan black,flipkart,24999,19817,5182,20,8,256,6.67,5110,8,50,helio g36 processor,4.2,1322,80
+redmi,note 14,phantom purple,flipkart,22999,17319,5680,24,8,128,6.67,5110,8,50,helio g36 processor,4.2,1322,80
+samsung,galaxy m36,velvet black,amazon,22999,17499,5500,24,6,128,6.612,5000,13,50,snapdragon 7s gen 2,4.3,2345,435
+samsung,galaxy m06,sage green,amazon,13999,8749,5250,38,4,128,6.79,5000,8,50,mediatek dimensity 6300,4.2,1980,320
+samsung,galaxy m05,mint green,amazon,9999,6249,3750,38,4,64,6.79,5000,8,50,exynos 850,4.1,1250,210
+redmi,a4 5g,starry black,amazon,11999,8798,3201,27,4,128,6.8812,5000,8,50,snapdragon 4 gen 2,4.3,3540,530
+poco,"m7 5g,",starry black,amazon,12999,9299,3700,28,6,128,6.612,5000,13,50,dimensity 6080,4.2,2150,415
+oneplus,nord ce4,super silver,amazon,20999,16999,4000,19,8,128,6.712,5500,16,50,snapdragon 695,4.4,4890,920
+samsung,galaxy m06,sage green,amazon,15499,10049,5450,35,6,128,6.79,5000,8,50,mediatek dimensity 6300,4.3,2420,370
+poco,m6 plus,starry black,amazon,14499,10499,4000,28,8,128,6.7912,5000,13,50,snapdragon 4 gen 2,4.4,2850,510
+samsung,galaxy m35,daybreak blue,amazon,25999,16499,9500,37,8,128,6.612,6000,13,50,exynos 1380,4.5,3430,645
+iqoo,z10 lite,cyber green,amazon,14999,10998,4001,27,6,128,6.6712,5000,8,50,unisoc t616,4.2,1310,275
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,4,64,6.8812,5000,13,50,snapdragon 4 gen 2,4.1,1860,355
+redmi,14c 5g,stargaze black,amazon,14999,11498,3501,23,6,128,6.6712,5000,8,50,unisoc t616,4.2,1050,220
+realme,narzo 80,crystal purple,amazon,14999,11498,3501,23,6,128,6.612,6000,13,50,snapdragon 7 gen 1,4.4,2930,580
+redmi,a4 5g,starry black,amazon,12999,9799,3200,25,6,128,6.59,5000,8,50,snapdragon 4 gen 2,4.1,1320,250
+honor,200 5g,starry black,amazon,39999,21698,18301,46,4,128,6.6712,5000,8,50,unisoc t616,4.2,1300,270
+oneplus,nord ce4,mega blue,amazon,20999,16999,4000,19,8,128,6.712,4500,12,48,a18 bionic,4.7,9870,1890
+poco,"m7 5g,",starry black,amazon,12999,9299,3700,28,4,64,6.759,5000,8,13,unisoc t606,4,1050,210
+poco,"c75 5g,",starry black,amazon,10999,7699,3300,30,6,128,6.612,5000,13,50,dimensity 6300,4.3,2690,500
+lava,bold n1,titanium gold,amazon,8399,6898,1501,18,4,128,6.6712054,5000,8,50,unisoc t616,4.2,1310,275
+redmi,14c 5g,stardust purple,amazon,12999,9498,3501,27,4,64,6.8812,5000,13,50,snapdragon 4 gen 2,4.1,1860,355
+lava,bold n1,stealth black,amazon,8399,6898,1501,18,4,128,6.6712054,5000,8,50,unisoc t616,4.2,1050,220
+samsung,galaxy m36,orange haze,amazon,22999,17499,5500,24,6,128,6.612,6000,13,50,snapdragon 7 gen 1,4.4,2930,580
+samsung,galaxy m06,sage green,amazon,15499,10049,5450,35,6,128,6.612,5000,8,50,dimensity 6300,4.2,2170,400
+poco,"c75 5g,",starry black,amazon,10999,7699,3300,30,4,64,6.59,5000,8,50,snapdragon 4 gen 2,4.1,1320,250
+lava,bold n1,titanium gold,amazon,8399,6898,1501,18,4,128,6.6712054,5000,8,50,unisoc t616,4.2,1300,270
+iphone,iphone 16 plus,starry black,amazon,89900,82900,7000,8,8,128,6.712,4500,12,48,a18 bionic,4.7,9870,1890
+lava,o3,glossy lavender,amazon,7199,6199,1000,14,4,64,6.759,5000,8,13,unisoc t606,4,1050,210
+samsung,galaxy m16,thunder black,amazon,17499,12249,5250,30,6,128,6.612,5000,13,50,dimensity 6300,4.3,2690,500
+vivo,v50 5g,starry night,amazon,48999,40999,8000,16,12,512,6.812,5000,32,50,snapdragon 8 gen 2,4.5,3450,620
+samsung,galaxy s24,amber yellow,amazon,74999,43481,31518,42,6,128,6.2212,4000,12,50,snapdragon 8 gen 3,4.6,5620,1050
+redmi,a4 5g,sparkle purple,amazon,10999,7998,3001,27,4,64,6.8812,5000,8,50,snapdragon 4s gen 2,4.1,1980,370
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,6,64,6.7912,5000,16,108,snapdragon 4 gen 2 ae,4.3,3010,590
+redmi,note 14,starry black,amazon,34999,27999,7000,20,8,128,6.6712,5000,16,50,snapdragon 7s gen 3,4.4,2850,530
+samsung,galaxy a55,awesome navy,amazon,45999,26999,19000,41,8,256,6.612,5000,32,50,exynos 1480,4.4,3240,600
+iqoo,z10x 5g,ultramarine,amazon,17499,13498,4001,23,6,128,6.612,6500,16,50,dimensity 7300,4.3,1880,360
+samsung,galaxy a55,awesome iceblue,amazon,45999,26999,19000,41,8,256,6.612,5000,32,50,exynos 1480,4.4,3120,590
+poco,m6 plus,starry black,amazon,14499,10499,4000,28,8,128,6.812,5000,16,50,snapdragon 4 gen 2,4.2,2050,410
+redmi,a4 5g,starry black,amazon,10999,7998,3001,27,4,64,6.8812,5000,8,50,snapdragon 4s gen 2,4.1,1960,360
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,4,64,6.7912,5000,16,108,snapdragon 4 gen 2 ae,4.3,3010,590
+oppo,k12x 5g,breeze blue,amazon,16999,12896,4103,24,6,64,6.712,5000,16,64,snapdragon 782g,4.2,1850,350
+samsung,galaxy m06,sage green,amazon,13999,8749,5250,38,4,128,6.69,5000,13,50,dimensity 6300,4.1,2740,510
+redmi,note 14,starry black,amazon,39999,32999,7000,18,12,512,6.6712,5000,16,50,snapdragon 7s gen 3,4.5,2920,540
+redmi,a4 5g,starry black,amazon,11999,8798,3201,27,4,128,6.8812,5000,8,50,snapdragon 4s gen 2,4.1,1980,370
+samsung,galaxy m36,orange haze,amazon,22999,17499,5500,24,6,128,6.712,6000,13,50,snapdragon 7 gen 2,4.3,2410,440
+oppo,k12x 5g,breeze blue,amazon,16999,12896,4103,24,6,128,6.712,5000,16,64,snapdragon 782g,4.2,1850,350
+samsung,galaxy a55,awesome navy,amazon,45999,26999,19000,41,8,256,6.612,5000,32,50,exynos 1480,4.4,3050,580
+samsung,galaxy m06,sage green,amazon,13999,8749,5250,38,4,128,6.69,5000,13,50,dimensity 6300,4.1,2680,500
+oneplus,nord 5,starry black,amazon,34999,31999,3000,9,6,128,6.7412,5000,16,50,snapdragon 8s gen 3,4.5,2920,560
+samsung,galaxy m16,mint green,amazon,17499,12249,5250,30,6,128,6.612,5000,13,50,dimensity 6300,4.2,2780,520
+samsung,galaxy s24,amber yellow,amazon,74999,43481,31518,42,4,128,6.212,4000,12,50,snapdragon 8 gen 3,4.6,3300,600
+redmi,note 14,starry black,amazon,34999,27999,7000,20,8,128,6.6712,5000,16,50,snapdragon 7s gen 3,4.5,2890,550
+redmi,note 14,starry black,amazon,39999,32999,7000,18,12,512,6.6712,5000,16,50,snapdragon 7s gen 3,4.5,2950,560
+redmi,a4 5g,sparkle purple,amazon,12999,9799,3200,25,6,128,6.8812,5000,8,50,snapdragon 4s gen 2,4.2,2030,400
+samsung,galaxy m16,blush pink,amazon,15999,10999,5000,31,4,128,6.612,5000,13,50,dimensity 6300,4.1,2700,510
+redmi,a4 5g,sparkle purple,amazon,11499,8798,2701,23,4,128,6.8812,5000,8,50,snapdragon 4s gen 2,4.1,1950,380
+samsung,galaxy a56,awesome graphite,amazon,52999,44999,8000,15,6,128,6.612,5000,32,50,exynos 1480,4.5,2960,580
+lava,bold n1,sparkling ivory,amazon,7499,5999,1500,20,4,64,6.759,5000,8,13,helio g36,4.1,1880,350
+samsung,galaxy a06,light green,amazon,16999,12999,4000,24,6,128,6.69,5000,13,50,dimensity 6100+,4.2,2520,480
+iqoo,z9x 5g,tornado green,amazon,18999,13499,5500,29,6,128,6.6712,6000,16,50,snapdragon 6 gen 1,4.4,2770,510
+redmi,a4 5g,starry black,amazon,11999,8798,3201,27,4,128,6.8812,5000,8,50,snapdragon 4s gen 2,4.1,2000,390
+redmi,14c 5g,starlight blue,amazon,12999,9498,3501,27,4,64,6.8812,5000,8,50,snapdragon 4 gen 2,4.2,2120,410
+samsung,galaxy m36,orange haze,amazon,22999,17499,5500,24,6,128,6.612,6000,13,50,exynos 1380,4.4,2840,540
+poco,"c75 5g,",starry black,amazon,10999,7699,3300,30,4,64,6.69,5000,8,50,dimensity 6100+,4.1,1760,330
+lava,storm lite,astral blue,amazon,10999,7999,3000,27,4,64,6.612,5000,8,50,dimensity 6400,4.1,1560,290
+tecno,pop 9,azure sky,amazon,14999,9499,5500,37,8,128,6.69,5000,8,48,dimensity 6300,4.2,1820,350
+infinix,note 50s,titanium grey,amazon,24999,17999,7000,28,8,256,6.78144,5500,16,64,dimensity 7300 ultimate,4.4,1970,370
+tecno,pop 9,glittery white,amazon,8499,6098,2401,28,3,64,6.69,5000,8,13,helio g50,4,1490,280
+oneplus,13r,starry black,amazon,44999,39999,5000,11,12,256,6.712,5000,16,50,snapdragon 8 gen 3,4.6,2940,540
+iqoo,z10x 5g,titanium,amazon,18999,14998,4001,21,8,128,6.6712,6500,16,50,dimensity 7300,4.4,2210,420
+acer,acer super zx,cosmic green,amazon,21999,11998,10001,45,8,128,6.612,5000,16,64,dimensity 6300,4.2,1730,330
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,8,128,6.7912,5000,16,108,snapdragon 4 gen 2 ae,4.4,2880,530
+redmi,14c 5g,starlight blue,amazon,13999,10498,3501,25,4,128,6.8812,5000,8,50,snapdragon 4 gen 2,4.2,2050,400
+realme,motorola edge,forest blue,amazon,25999,19900,6099,23,8,128,6.67144,5000,32,50,snapdragon 7 gen 2,4.5,2670,490
+realme,p1,textured titanium,amazon,22999,17493,5506,24,12,256,6.712,5000,16,64,snapdragon 7s gen 2,4.5,2890,520
+redmi,a3x,midnight black,amazon,9999,6449,3550,36,3,64,6.59,5000,8,13,octa-core helio g36,4.1,1740,310
+iqoo,z10x 5g,titanium,amazon,20499,16498,4001,20,8,256,6.6712,6500,16,50,dimensity 7300,4.4,2280,430
+lava,bold n1,stealth black,amazon,8399,6898,1501,18,4,128,6.6712,5000,8,50,helio g88,4,1550,290
+iqoo,13 5g,ace green,amazon,61999,54998,7001,11,12,256,6.782144,5000,16,50,snapdragon 8 elite,4.7,3150,590
+oneplus,nord 4,oasis green,amazon,32999,26999,6000,18,8,256,6.7412,5000,16,50,snapdragon 7+ gen 3,4.5,2970,550
+samsung,galaxy a36,awesome lavender,amazon,41999,36999,5000,12,12,256,6.612,5000,32,50,snapdragon 7 gen 2,4.4,2610,480
+redmi,a4 5g,sparkle purple,amazon,11499,8798,2701,23,4,128,6.8812,5000,8,50,snapdragon 4s gen 2,4.2,2130,400
+redmi,14c 5g,stardust purple,amazon,12999,9498,3501,27,4,64,6.8812,5000,8,50,snapdragon 4 gen 2,4.1,1990,370
+samsung,galaxy m36,orange haze,amazon,22999,17499,5500,24,6,128,6.612,6000,13,50,snapdragon 7s gen 2,4.3,2770,510
+acer,acer super zx,carbon black,amazon,19999,10998,9001,45,6,128,6.612,5000,16,64,dimensity 6300 5g,4.1,1850,340
+vivo,y39 5g,lotus purple,amazon,21999,16998,5001,23,8,128,6.712,5000,16,50,snapdragon 6 gen 1,4.3,2110,390
+xiaomi,xiaomi 14,cruise blue,amazon,59999,31999,28000,47,12,512,6.73212,5000,32,50,snapdragon 8 gen 3,4.6,3450,630
+poco,m7 5g,starry black,amazon,12999,9299,3700,28,6,128,6.8812,5000,8,50,snapdragon 4 gen 2,4.2,2310,410
+samsung,galaxy a55,awesome navy,amazon,42999,24999,18000,42,8,128,6.612,5000,32,50,snapdragon 7 gen 2,4.4,2780,520
+samsung,galaxy a55,awesome iceblue,amazon,48999,31999,17000,35,12,256,6.612,5000,32,50,snapdragon 7 gen 2,4.5,2890,540
+iqoo,13 5g,ace green,amazon,66999,59998,7001,10,16,512,6.782144,5000,16,50,snapdragon 8 elite,4.8,3600,670
+redmi,14c 5g,starlight blue,amazon,14999,11498,3501,23,6,128,6.8812,5000,8,50,snapdragon 4 gen 2,4.2,2250,430
+motorola,moto g85,starry black,amazon,20999,16240,4759,23,4,64,6.6712,5000,16,50,snapdragon 6 gen 1,4.3,2040,380
+redmi,note 14,starry black,amazon,34999,27999,7000,20,8,128,6.6712,5000,16,50,snapdragon 7s gen 3,4.5,2980,560
+redmi,14c 5g,stardust purple,amazon,12999,9498,3501,27,4,64,6.8812,5000,8,50,snapdragon 4 gen 2,4.2,1920,370
+realme,narzo 80x,deep ocean,amazon,15999,12998,3001,19,6,128,6.712,6000,16,50,dimensity 6400 5g,4.3,2150,400
+samsung,galaxy m35,thunder grey,amazon,25999,16499,9500,37,8,128,6.712,6000,13,50,snapdragon 7 gen 2,4.4,2480,460
+samsung,galaxy a55,awesome iceblue,amazon,42999,24999,18000,42,8,128,6.612,5000,32,50,snapdragon 7 gen 2,4.4,2640,490
+poco,m6 plus,starry black,amazon,14499,10499,4000,28,8,128,6.8812,5000,8,50,snapdragon 4 gen 2,4.3,2210,420
+oppo,a5 pro,feather blue,amazon,23999,19998,4001,17,8,256,6.6712,5000,16,50,dimensity 7050 5g,4.2,2090,410
+oppo,k12x 5g,starry black,amazon,18999,15382,3617,19,8,256,6.712,5000,16,50,snapdragon 7 gen 1,4.2,1980,390
+realme,narzo n65,starry black,amazon,14999,12499,2500,17,6,128,6.612,5000,16,50,dimensity 6300 5g,4.1,1880,370
+redmi,note 14,starry black,amazon,39999,32999,7000,18,12,512,6.6712,5000,16,50,snapdragon 7s gen 3,4.5,3210,590
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,8,128,6.7912,5000,16,108,snapdragon 4 gen 2 ae,4.3,2640,470
+samsung,galaxy m36,orange haze,amazon,27499,21999,5500,20,8,256,6.712,6000,13,50,snapdragon 7 gen 2,4.5,2890,530
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,8,128,6.7912,5000,16,108,snapdragon 4 gen 2 ae,4.3,2630,470
+redmi,14c 5g,starlight blue,amazon,14999,11498,3501,23,6,128,6.8812,5000,8,50,snapdragon 4 gen 2,4.2,2010,380
+realme,narzo 80x,deep ocean,amazon,16999,13998,3001,18,8,128,6.712,6000,16,50,dimensity 6400 5g,4.4,2300,440
+realme,narzo 80x,sunlit gold,amazon,15999,12998,3001,19,6,128,6.712,6000,16,50,dimensity 6400 5g,4.4,2210,420
+iqoo,13 5g,ace green,amazon,66999,59998,7001,10,16,512,6.782144,5000,16,50,snapdragon 8 elite,4.8,3520,660
+samsung,galaxy m35,thunder grey,amazon,25999,16499,9500,37,8,128,6.712,6000,13,50,snapdragon 7 gen 2,4.4,2430,450
+oppo,a5 pro,feather blue,amazon,23999,19998,4001,17,8,256,6.6712,5000,16,50,dimensity 7050 5g,4.3,2110,410
+iqoo,z10x 5g,ultramarine,amazon,20499,16498,4001,20,8,256,6.72,6500,8,50,dimensity 7300,4.3,8234,1024
+redmi,note 14,titan black,amazon,34999,27999,7000,20,8,128,6.67,5000,20,200,sd 7s gen 3,4.5,12544,1453
+redmi,note 14,spectre blue,amazon,36999,29999,7000,19,8,256,6.67,5000,20,200,sd 7s gen 3,4.5,11845,1398
+realme,narzo n65,amber gold,amazon,14999,12499,2500,17,6,128,6.67,5000,8,50,d6300 5g,4.2,6856,1032
+redmi,a5,jaisalmer gold,amazon,8999,6498,2501,28,3,64,6.88,5000,8,32,octa-core,4,4125,725
+redmi,note 14,titan black,amazon,21999,16999,5000,23,6,128,6.67,5000,16,50,dimensity 7025 ultra,4.4,9875,1248
+tecno,pop 9,magic skin green,amazon,8499,5998,2501,29,3,64,6.67,5000,8,13,mediatek g50,4.1,3421,534
+oppo,k12x 5g,breeze blue,amazon,18999,15382,3617,19,8,256,6.67,5100,8,32,octa-core,4.3,6342,876
+poco,m6 plus,ice silver,amazon,14499,10499,4000,28,8,128,6.79,5160,13,108,snapdragon 4 gen 2,4.2,7156,998
+redmi,14c 5g,stargaze black,amazon,14999,11498,3501,23,6,128,6.88,5160,8,50,snapdragon 4 gen 2,4.1,5234,864
+redmi,a4 5g,starry black,amazon,11999,8798,3201,27,4,128,6.88,5000,8,50,snapdragon 4s gen 2,4,4568,692
+redmi,14c 5g,starlight blue,amazon,12999,9498,3501,27,4,64,6.88,5160,8,50,snapdragon 4 gen 2,4.1,5245,780
+samsung,galaxy m36,orange haze,amazon,27499,21999,5500,20,8,256,6.7,5000,12,50,"google gemini, ai",4.5,9854,1235
+redmi,13 5g,hawaiian blue,amazon,19999,11699,8300,42,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.4,8621,1042
+lava,o3,glossy lavender,amazon,6499,5799,700,11,3,64,6.75,5000,8,13,octa-core,4,2345,398
+vivo,y19 5g,titanium silver,amazon,16499,12999,3500,21,6,128,6.6,5000,16,50,octa-core,4.1,4568,625
+motorola,g05 4g,plum red,amazon,9999,7922,2077,21,4,64,6.5,5000,8,50,octa-core,4,2365,398
+acer,acer super zx,cosmic green,amazon,19999,10998,9001,45,6,128,6.6,5000,16,64,dimensity 6300 5g,4.2,3845,567
+redmi,note 14,titan black,amazon,24999,19999,5000,20,8,256,6.67,5000,16,50,dimensity 7025 ultra,4.4,9984,1298
+redmi,note 14,titan black,amazon,34999,27999,7000,20,8,128,6.67,5000,20,200,sd 7s gen 3,4.5,12321,1432
+redmi,note 14,spectre blue,amazon,36999,29999,7000,19,8,256,6.67,5000,20,200,sd 7s gen 3,4.5,12234,1412
+honor,200 5g,black,amazon,39999,21698,18301,46,8,256,6.7,5000,50,50,octa-core,4.3,5854,786
+oneplus,nord 4,obsidian midnight,amazon,32999,26999,6000,18,8,256,6.74,5000,16,50,snapdragon 7 plus gen 3,4.4,8421,1086
+apple,iphone 15,blue,amazon,79900,69499,10401,13,16,256,6.1,4200,12,48,a17 pro,4.7,18845,2584
+samsung,galaxy f55,raisin black,amazon,28999,18449,10550,36,8,128,6.6,5000,32,50,snapdragon 4 gen 2,4.2,5942,854
+vivo,t3 lite,majestic black,amazon,15499,12850,2649,17,6,128,6.6,5000,8,50,dimensity 6080,4.2,6300,905
+samsung,galaxy m56,black,amazon,30999,27998,3001,10,8,128,6.7,5000,32,50,4nm ai chipset,4.4,8600,1100
+redmi,a4 5g,starry black,amazon,11999,8798,3201,27,4,128,6.88,5000,8,50,snapdragon 4s gen 2,4.1,6050,880
+redmi,14c 5g,starlight blue,amazon,12999,9498,3501,27,4,64,6.88,5160,8,50,snapdragon 4 gen 2,4.1,6100,910
+samsung,galaxy m36,serene green,amazon,22999,17499,5500,24,6,128,6.7,5000,12,50,exynos ai,4.3,7850,1130
+redmi,note 14,ivy green,amazon,21999,16999,5000,23,6,128,6.67,5000,16,50,dimensity 7025 ultra,4.3,7400,1050
+motorola,g35 5g,guava red,amazon,12499,10749,1750,14,4,128,6.6,5000,8,50,snapdragon 480+,4.2,4350,690
+motorola,g96 5g,pantone greener pastures,amazon,20999,18199,2800,13,8,128,6.7,5500,32,50,snapdragon 7s gen 2,4.3,5100,780
+redmi,13 5g,hawaiian blue,amazon,19999,11699,8300,42,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.3,6900,980
+redmi,note 14,titan black,amazon,34999,27999,7000,20,8,128,6.67,5000,20,200,snapdragon 7s gen 3,4.4,7400,1050
+infinix,note 40,obsidian black,amazon,24999,15999,9000,36,8,256,6.78,5000,32,108,dimensity 7020,4.2,5300,800
+motorola,edge 50,luxe lavender,amazon,41999,28399,13600,32,12,256,6.7,5000,50,50,snapdragon 7 gen 3,4.4,5950,870
+lava,o3,glossy white,amazon,6499,5799,700,11,3,64,6.75,5000,8,13,unisoc t606,4.1,4200,660
+lava,o3,glossy blue,amazon,6499,5799,700,11,3,64,6.75,5000,8,13,unisoc t606,4.1,4000,610
+iqoo,neo 10,inferno red,amazon,45999,40998,5001,11,16,512,6.78,7000,16,50,snapdragon 8s gen 4,4.5,7600,1150
+redmi,a3x,olive green,amazon,9999,6244,3755,38,3,64,6.6,5000,8,13,helio g36,4.2,5150,780
+lava,o3 pro,glossy purple,amazon,8399,6999,1400,17,4,128,6.56,5000,8,50,unisoc t616,4.2,4350,640
+redmi,note 14,spectre blue,amazon,36999,29999,7000,19,8,256,6.67,5000,20,200,snapdragon 7s gen 3,4.4,7700,1110
+redmi,a4 5g,starry black,amazon,11999,8798,3201,27,4,128,6.88,5000,8,50,snapdragon 4s gen 2,4.3,6050,920
+samsung,galaxy m36,serene green,amazon,22999,17499,5500,24,6,128,6.7,6000,12,50,snapdragon 7 gen 1,4.4,8400,1220
+redmi,13 5g,hawaiian blue,amazon,19999,11699,8300,42,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.3,6850,980
+redmi,a5,jaisalmer gold,amazon,9999,7498,2501,25,4,128,6.71,5000,8,13,helio g36,4.1,4200,690
+oppo,k12x 5g,midnight violet,amazon,16999,12999,4000,24,6,128,6.6,5100,16,64,snapdragon 695,4.3,4750,690
+oppo,a3x 4g,nebula red,amazon,12999,8999,4000,31,4,64,6.6,5000,8,13,helio g36,4.1,3100,540
+iphone,iphone 16e 128,white,amazon,59900,49999,9901,17,12,128,6.1,4600,12,48,a18,4.6,12400,1950
+lava,blaze 2,glass blue,amazon,12499,9169,3330,27,6,128,6.6,5000,8,50,dimensity 6020,4.3,5800,870
+redmi,note 14,titan black,amazon,34999,27999,7000,20,8,128,6.67,5000,20,200,snapdragon 7s gen 3,4.4,8150,1220
+redmi,note 14,spectre blue,amazon,36999,29999,7000,19,8,256,6.67,5000,20,200,snapdragon 7s gen 3,4.4,7900,1150
+samsung,galaxy a36,awesome lavender,amazon,38999,33999,5000,13,8,256,6.6,5000,32,50,snapdragon 7 gen 1,4.3,6600,980
+vivo,x200 pro,cosmos black,amazon,101999,94999,7000,7,16,512,6.8,5000,32,50,dimensity 9400,4.5,7300,1120
+lava,blaze 2,glass black,amazon,12499,9168,3331,27,6,128,6.6,5000,8,50,dimensity 6020,4.3,5600,850
+tecno,pova 6,midnight shadow,amazon,15999,9999,6000,38,6,128,6.8,5000,16,108,dimensity 6300,4.2,4900,770
+iphone,iphone 16 pro,desert titanium,amazon,119900,111900,8000,7,12,128,6.3,4700,12,48,a18 pro,4.7,14300,2350
+samsung,galaxy a16,blue black,amazon,21499,17499,4000,19,8,128,6.5,5000,13,50,snapdragon 4 gen 2,4.3,6200,970
+redmi,a4 5g,starry black,amazon,11999,8798,3201,27,4,128,6.88,5000,8,50,snapdragon 4s gen 2,4.3,6000,910
+redmi,14c 5g,starlight blue,amazon,12999,9498,3501,27,4,64,6.88,5160,8,50,snapdragon 4 gen 2,4.2,5500,850
+samsung,galaxy m36,serene green,amazon,22999,17499,5500,24,6,128,6.7,6000,12,50,snapdragon 7 gen 1,4.4,8900,1320
+redmi,13 5g,hawaiian blue,amazon,19999,11699,8300,42,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.4,7300,1180
+vivo,x200 pro,cosmos black,amazon,101999,94999,7000,7,16,512,6.8,5000,32,50,dimensity 9400,4.5,6800,1070
+realme,gt 7,galaxy grey,amazon,69999,44999,25000,36,12,256,6.78,5000,32,50,snapdragon 8 elite,4.3,5900,940
+redmi,14c 5g,stardust purple,amazon,14999,11498,3501,23,6,128,6.88,5160,8,50,snapdragon 4 gen 2,4.2,5500,860
+xiaomi,xiaomi 14,shadow black,amazon,54999,29999,25000,45,8,256,6.55,4700,32,50,snapdragon 8s gen 3,4.4,5400,870
+samsung,galaxy s23,phantom black,amazon,149999,77999,72000,48,12,256,6.8,5000,12,200,snapdragon 8 gen 2,4.7,14800,2300
+iphone,iphone 16 pro,natural titanium,amazon,144900,134900,10000,7,12,256,6.9,4700,12,48,a18 pro,4.7,17400,2780
+itel,itel a80,sandstone black,amazon,8999,6999,2000,22,4,128,6.6,5000,8,50,unisoc t606,4.1,3200,520
+xiaomi,"xiaomi 15 ,",white,amazon,79999,64998,15001,19,12,512,6.7,4800,32,50,snapdragon 8 elite,4.5,7200,1150
+vivo,x200 pro,titanium grey,amazon,101999,94999,7000,7,16,512,6.8,5000,32,50,dimensity 9400,4.5,6950,1090
+redmi,14c 5g,starlight blue,amazon,12999,9498,3501,27,4,64,6.88,5160,8,50,snapdragon 4 gen 2,4.2,4850,780
+samsung,galaxy m36,serene green,amazon,22999,17499,5500,24,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4.4,6150,960
+redmi,13 5g,hawaiian blue,amazon,19999,11699,8300,42,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.4,7050,1120
+tecno,pova 6,midnight shadow,amazon,15999,9999,6000,38,6,128,6.8,5000,16,108,dimensity 6300,4.2,4200,680
+samsung,galaxy a56,awesome olive,amazon,52999,44999,8000,15,12,256,6.6,5000,32,50,snapdragon 7 gen 1,4.5,5700,940
+vivo,v50e 5g,sapphire blue,amazon,35999,30999,5000,14,8,256,6.7,5000,32,64,snapdragon 7 gen 3,4.3,3950,640
+samsung,galaxy a56,awesome olive,amazon,48999,41999,7000,14,8,256,6.6,5000,32,50,snapdragon 7 gen 1,4.5,5600,910
+oppo,f27 pro,dusk pink,amazon,34999,23480,11519,33,8,256,6.7,5000,32,64,dimensity 7050,4.3,4800,780
+xiaomi,xiaomi 14 civi,hot pink,amazon,59999,31999,28000,47,12,512,6.7,4700,32,50,snapdragon 8s gen 3,4.5,5250,820
+redmi,note 14,titan black,amazon,34999,27999,7000,20,8,128,6.67,5000,20,200,snapdragon 7s gen 3,4.4,7900,1210
+redmi,note 14,spectre blue,amazon,36999,29999,7000,19,8,256,6.67,5000,20,200,snapdragon 7s gen 3,4.4,7650,1180
+tecno,spark go,glittery white,amazon,8999,7298,1701,19,4,64,6.67,5000,8,13,unisoc t606,4.1,3400,570
+tecno,phantom v,karst green,amazon,119999,89999,30000,25,12,512,7.8,5750,32,50,dimensity 9200+,4.5,3850,610
+lava,shark 5g,steller blue,amazon,9499,7999,1500,16,4,64,6.75,5000,8,13,unisoc t616,4.1,2950,480
+tecno,pop 9,aurora cloud,amazon,14999,9499,5500,37,8,128,6.6,5000,8,48,dimensity 6300,4.2,3200,510
+lava,blaze 3,glass blue,amazon,12999,10999,2000,15,6,128,6.6,5000,8,50,dimensity 6300,4.3,3800,600
+lava,o3 pro,glossy black,amazon,7799,6699,1100,14,4,64,6.56,5000,8,50,helio g37,4.2,3150,520
+tecno,spark go,ink black,amazon,8999,6998,2001,22,4,64,6.6,5000,8,13,unisoc t606,4.1,3000,480
+redmi,a4 5g,starry black,amazon,11999,8798,3201,27,4,128,6.88,5000,8,50,snapdragon 4s gen 2,4.2,4200,690
+redmi,14c 5g,starlight blue,amazon,12999,9498,3501,27,4,64,6.88,5160,8,50,snapdragon 4 gen 2,4.2,4750,760
+samsung,galaxy m36,serene green,amazon,22999,17499,5500,24,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4.4,6050,940
+samsung,galaxy m06,blazing black,amazon,15499,10049,5450,35,6,128,6.6,5000,8,50,dimensity 6300,4.1,3900,620
+vivo,y36,meteor black,amazon,21999,11499,10500,48,8,128,6.6,5000,16,50,snapdragon 680,4.3,3800,610
+motorola,razr 60,mystique white,amazon,109000,89998,19002,17,6,128,6.9,5000,32,50,snapdragon 8 elite,4.4,5300,840
+redmi,note 14,ivy green,amazon,21999,16999,5000,23,6,128,6.6,5000,16,50,dimensity 7025 ultra,4.4,5200,820
+redmi,note 14,steller gold,amazon,21999,16999,5000,23,4,64,6.6,5000,16,50,dimensity 7025 ultra,4.1,2850,450
+lava,shark 5g,sea breeze green,amazon,9499,7999,1500,16,6,128,6.75,5500,8,13,octa-core 5g processor,4.2,3200,520
+infinix,note 50x,solid purple,amazon,14999,11499,3500,23,8,128,6.8,5000,16,108,dimensity 7300 ultimate,4.2,3850,600
+oppo,f29 5g,metallic black,amazon,28999,23998,5001,17,3,64,6.6,5000,16,64,dimensity 7050,4.1,3000,470
+infinix,smart 9,awesome iceblue,amazon,8999,6699,2300,26,8,256,6.6,5000,8,13,unisoc t606,4.5,5700,920
+samsung,galaxy a55,starry black,amazon,45999,26999,19000,41,4,64,6.6,5000,32,50,exynos 1480,4.2,4050,660
+redmi,a4 5g,natural titanium,amazon,10999,7998,3001,27,6,128,6.88,5000,8,50,snapdragon 4s gen 2,4.7,9300,1450
+iphone,iphone 16 pro,blue,amazon,119900,111900,8000,7,16,256,6.1,4300,12,48,a18,4,2800,420
+jiobharat,jiobharat v4 4g,titanium silverblue,amazon,1999,799,1200,60,12,512,2.4,5000,2,2,feature phone processor,4.6,7200,1130
+oppo,a5 5g,white,amazon,19499,15498,4001,21,4,64,6.6,5000,8,50,dimensity 6100,4.6,8950,1380
+iphone,iphone 16 128,sage green,amazon,79900,72400,7500,9,8,128,6.1,5000,12,48,a18,4.2,3200,530
+infinix,hot 50,pristine glass,amazon,14999,10499,4500,30,8,128,6.6,5000,8,50,dimensity 6100,4.3,2950,470
+lava,agni 3,mint,amazon,25499,16999,8500,33,12,256,6.78,4000,16,50,dimensity 7300x,4.5,6400,980
+samsung,galaxy s25,titanium black,amazon,80999,74999,6000,7,12,512,6.6,5000,12,50,snapdragon 8 elite,4.6,9100,1450
+redmi,14c 5g,serene green,amazon,14999,11498,3501,23,6,128,6.88,5000,8,50,snapdragon 4 gen 2,4.4,6150,950
+samsung,galaxy m36,ivy green,amazon,22999,17499,5500,24,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4.4,5250,830
+redmi,note 14,sea breeze green,amazon,21999,16999,5000,23,6,128,6.6,5500,16,50,dimensity 7025 ultra,4.3,3300,540
+infinix,note 50x,glittery white,amazon,14999,11499,3500,23,4,64,6.8,5000,16,108,dimensity 7300 ultimate,4.1,2900,450
+motorola,razr 60,matcha green,amazon,109000,89998,19002,17,12,512,6.9,5000,32,50,snapdragon 8 elite,4.5,5400,880
+xiaomi,xiaomi 14,aurora green,amazon,59999,31999,28000,47,6,128,6.55,5000,32,50,snapdragon 8s gen 3,4.2,3750,610
+oppo,a5 5g,glossy black,amazon,19499,15498,4001,21,4,64,6.6,5000,8,50,dimensity 6100,4,2650,410
+lava,o3 pro,pristine glass,amazon,7799,6699,1100,14,8,128,6.56,5000,8,50,mediatek helio g85,4.3,2950,470
+lava,agni 3,lunar blue,amazon,25499,16999,8500,33,6,128,6.6,5000,16,64,dimensity 6300,4.1,2800,430
+acer,acer super zx,hawaiian blue,amazon,19999,10998,9001,45,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.3,5100,800
+redmi,13 5g,titan black,amazon,19999,11699,8300,42,8,128,6.7,5000,16,50,snapdragon 7s gen 3,4.5,5800,930
+redmi,note 14,mystique white,amazon,34999,27999,7000,20,8,256,6.6,5000,16,50,dimensity 7025 ultra,4.4,5500,870
+redmi,note 14,thunder black,amazon,24999,19999,5000,20,8,128,6.6,5000,16,50,dimensity 6080,4.2,3350,560
+lava,storm 5g,cosmos black,amazon,15999,12499,3500,22,12,256,6.78,5000,32,50,dimensity 9300,4.5,5750,910
+vivo,x200 5g,sparkle black,amazon,74999,65999,9000,12,4,64,6.67,5000,8,50,dimensity 6020,4.1,2300,370
+oppo,a3x 5g,galaxy grey,amazon,14999,10999,4000,27,16,512,6.78,5000,32,50,snapdragon 8 elite,4.5,5600,890
+realme,gt 7,steller blue,amazon,74999,51999,23000,31,4,64,6.75,5000,8,13,octa-core 5g processor,4,2150,340
+lava,shark 5g,awesome lavender,amazon,9499,7999,1500,16,8,128,6.6,5000,13,50,snapdragon 7 gen 1,4.3,4900,760
+samsung,galaxy a36,solid purple,amazon,35999,30999,5000,14,8,256,6.7,5000,32,64,dimensity 7050,4.2,3800,590
+oppo,f29 5g,spectre blue,amazon,30999,25998,5001,16,8,256,6.7,5000,16,50,snapdragon 7s gen 3,4.5,5950,940
+redmi,note 14,starry black,amazon,36999,29999,7000,19,4,128,6.88,5000,8,50,snapdragon 4s gen 2,4.2,4100,650
+redmi,a4 5g,serene green,amazon,11999,8798,3201,27,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4.4,6200,970
+samsung,galaxy m36,hawaiian blue,amazon,22999,17499,5500,24,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.3,5000,810
+redmi,13 5g,thunder black,amazon,19999,11699,8300,42,8,128,6.6,5000,16,50,dimensity 6080,4.2,3500,560
+lava,storm 5g,galaxy grey,amazon,15999,12499,3500,22,16,512,6.6,5000,16,50,dimensity 7025 ultra,4.5,5600,890
+realme,gt 7,phantom purple,amazon,74999,51999,23000,31,8,256,6.6,5000,8,50,dimensity 6100,4.4,5350,860
+redmi,note 14,black,amazon,24999,19999,5000,20,4,128,6.6,5000,8,50,dimensity 6100,4,2600,430
+samsung,galaxy a06,black,amazon,15499,11499,4000,26,4,64,6.6,5000,13,50,exynos 1380,4,2250,380
+samsung,galaxy a06,awesome lavender,amazon,13999,10499,3500,25,8,128,6.6,5000,16,64,snapdragon 7s gen 2,4.3,4900,760
+samsung,galaxy a36,awesome iceblue,amazon,35999,30999,5000,14,8,128,6.7,5000,16,50,snapdragon 7s gen 3,4.3,4400,710
+samsung,galaxy a35,cosmic silver,amazon,33999,20826,13173,39,8,128,6.78,5000,32,50,dimensity 9300,4.2,3750,590
+poco,x7 5g,titan black,amazon,24999,17499,7500,30,8,128,6.6,5000,16,64,dimensity 6300,4.5,5700,920
+redmi,note 14,spectre blue,amazon,34999,27999,7000,20,8,256,6.5,5000,13,50,exynos 1330,4.5,5950,940
+redmi,note 14,cosmos black,amazon,36999,29999,7000,19,12,256,2.4,5000,8,2,feature phone chipset,4.5,5800,910
+vivo,x200 5g,cosmic green,amazon,74999,65999,9000,12,4,128,6.6,5000,16,50,snapdragon 7 gen 3,4.1,2150,340
+acer,acer super zx,light green,amazon,18999,9998,9001,47,8,128,6.6,5000,16,50,dimensity 7025 ultra,4.3,4400,710
+samsung,galaxy a16,black,amazon,21499,17499,4000,19,4,64,6.6,2500,16,50,dimensity 7025 ultra,4,1950,280
+motorola,all-new a200,awesome light gray,amazon,1549,1119,430,28,12,256,6.67,5000,16,50,dimensity 7050,4.4,4800,780
+samsung,galaxy a56,mystique white,amazon,52999,44999,8000,15,8,256,6.88,5000,8,50,snapdragon 4s gen 2,4.4,5250,860
+redmi,note 14,ivy green,amazon,24999,19999,5000,20,8,128,6.88,5000,8,50,snapdragon 4 gen 2,4.3,5100,830
+redmi,note 14,mocha brown,amazon,22999,17999,5000,22,8,128,6.6,5000,13,50,snapdragon 7 gen 1,4.2,3750,600
+oppo,a5 pro,starry black,amazon,21999,17998,4001,18,4,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.2,4200,650
+redmi,a4 5g,starlight blue,amazon,11999,8798,3201,27,4,64,6.7,5160,32,50,dimensity 7200 pro,4.1,3850,620
+redmi,14c 5g,serene green,amazon,12999,9498,3501,27,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4.4,6150,960
+samsung,galaxy m36,hawaiian blue,amazon,22999,17499,5500,24,8,128,6.7,5000,16,50,snapdragon 7+ gen 3,4.3,5050,820
+redmi,13 5g,black,amazon,19999,11699,8300,42,8,128,6.6,5000,16,50,dimensity 6020,4.4,5500,870
+nothing,phone (2a),awesome black,amazon,25999,23990,2009,8,8,256,6.6,5000,13,50,snapdragon 6 gen 1,4.3,4850,770
+samsung,galaxy a36,mercurial silver,amazon,38999,33999,5000,13,8,256,6.8,5000,32,108,dimensity 7050,4.5,5600,910
+oneplus,nord 4,mystique white,amazon,32999,26999,6000,18,8,256,6.6,5000,16,50,dimensity 6020,4.4,5250,860
+redmi,note 14,midnight blue,amazon,24999,19999,5000,20,4,128,6.7,5000,16,50,snapdragon 7s gen 3,4.1,3200,490
+oppo,a5x 5g,awesome mint,amazon,16999,12999,4000,24,8,128,6.7,5000,16,50,snapdragon 7s gen 3,4.2,3950,610
+samsung,galaxy a26,racing grey,amazon,27999,22999,5000,18,8,256,6.6,5000,13,50,snapdragon 7 gen 1,4.2,3800,580
+infinix,note 40,titanium gold,amazon,24999,15999,9000,36,8,128,6.5,5000,8,50,helio g85,4.3,4200,670
+vivo,y29 5g,titan black,amazon,21999,16998,5001,23,8,128,6.7,5000,12,48,a18,4.5,5850,940
+redmi,note 14,spectre blue,amazon,34999,27999,7000,20,8,256,6.67,5000,16,64,dimensity 900,4.5,5950,960
+redmi,note 14,awesome black,amazon,36999,29999,7000,19,8,128,6.78,5000,32,50,dimensity 9300,4.3,4800,770
+samsung,galaxy a36,metaverse green,amazon,35999,30999,5000,14,4,128,6.6,5000,8,50,exynos 1330,4.1,3400,520
+vivo,y22,ultramarine,amazon,18999,9999,9000,47,4,512,6.8,4500,32,108,dimensity 7020,4.6,6700,1100
+iphone,iphone 16 512,twilight gold,amazon,109900,99900,10000,9,8,128,6.6,5000,16,64,dimensity 7050,4.2,4200,650
+vivo,y100a 5g,cosmos black,amazon,29999,15499,14500,48,16,512,6.88,5000,8,50,snapdragon 4s gen 2,4.5,5900,970
+vivo,x200 5g,gray,amazon,80999,71999,9000,11,4,128,6.88,5000,8,50,snapdragon 4 gen 2,4.1,3750,600
+samsung,galaxy a06,titan gold,amazon,15499,11499,4000,26,8,256,6.6,5000,13,50,snapdragon 7 gen 1,4.2,3950,630
+infinix,note 40,glacier blue,amazon,24999,15999,9000,36,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.2,4050,640
+oppo,f29 5g,starry black,amazon,28999,23998,5001,17,4,128,6.55,5000,32,50,snapdragon 8s gen 3,4.2,4200,650
+redmi,a4 5g,starlight blue,amazon,11999,8798,3201,27,4,64,6.7,5160,32,64,dimensity 7050,4.1,3850,620
+redmi,14c 5g,orange haze,amazon,12999,9498,3501,27,8,256,6.6,5000,16,64,dimensity 7050,4.4,6250,980
+samsung,galaxy m36,hawaiian blue,amazon,27499,21999,5500,20,8,128,6.7,5000,16,50,dimensity 8100 max,4.3,5050,820
+redmi,13 5g,glacier blue,amazon,19999,11699,8300,42,8,128,6.6,5000,16,50,dimensity 7025 ultra,4.2,4050,640
+oppo,f29 5g,cruise blue,amazon,28999,23998,5001,17,8,256,6.6,5000,13,50,snapdragon 7 gen 1,4.4,5400,870
+xiaomi,xiaomi 14,sapphire blue,amazon,54999,29999,25000,45,8,128,6.7,5000,16,64,snapdragon 7s gen 2,4.3,4350,690
+vivo,v50e 5g,granite black,amazon,33999,28999,5000,15,8,128,6.7,5000,16,50,snapdragon 7s gen 3,4.3,4500,710
+oppo,f29 pro,sierra black,amazon,32999,25999,7000,21,8,128,6.88,5000,8,50,snapdragon 4s gen 2,4.4,5100,820
+oneplus,10r 5g,mystique white,amazon,38999,28999,10000,26,8,128,6.6,5000,16,50,dimensity 7025 ultra,4.3,5100,830
+redmi,note 14,awesome black,amazon,22999,17999,5000,22,8,256,6.7,5000,16,64,dimensity 7025,4.2,3950,610
+samsung,galaxy a26,glacier green,amazon,30999,25999,5000,16,8,128,6.5,5000,8,50,helio g85,4.2,3800,610
+redmi,note 14,starry black,amazon,36999,29999,7000,19,4,64,6.6,5000,12,50,snapdragon 8 elite,4.1,3900,620
+redmi,note 14,artic white,amazon,22999,17999,5000,22,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4.2,3600,570
+lava,blaze duo,majestic green,amazon,18999,16999,2000,11,4,64,6.7,5000,16,50,dimensity 6300,4,3200,510
+vivo,y19e,charcoal,amazon,11999,7999,4000,33,6,64,6.6,5000,16,50,dimensity 7025 ultra,4.1,2850,460
+nokia,106 single,mint,amazon,1699,1099,600,35,12,256,6.88,4000,8,50,snapdragon 4 gen 2,4.6,6800,1100
+samsung,galaxy s25,blue,amazon,80999,74999,6000,7,4,64,6.6,4500,13,50,snapdragon 7 gen 1,4,2950,470
+jiobharat,jiobharat v4 4g,awesome black,amazon,1999,799,1200,60,8,256,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.3,4900,780
+samsung,galaxy a36,shadow black,amazon,38999,33999,5000,13,6,128,6.67,5000,8,50,helio g85,4.1,3450,560
+itel,itel a95 5g,ivy green,amazon,13999,10199,3800,27,8,128,6.7,5000,12,48,a18 pro,4.3,5080,825
+redmi,note 14,starlight blue,amazon,22999,17999,5000,22,4,64,6.6,5160,13,50,snapdragon 7 gen 1,4.1,3850,610
+redmi,14c 5g,serene green,amazon,12999,9498,3501,27,6,128,6.7,5000,16,50,dimensity 7300,4.4,6300,985
+samsung,galaxy m36,hawaiian blue,amazon,22999,17499,5500,24,8,128,6.73,5000,32,50,snapdragon 8 elite,4.3,5100,835
+redmi,13 5g,marble black,amazon,19999,11699,8300,42,4,128,6.7,5000,16,64,dimensity 7025,4,3250,520
+iphone,iphone 16 pro,awesome black,amazon,119900,111900,8000,7,8,256,6.6,5000,8,50,dimensity 6300,4.3,4000,650
+samsung,galaxy a26,titanium,amazon,30999,25999,5000,16,8,128,6.7,6500,16,50,snapdragon 7s gen 3,4.4,4700,770
+iqoo,z10x 5g,white,amazon,18999,14998,4001,21,12,512,6.7,5000,16,50,snapdragon 7s gen 3,4.6,6300,1050
+lava,blaze duo,titanium grey,amazon,18999,16999,2000,11,4,64,6.7,5000,16,108,dimensity 6300,4.1,3050,495
+tecno,spark go,glass gold,amazon,8999,6998,2001,22,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4.2,3480,540
+lava,blaze 3,titan black,amazon,12999,10999,2000,15,8,128,6.7,5000,16,64,dimensity 6400,4.5,5850,950
+redmi,note 14,spectre blue,amazon,34999,27999,7000,20,8,256,6.7,5000,32,50,snapdragon 7s gen 2,4.5,6000,975
+redmi,note 14,scuba blue,amazon,36999,29999,7000,19,6,64,6.7,5000,16,64,snapdragon 7s gen 2,4,2850,460
+nokia,3210 4g,aurora cloud,amazon,5299,3599,1700,32,6,128,2.4,5000,16,50,feature phone,4.2,3480,550
+tecno,pova 6,awesome black,amazon,15999,9999,6000,38,8,256,6.7,5000,16,50,dimensity 6300,4.3,4800,770
+samsung,galaxy a36,deep ocean,amazon,38999,33999,5000,13,8,128,6.88,6000,8,50,snapdragon 4s gen 2,4.3,4350,710
+realme,narzo 80x,black,amazon,16999,13998,3001,18,8,128,6.88,5000,8,50,snapdragon 4 gen 2,4.4,4750,780
+nothing,phone,glacier green,amazon,27999,23272,4727,17,8,256,6.6,5000,13,50,snapdragon 7 gen 1,4.2,3900,620
+poco,x7 5g,blue,amazon,27999,18999,9000,32,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4,2900,465
+jiobharat,jiobharat v4 4g,titanium blue,amazon,1999,799,1200,60,8,256,6.7,6000,50,50,dimensity 7350 pro,4.3,4250,690
+iqoo,z10 lite,starry black,amazon,16999,12998,4001,24,4,128,6.6,5000,8,13,unisoc t606,4.1,3870,610
+redmi,a4 5g,starlight blue,amazon,11999,8798,3201,27,4,64,6.6,5160,16,50,dimensity 7025 ultra,4.1,3800,605
+redmi,14c 5g,serene green,amazon,12999,9498,3501,27,6,128,6.88,5000,8,50,snapdragon 4 gen 2,4.4,6150,960
+samsung,galaxy m36,hawaiian blue,amazon,22999,17499,5500,24,8,128,6.6,5000,8,50,dimensity 6100,4.3,5050,825
+redmi,13 5g,white,amazon,19999,11699,8300,42,4,64,6.7,5000,16,50,snapdragon 7s gen 3,4.5,6400,1020
+samsung,galaxy m36,grey,amazon,1699,899,800,47,8,256,6.7,5000,16,50,snapdragon 7s gen 3,4.5,5700,910
+infinix,smart 9,phantom purple,amazon,8999,6699,2300,26,8,256,6.6,5000,16,50,exynos 1380,4.4,5250,850
+redmi,note 14,black,amazon,24999,19999,5000,20,4,64,6.6,5000,16,50,dimensity 7025 ultra,4.2,3150,480
+redmi,14c 5g,aurora green,amazon,14999,11498,3501,23,8,128,6.6,5000,13,50,dimensity 6300,4.3,4350,690
+oppo,a5 5g,black,amazon,20999,16998,4001,19,8,128,6.7,5000,16,64,snapdragon 7s gen 2,4.1,2700,420
+elfora,note 14,titan black,amazon,999,267,732,73,8,128,6.88,5000,8,50,snapdragon 4s gen 2,4.5,6100,980
+redmi,note 14,spectre blue,amazon,34999,27999,7000,20,8,256,6.88,5000,8,50,snapdragon 4 gen 2,4.5,6250,1000
+redmi,note 14,black,amazon,36999,29999,7000,19,8,128,6.6,5000,13,50,snapdragon 7 gen 1,4.3,4500,735
+cmf,phone 1,thunder grey,amazon,21999,17999,4000,18,6,128,6.79,6000,16,108,snapdragon 4 gen 2 ae,4.4,4950,810
+samsung,galaxy m35,starry black,amazon,24499,14999,9500,39,4,64,6.6,5000,13,50,snapdragon 7 gen 1,4.2,3200,500
+alcatel,note 14,ivy green,amazon,3410,1749,1661,49,6,128,6.7,5000,16,64,dimensity 7025,4.4,5050,815
+redmi,note 14,black,amazon,21999,16999,5000,23,4,64,6.78,5000,32,50,dimensity 9300,4.2,2800,440
+nokia,105,blazing black,amazon,1399,1149,250,18,6,128,6.8,5000,16,108,dimensity 6300 (d6300),4.2,3900,650
+samsung,galaxy m06,glacier green,amazon,15499,10049,5450,35,8,128,6.6,5000,13,50,snapdragon 7 gen 1,4.2,3800,620
+poco,x7 5g,starry black,amazon,24999,18999,6000,24,4,128,6.7,5000,16,50,dimensity 6300 (d6300),4.1,3600,570
+redmi,a4 5g,starlight blue,amazon,11999,8798,3201,27,4,64,6.7,5160,16,64,snapdragon 7s gen 2,4.1,3550,560
+redmi,14c 5g,serene green,amazon,12999,9498,3501,27,6,128,6.7,5000,16,50,snapdragon 7s gen 3,4.4,6050,945
+samsung,galaxy m36,hawaiian blue,amazon,22999,17499,5500,24,8,128,6.7,5000,16,50,snapdragon 7s gen 3,4.3,4980,800
+samsung,galaxy a26,arctic white,amazon,30999,25999,5000,16,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4.2,2650,410
+lava,blaze duo,cosmos black,amazon,18999,16999,2000,11,12,256,6.8,5000,16,108,dimensity 6300 (d6300),4.5,4800,780
+vivo,x200 5g,scuba blue,amazon,74999,65999,9000,12,4,64,6.7,5000,16,50,dimensity 6300,4.1,2900,460
+nokia,3210 4g,aurora cloud,amazon,5299,3599,1700,32,6,128,6.7,5000,16,50,dimensity 7300,4.2,3200,515
+tecno,pova 6,awesome black,amazon,15999,9999,6000,38,8,256,6.7,5000,16,50,snapdragon 6 gen 1,4.4,6050,945
+samsung,galaxy a36,calx titanium,amazon,38999,33999,5000,13,6,128,6.8,5000,32,108,dimensity 8300,4,2450,390
+itel,itel a95 5g,glacier green,amazon,13999,10199,3800,27,8,256,6.9,5000,12,48,a18,4.2,3950,650
+poco,x7 5g,titan black,amazon,27999,18999,9000,32,8,128,6.88,5000,8,50,snapdragon 4s gen 2,4.5,6200,995
+redmi,note 14,spectre blue,amazon,34999,27999,7000,20,8,256,6.88,5000,8,50,snapdragon 4 gen 2,4.5,6300,1015
+redmi,note 14,blue,amazon,36999,29999,7000,19,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4,3000,470
+jiobharat,jiobharat v4 4g,awesome mint,amazon,1999,799,1200,60,8,256,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.3,4750,770
+samsung,galaxy a26,azure sky,amazon,30999,25999,5000,16,6,128,6.7,5000,16,50,dimensity 8100 max,4.2,3150,500
+tecno,pova 6,titanium blue,amazon,15999,9999,6000,38,8,256,6.6,6000,12,50,snapdragon 8 elite,4.3,3400,540
+iqoo,z10 lite,titanium,amazon,16999,12998,4001,24,8,256,6.7,6500,16,50,snapdragon 7s gen 3,4.3,3600,575
+iqoo,z10x 5g,tornado green,amazon,20499,16498,4001,20,4,128,6.7,6000,16,50,snapdragon 7s gen 3,4.2,3050,490
+iqoo,z9x 5g,violet garden,amazon,17999,11999,6000,33,12,256,6.88,5000,8,50,snapdragon 4s gen 2,4.2,2950,465
+infinix,zero 40,natural titanium,amazon,37999,25999,12000,32,6,512,6.88,5000,8,50,snapdragon 4 gen 2,4.8,9800,1850
+redmi,a4 5g,starlight blue,amazon,11999,8798,3201,27,4,64,6.6,5160,13,50,dimensity 6300,4.1,3600,570
+redmi,14c 5g,serene green,amazon,12999,9498,3501,27,6,128,6.6,5000,16,50,dimensity 7025 ultra,4.4,6050,945
+samsung,galaxy m36,hawaiian blue,amazon,22999,17499,5500,24,8,128,6.67,5000,8,50,mediatek g85,4.3,4100,650
+redmi,13 5g,sierra black,amazon,19999,11699,8300,42,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.4,5500,875
+oneplus,10r 5g,icy blue,amazon,38999,28999,10000,26,12,512,6.7,4000,16,50,snapdragon 7s gen 3,4.7,8900,1540
+redmi,note 14,spectre blue,amazon,34999,27999,7000,20,8,256,6.6,5000,13,50,dimensity 6300,4.5,6320,1015
+redmi,note 14,starry black,amazon,36999,29999,7000,19,4,128,6.6,5000,16,50,dimensity 7025 ultra,4.1,3660,580
+redmi,a4 5g,starlight blue,amazon,11999,8798,3201,27,4,64,6.67,5160,8,50,mediatek g85,4.1,3610,570
+redmi,14c 5g,serene green,amazon,12999,9498,3501,27,8,256,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.4,6080,950
+samsung,galaxy m36,blazing black,amazon,27499,21999,5500,20,6,128,6.7,5000,13,108,snapdragon 7s gen 3,4.2,3250,525
+samsung,galaxy m06,ivy green,amazon,15499,10049,5450,35,8,128,6.6,5000,8,50,snapdragon 7 gen 1,4.3,4750,770
+redmi,note 14,ivy green,amazon,22999,17999,5000,22,8,128,6.6,5000,8,50,mediatek dimensity 6300,4.4,5236,945
+lava,bold n1,stealth black,amazon,8399,6898,1501,18,4,128,6.6,5000,16,50,dimensity 7025 ultra,4,3652,390
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,6,128,6.67,5000,16,50,mediatek g85,4.2,2365,650
+redmi,note 14,starry black,amazon,34999,27999,7000,20,8,128,6.79,5000,8,50,snapdragon 4 gen 2 ae,4.5,2369,995
+samsung,galaxy m36,serene green,amazon,27499,21999,5500,20,8,256,6.7,5000,16,50,snapdragon 7s gen 3,4.5,2022,1015
+samsung,galaxy m06,blazing black,amazon,15499,10049,5450,35,6,128,6.6,5000,13,50,snapdragon 7 gen 1,4,3045,470
+redmi,note 14,ivy green,amazon,22999,17999,5000,22,8,128,6.6,5000,13,50,mediatek dimensity 6300,4.3,2581,770
+lava,bold n1,titanium gold,amazon,8399,6898,1501,18,4,128,6.6,5000,13,50,dimensity 7025 ultra,4.2,1236,500
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,6,128,6.67,5000,8,50,mediatek g85,4.3,1452,540
+redmi,note 14,starry black,amazon,34999,27999,7000,20,8,128,6.88,5000,8,50,snapdragon 4s gen 2,4.3,1236,575
+samsung,galaxy m36,serene green,amazon,27499,21999,5500,20,8,256,6.7,5000,16,50,snapdragon 7s gen 3,4.2,4852,490
+samsung,galaxy m06,blazing black,amazon,15499,10049,5450,35,6,128,6.6,5000,13,50,mediatek dimensity 6300,4.2,4265,465
+redmi,note 14,ivy green,amazon,22999,17999,5000,22,8,128,6.6,5000,13,50,snapdragon 7 gen 1,4.8,1253,1850
+lava,bold n1,stealth black,amazon,8399,6898,1501,18,4,128,6.6,5000,16,50,dimensity 7025 ultra,4.1,4236,575
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,4,64,6.67,5000,8,50,mediatek g85,4.1,1259,570
+redmi,note 14,starry black,amazon,34999,27999,7000,20,8,128,6.79,5000,16,108,snapdragon 4 gen 2 ae,4.4,952,945
+samsung,galaxy m36,velvet black,amazon,27499,21999,5500,20,8,256,6.88,5000,8,50,snapdragon 4s gen 2,4.3,1254,650
+samsung,galaxy m06,blazing black,amazon,15499,10049,5450,35,6,128,6.6,5000,8,50,snapdragon 4s gen 3,4.4,4523,875
+redmi,note 14,ivy green,amazon,22999,17999,5000,22,8,128,6.6,5000,16,50,snapdragon 4s gen 4,4.7,6325,1540
+lava,bold n1,titanium gold,amazon,8399,6898,1501,18,4,128,6.7,5000,16,108,snapdragon 4s gen 5,4.5,5230,995
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,6,64,6.5,5000,8,50,snapdragon 4s gen 6,4.5,1254,1015
+redmi,note 14,starry black,amazon,34999,27999,7000,20,8,128,6,5000,8,50,snapdragon 7 gen 1,4.1,6520,580
+samsung,galaxy m06,blazing black,amazon,15499,10049,5450,35,6,128,6.3,5100,8,108,dimensity 7025 ultra,4.1,5208,570
+samsung,galaxy m36,orange haze,amazon,22999,17499,5500,24,6,128,6.6,5000,13,108,mediatek g85,4.4,5201,950
+redmi,note 14,ivy green,amazon,22999,17999,5000,22,8,128,6.8,5000,16,50,snapdragon 4 gen 2 ae,4.2,1209,525
+lava,bold n1,stealth black,amazon,8399,6898,1501,18,4,128,6.8,4500,8,50,snapdragon 4s gen 2,4.3,3024,770
+redmi,13 5g,starry black,amazon,19999,11699,8300,42,4,128,6.7,5000,8,50,snapdragon 4s gen 3,4.3,4203,459
+redmi,a4 5g,sparkle purple,amazon,11499,8798,2701,23,4,128,6.6,5000,13,50,snapdragon 4s gen 4,4,2015,1039
