@@ -21,49 +21,6 @@ This repository contains a **production‑ready, reproducible pipeline** that co
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-Mobiles_Discount-Prediction-Streamlit/
-├── data/
-│   ├── raw/
-│   │   ├── flipkart_mobiles_raw.jsonl
-│   │   └── amazon_mobiles_raw.jsonl
-│   ├── interim/
-│   │   ├── flipkart_mobiles_interim.parquet
-│   │   └── amazon_mobiles_interim.parquet
-│   └── processed/
-│       ├── flipkart_mobiles_clean.csv
-│       ├── amazon_mobiles_clean.csv
-│       └── ecommerce_final.csv
-├── notebooks/
-│   └── Mobile_Discount_Price_Prediction.ipynb
-├── src/
-│   ├── scrapers/
-│   │   ├── flipkart_scraper.py
-│   │   └── amazon_scraper.py
-│   ├── data/
-│   │   ├── clean_merge.py
-│   │   └── validate_schema.py
-│   ├── features/
-│   │   └── build_features.py
-│   ├── models/
-│   │   ├── train.py
-│   │   └── evaluate.py
-│   └── app/
-│       └── app.py
-├── tests/
-│   ├── test_schema.py
-│   └── test_utils.py
-├── requirements.txt
-├── environment.yml
-├── Makefile
-├── .env.example
-├── .gitignore
-├── LICENSE
-└── README.md
-```
-
 > The **`notebooks/Mobile_Discount_Price_Prediction.ipynb`** notebook documents EDA, preprocessing decisions, and model experiments.
 
 ---
