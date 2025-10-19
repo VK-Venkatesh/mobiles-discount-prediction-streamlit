@@ -173,6 +173,6 @@ streamlit run src/app/app.py
 Features:
 
 * Filters by brand/specs
-* Visuals (price vs specs, discount distributions)
+* Visuals (discount_price, discount distributions)
 * On‑the‑fly prediction panel
 
