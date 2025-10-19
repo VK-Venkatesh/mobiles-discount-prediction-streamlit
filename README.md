@@ -49,8 +49,9 @@ Each record represents a mobile phone listing. After cleaning, both sources conf
 | `platform`         | category | `flipkart` or `amazon`                               |
 | `url`              | string   | Product detail URL                                   |
 | `scrape_ts`        | datetime | Scrape timestamp (UTC)                               |
+| `discount_price` | float    | Final Price                            |
 
-> **Target(s)** for modeling: `discount_percent` (primary), and optionally `price`.
+> **Target(s)** for modeling: `discount_price` (primary).
 
 ---
 
