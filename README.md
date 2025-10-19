@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This repository contains a **production‑ready, reproducible pipeline** that collects smartphone listings from **Flipkart** and **Amazon** (target: **≥ 500 mobiles per platform**), performs rigorous **data cleaning & validation**, merges both sources into a single **`ecommerce_final.csv`** dataset, and trains a model to **predict discount percentage / deal price**. A minimal **Streamlit app** is included for interactive exploration and inference.
+This repository contains a **production‑ready, reproducible pipeline** that collects smartphone listings from **Flipkart** and **Amazon** (target: **≥ 500 mobiles per platform**), performs rigorous **data cleaning & validation**, merges both sources into a single **`ecommerce_final.csv`** dataset, and trains a model to **predict discount price / deal price**. A minimal **Streamlit app** is included for interactive exploration and inference.
 
 **Core deliverables**
 
@@ -16,7 +16,7 @@ This repository contains a **production‑ready, reproducible pipeline** that co
 * Automated validation (schema + data quality checks)
 * Clean, tidy per‑platform datasets and a unified final dataset
 * EDA notebooks + feature engineering
-* ML pipeline to predict `Discount_%` (and optionally final price)
+* ML pipeline to predict `Discount_Price` (and optionally final Price)
 * Streamlit app to demo predictions
 
 ---
@@ -25,7 +25,7 @@ This repository contains a **production‑ready, reproducible pipeline** that co
 
 ---
 
-## 🧾 Data Dictionary (Unified Schema)
+## 🧾 Data Dictionary
 
 Each record represents a mobile phone listing. After cleaning, both sources conform to **one schema**:
 
