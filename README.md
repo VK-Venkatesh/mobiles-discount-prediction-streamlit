@@ -131,7 +131,7 @@ Use the notebook to explore distributions and relationships:
 * `camera_score = 0.7*rear_cam_mp + 0.3*front_cam_mp`
 * `brand_tier` (A/B/C based on median price)
 * `popularity = log1p(rating_count)`
-* One‑hot encode `platform`, Scaling `brand`, `processor`
+* One‑hot encode `platform`, Target Encodeing `brand`, `processor`
 
 ---
 
