@@ -147,6 +147,24 @@ Goal: **predict `discount_price`** given specs & context.
 * Metrics: **MAE**, **RMSE**, **R²**; calibration plots
 * Persist best model as `artifacts/model.pkl` + `artifacts/preprocess.pkl`
 
+ ## 🧠 Algorithms Used in Discount / Price Modeling
+
+  | #  | Algorithm                               | Type                    | Purpose                                                                             |
+| -- | --------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------- |
+| 1  | **Linear Regression**                   | Supervised (Regression) | Baseline model to predict continuous target like Price or Discount %                |
+| 2  | **Ridge Regression**                    | Regularized Regression  | Handles multicollinearity and prevents overfitting                                  |
+| 3  | **Lasso Regression**                    | Regularized Regression  | Performs feature selection by shrinking less important coefficients to zero         |
+| 4  | **Decision Tree Regressor**             | Non-linear Regression   | Captures non-linear relationships between price and product features                |
+| 5  | **Random Forest Regressor**             | Ensemble (Bagging)      | Improves accuracy by combining multiple decision trees                              |
+| 6  | **Gradient Boosting Regressor**         | Ensemble (Boosting)     | Sequentially improves weak learners for better performance                          |
+| 7  | **XGBoost Regressor**                   | Advanced Boosting       | Highly efficient boosting algorithm, often gives top performance on structured data |
+| 8  | **CatBoost Regressor**                  | Boosting                | Handles categorical variables automatically, very effective for product data        |
+| 9  | **LightGBM Regressor**                  | Boosting                | Fast and memory-efficient gradient boosting, good for large datasets                |
+| 10 | **K-Nearest Neighbors (KNN) Regressor** | Instance-based          | Predicts based on similar historical data points                                    |
+| 11 | **Support Vector Regression (SVR)**     | Kernel-based            | Works well on small- to medium-sized datasets with complex relationships            |
+| 12 | **Neural Network / MLP Regressor**      | Deep Learning           | Learns complex non-linear relationships for price prediction                        |
+
+
 **Train & evaluate**
 
 ```bash
