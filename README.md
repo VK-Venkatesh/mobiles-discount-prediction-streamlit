@@ -16,7 +16,7 @@ This repository contains a **production‑ready, reproducible pipeline** that co
 * Automated validation (schema + data quality checks)
 * Clean, tidy per‑platform datasets and a unified final dataset
 * EDA notebooks + feature engineering
-* ML pipeline to predict `Discount_Price` (and optionally final Price)
+* ML pipeline to predict `Discount_Price`
 * Streamlit app to demo predictions
 
 ---
