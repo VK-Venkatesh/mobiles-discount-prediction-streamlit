@@ -92,7 +92,7 @@ Cleaning and validation bring both sources to the **unified schema** above.
 6. **Deduplication:** Title fingerprinting + key tuple `(brand, model, ram_gb, rom_gb)`.
 7. **Schema Validation:** `pandera`/`pydantic`; optional `Great Expectations` suite.
 8. **Missingness Handling:** Impute or drop based on thresholds; document decisions.
-
+9. **Handleing Unwanted data** Using IsolationForest checking the outlaiers
 **Run cleaning & merge**
 
 ```bash
