@@ -193,4 +193,3 @@ Features:
 * Filters by brand/specs
 * Visuals (discount_price, discount distributions)
 * On‑the‑fly prediction panel
-
